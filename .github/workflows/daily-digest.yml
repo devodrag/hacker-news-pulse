@@ -1,0 +1,45 @@
+name: Hacker News Daily Pulse
+
+on:
+  schedule:
+    # Запуск 2 раза в день: 03:00 UTC и 15:00 UTC
+    - cron: "0 3,15 * * *"
+  workflow_dispatch:
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run HN Pulse Collector
+        run: |
+          python3 main.py
+
+      - name: Commit and Push Updates
+        run: |
+          git config --global user.name "devodrag"
+          git config --global user.email "devodrag@users.noreply.github.com"
+
+          TODAY=$(date +'%Y-%m-%d')
+          
+          if [[ -n $(git status --porcelain archive/) ]]; then
+            git add archive/
+            git commit -m "feat(archive): store HN intelligence digest for ${TODAY}"
+          fi
+
+          if [[ -n $(git status --porcelain README.md) ]]; then
+            git add README.md
+            git commit -m "docs(pulse): refresh top discussions and showcases [${TODAY}]"
+          fi
+
+          git push origin main || git push origin master
