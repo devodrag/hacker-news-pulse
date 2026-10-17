@@ -8,46 +8,46 @@
 
 ### <code>( 01 ) // TOP INTELLIGENCE</code>
 
-- **[Ultramarine 1 Flash](https://www.paperinstruments.com/ultramarine)**
-  `▲ 209 pts` &nbsp;·&nbsp; [💬 62 comments](https://news.ycombinator.com/item?id=50106747) &nbsp;·&nbsp; <sub>by i_rush_carriers</sub>
+- **[GLP-1 may slow biological aging](https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging)**
+  `▲ 106 pts` &nbsp;·&nbsp; [💬 82 comments](https://news.ycombinator.com/item?id=50132328) &nbsp;·&nbsp; <sub>by dzink</sub>
 
-- **[Tesla Roadster](https://www.tesla.com/roadster)**
-  `▲ 1384 pts` &nbsp;·&nbsp; [💬 2436 comments](https://news.ycombinator.com/item?id=50112657) &nbsp;·&nbsp; <sub>by shekhar101</sub>
+- **[Making Chicken Transparent Using Dorito Dust](https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using)**
+  `▲ 136 pts` &nbsp;·&nbsp; [💬 45 comments](https://news.ycombinator.com/item?id=50131213) &nbsp;·&nbsp; <sub>by crescit_eundo</sub>
 
-- **[Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/)**
-  `▲ 45 pts` &nbsp;·&nbsp; [💬 15 comments](https://news.ycombinator.com/item?id=50127979) &nbsp;·&nbsp; <sub>by albinstman</sub>
+- **[DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)**
+  `▲ 444 pts` &nbsp;·&nbsp; [💬 446 comments](https://news.ycombinator.com/item?id=50129045) &nbsp;·&nbsp; <sub>by theykk</sub>
 
-- **[Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](https://github.com/cobanov/PS5LM)**
-  `▲ 272 pts` &nbsp;·&nbsp; [💬 66 comments](https://news.ycombinator.com/item?id=50122431) &nbsp;·&nbsp; <sub>by Anon84</sub>
+- **[Furifont, a Japanese font that shows furigana](https://furifont.antfu.me/)**
+  `▲ 44 pts` &nbsp;·&nbsp; [💬 8 comments](https://news.ycombinator.com/item?id=50100994) &nbsp;·&nbsp; <sub>by plaguna</sub>
 
-- **[Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins)**
-  `▲ 840 pts` &nbsp;·&nbsp; [💬 315 comments](https://news.ycombinator.com/item?id=50122800) &nbsp;·&nbsp; <sub>by ahlCVA</sub>
+- **[Solar surpasses nuclear power globally for first time](https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/)**
+  `▲ 257 pts` &nbsp;·&nbsp; [💬 149 comments](https://news.ycombinator.com/item?id=50131256) &nbsp;·&nbsp; <sub>by xbmcuser</sub>
 
 ---
 
 ### <code>( 02 ) // SHOW HN (NEW TOOLS)</code>
 
 - **[Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/)**
-  `▲ 45 pts` &nbsp;·&nbsp; [💬 15 comments](https://news.ycombinator.com/item?id=50127979) &nbsp;·&nbsp; <sub>by albinstman</sub>
+  `▲ 201 pts` &nbsp;·&nbsp; [💬 66 comments](https://news.ycombinator.com/item?id=50127979) &nbsp;·&nbsp; <sub>by albinstman</sub>
 
-- **[Show HN: Gemini 4 Argon plays StarCraft](https://starskirmish.com/bench/v0-2/)**
-  `▲ 216 pts` &nbsp;·&nbsp; [💬 97 comments](https://news.ycombinator.com/item?id=50118688) &nbsp;·&nbsp; <sub>by __cayenne__</sub>
+- **[Show HN: Esp32sim – Run ESP32 firmware in the browser](https://github.com/mikroverk/esp32sim)**
+  `▲ 44 pts` &nbsp;·&nbsp; [💬 10 comments](https://news.ycombinator.com/item?id=50131189) &nbsp;·&nbsp; <sub>by joakimeriksson</sub>
 
-- **[Show HN: I got tired of btop not seeing my Mac's chip, so I built siltop](https://github.com/CLoaKY233/siltop)**
-  `▲ 2 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50128654) &nbsp;·&nbsp; <sub>by cloaky233</sub>
+- **[Show HN: Atari Gravitar in VR](https://gravitar-vr.github.io)**
+  `▲ 3 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50133075) &nbsp;·&nbsp; <sub>by smoothwater8912</sub>
 
 ---
 
 ### <code>( 03 ) // ASK HN (DISCUSSIONS)</code>
 
-- **[Ask HN: Is anyone still running Token Ring or FDDI networks?](https://news.ycombinator.com/item?id=50126004)**
-  `▲ 9 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50126004) &nbsp;·&nbsp; <sub>by robotnikman</sub>
+- **[Tell HN: Remember to migrate away from .name domain](https://news.ycombinator.com/item?id=50089577)**
+  `▲ 98 pts` &nbsp;·&nbsp; [💬 66 comments](https://news.ycombinator.com/item?id=50089577) &nbsp;·&nbsp; <sub>by nikanj</sub>
 
-- **[Ask HN: CAD for wood working with LLM support?](https://news.ycombinator.com/item?id=50067325)**
-  `▲ 125 pts` &nbsp;·&nbsp; [💬 126 comments](https://news.ycombinator.com/item?id=50067325) &nbsp;·&nbsp; <sub>by reacharavindh</sub>
+- **[Why the Creators of AI Do Not Understand Their Own Creations](https://news.ycombinator.com/item?id=50132747)**
+  `▲ 2 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50132747) &nbsp;·&nbsp; <sub>by borissunik</sub>
 
-- **[Ask HN: For those who left Big Tech for early-stage startups, do you regret it?](https://news.ycombinator.com/item?id=50128234)**
-  `▲ 3 pts` &nbsp;·&nbsp; [💬 1 comments](https://news.ycombinator.com/item?id=50128234) &nbsp;·&nbsp; <sub>by Peaceful-Hours</sub>
+- **[Why do computers/phones have a restart option along with the power off option?](https://news.ycombinator.com/item?id=50132727)**
+  `▲ 2 pts` &nbsp;·&nbsp; [💬 1 comments](https://news.ycombinator.com/item?id=50132727) &nbsp;·&nbsp; <sub>by saonnet</sub>
 
 ---
 
