@@ -1,6 +1,6 @@
 <div align="center">
   <p><code><b>( • ) HACKER NEWS PULSE &nbsp;|&nbsp; AUTOMATED DAILY DIGEST</b></code></p>
-  <h1><b>HN PULSE // 2026-10-17</b></h1>
+  <h1><b>HN PULSE // 2026-10-18</b></h1>
   <p>Curated developer intelligence, trending engineering debates, and community showcases.</p>
 </div>
 
@@ -8,46 +8,46 @@
 
 ### <code>( 01 ) // TOP INTELLIGENCE</code>
 
-- **[GLP-1 may slow biological aging](https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging)**
-  `▲ 106 pts` &nbsp;·&nbsp; [💬 82 comments](https://news.ycombinator.com/item?id=50132328) &nbsp;·&nbsp; <sub>by dzink</sub>
+- **[DeepSeek search and fetch – $0.75 per 1000 successful requests](https://api-docs.deepseek.com/guides/search/)**
+  `▲ 65 pts` &nbsp;·&nbsp; [💬 16 comments](https://news.ycombinator.com/item?id=50138531) &nbsp;·&nbsp; <sub>by fagnerbrack</sub>
 
-- **[Making Chicken Transparent Using Dorito Dust](https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using)**
-  `▲ 136 pts` &nbsp;·&nbsp; [💬 45 comments](https://news.ycombinator.com/item?id=50131213) &nbsp;·&nbsp; <sub>by crescit_eundo</sub>
+- **[Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping](https://sphinx-six-theta.vercel.app/)**
+  `▲ 90 pts` &nbsp;·&nbsp; [💬 25 comments](https://news.ycombinator.com/item?id=50137950) &nbsp;·&nbsp; <sub>by critiquebrowser</sub>
 
-- **[DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)**
-  `▲ 444 pts` &nbsp;·&nbsp; [💬 446 comments](https://news.ycombinator.com/item?id=50129045) &nbsp;·&nbsp; <sub>by theykk</sub>
+- **[How the Elizabeth Holmes documentary “You Can See Everything” is deceiving](https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything)**
+  `▲ 98 pts` &nbsp;·&nbsp; [💬 85 comments](https://news.ycombinator.com/item?id=50137620) &nbsp;·&nbsp; <sub>by MaysonL</sub>
 
-- **[Furifont, a Japanese font that shows furigana](https://furifont.antfu.me/)**
-  `▲ 44 pts` &nbsp;·&nbsp; [💬 8 comments](https://news.ycombinator.com/item?id=50100994) &nbsp;·&nbsp; <sub>by plaguna</sub>
+- **[Bleached corals thrive within days when touching healthy neighbour](https://www.nature.com/articles/d41586-026-03266-x)**
+  `▲ 421 pts` &nbsp;·&nbsp; [💬 96 comments](https://news.ycombinator.com/item?id=50126253) &nbsp;·&nbsp; <sub>by alkyon</sub>
 
-- **[Solar surpasses nuclear power globally for first time](https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/)**
-  `▲ 257 pts` &nbsp;·&nbsp; [💬 149 comments](https://news.ycombinator.com/item?id=50131256) &nbsp;·&nbsp; <sub>by xbmcuser</sub>
+- **[Matthew Prince on why Cloudflare offers a free version and always will (2016)](https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685)**
+  `▲ 69 pts` &nbsp;·&nbsp; [💬 40 comments](https://news.ycombinator.com/item?id=50138087) &nbsp;·&nbsp; <sub>by thatslast</sub>
 
 ---
 
 ### <code>( 02 ) // SHOW HN (NEW TOOLS)</code>
 
-- **[Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/)**
-  `▲ 201 pts` &nbsp;·&nbsp; [💬 66 comments](https://news.ycombinator.com/item?id=50127979) &nbsp;·&nbsp; <sub>by albinstman</sub>
+- **[Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping](https://sphinx-six-theta.vercel.app/)**
+  `▲ 90 pts` &nbsp;·&nbsp; [💬 25 comments](https://news.ycombinator.com/item?id=50137950) &nbsp;·&nbsp; <sub>by critiquebrowser</sub>
 
-- **[Show HN: Esp32sim – Run ESP32 firmware in the browser](https://github.com/mikroverk/esp32sim)**
-  `▲ 44 pts` &nbsp;·&nbsp; [💬 10 comments](https://news.ycombinator.com/item?id=50131189) &nbsp;·&nbsp; <sub>by joakimeriksson</sub>
+- **[Show HN: Fast, secure JSON Formatter with side-by-side JSON diffing](https://instantjsonformatter.com)**
+  `▲ 4 pts` &nbsp;·&nbsp; [💬 2 comments](https://news.ycombinator.com/item?id=50138745) &nbsp;·&nbsp; <sub>by UmangPawar</sub>
 
-- **[Show HN: Atari Gravitar in VR](https://gravitar-vr.github.io)**
-  `▲ 3 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50133075) &nbsp;·&nbsp; <sub>by smoothwater8912</sub>
+- **[Show HN: JSynth – Visual Programming Editor for Julia](https://github.com/ozanbora/JSynth)**
+  `▲ 3 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50138558) &nbsp;·&nbsp; <sub>by ozanbora</sub>
 
 ---
 
 ### <code>( 03 ) // ASK HN (DISCUSSIONS)</code>
 
 - **[Tell HN: Remember to migrate away from .name domain](https://news.ycombinator.com/item?id=50089577)**
-  `▲ 98 pts` &nbsp;·&nbsp; [💬 66 comments](https://news.ycombinator.com/item?id=50089577) &nbsp;·&nbsp; <sub>by nikanj</sub>
+  `▲ 149 pts` &nbsp;·&nbsp; [💬 90 comments](https://news.ycombinator.com/item?id=50089577) &nbsp;·&nbsp; <sub>by nikanj</sub>
 
-- **[Why the Creators of AI Do Not Understand Their Own Creations](https://news.ycombinator.com/item?id=50132747)**
-  `▲ 2 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50132747) &nbsp;·&nbsp; <sub>by borissunik</sub>
+- **[Ask HN: How can we stop UX people from changing UIs to get promotions?](https://news.ycombinator.com/item?id=50137490)**
+  `▲ 4 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50137490) &nbsp;·&nbsp; <sub>by ex-aws-dude</sub>
 
-- **[Why do computers/phones have a restart option along with the power off option?](https://news.ycombinator.com/item?id=50132727)**
-  `▲ 2 pts` &nbsp;·&nbsp; [💬 1 comments](https://news.ycombinator.com/item?id=50132727) &nbsp;·&nbsp; <sub>by saonnet</sub>
+- **[How do you deal with AI Output of your boss?](https://news.ycombinator.com/item?id=50135854)**
+  `▲ 6 pts` &nbsp;·&nbsp; [💬 8 comments](https://news.ycombinator.com/item?id=50135854) &nbsp;·&nbsp; <sub>by okr</sub>
 
 ---
 
