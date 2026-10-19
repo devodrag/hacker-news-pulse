@@ -8,46 +8,46 @@
 
 ### <code>( 01 ) // TOP INTELLIGENCE</code>
 
-- **[Linux 7.3 Released](https://lwn.net/Articles/1101143/)**
-  `▲ 69 pts` &nbsp;·&nbsp; [💬 21 comments](https://news.ycombinator.com/item?id=50149392) &nbsp;·&nbsp; <sub>by cjd8</sub>
+- **[MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f)**
+  `▲ 246 pts` &nbsp;·&nbsp; [💬 94 comments](https://news.ycombinator.com/item?id=50154540) &nbsp;·&nbsp; <sub>by jtg</sub>
 
-- **[Rabbits were a medieval royal luxury in England until the Black Death](https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html)**
-  `▲ 72 pts` &nbsp;·&nbsp; [💬 53 comments](https://news.ycombinator.com/item?id=50131315) &nbsp;·&nbsp; <sub>by samizdis</sub>
+- **[I built a drone with only one motor [video]](https://www.youtube.com/watch?v=Ndftcft6XhU)**
+  `▲ 128 pts` &nbsp;·&nbsp; [💬 18 comments](https://news.ycombinator.com/item?id=50150089) &nbsp;·&nbsp; <sub>by hakonjdjohnsen</sub>
 
-- **[Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861)**
-  `▲ 377 pts` &nbsp;·&nbsp; [💬 180 comments](https://news.ycombinator.com/item?id=50145337) &nbsp;·&nbsp; <sub>by allinonai</sub>
+- **[Wine ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175)**
+  `▲ 421 pts` &nbsp;·&nbsp; [💬 135 comments](https://news.ycombinator.com/item?id=50152307) &nbsp;·&nbsp; <sub>by iamnothere</sub>
 
-- **[William Gibson and the trademarking of cyberspace](https://colo.to/cyberspace.html)**
-  `▲ 175 pts` &nbsp;·&nbsp; [💬 56 comments](https://news.ycombinator.com/item?id=50146625) &nbsp;·&nbsp; <sub>by Eric_Gullichsen</sub>
+- **[Android apps running native on macOS](https://github.com/kksimp/Mac.apk)**
+  `▲ 154 pts` &nbsp;·&nbsp; [💬 48 comments](https://news.ycombinator.com/item?id=50154624) &nbsp;·&nbsp; <sub>by flocked</sub>
 
-- **[There's never been a better time to go into math (by: 3blue1brown) [video]](https://www.youtube.com/watch?v=LKrwhjOI8Nc)**
-  `▲ 352 pts` &nbsp;·&nbsp; [💬 412 comments](https://news.ycombinator.com/item?id=50136150) &nbsp;·&nbsp; <sub>by mdp2021</sub>
+- **[The reverts will continue until morale improves](http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves)**
+  `▲ 48 pts` &nbsp;·&nbsp; [💬 5 comments](https://news.ycombinator.com/item?id=50156206) &nbsp;·&nbsp; <sub>by hans_castorp</sub>
 
 ---
 
 ### <code>( 02 ) // SHOW HN (NEW TOOLS)</code>
 
-- **[Show HN: WhatsApp MCP running free on Cloudflare](https://github.com/finereli/whatsapp-mcp)**
-  `▲ 98 pts` &nbsp;·&nbsp; [💬 48 comments](https://news.ycombinator.com/item?id=50145715) &nbsp;·&nbsp; <sub>by zoozla</sub>
+- **[Show HN: Open-source early-reading reader with phonics help](https://github.com/finereli/yarareads)**
+  `▲ 15 pts` &nbsp;·&nbsp; [💬 2 comments](https://news.ycombinator.com/item?id=50155647) &nbsp;·&nbsp; <sub>by zoozla</sub>
 
-- **[Show HN: The Zelda timeline to catch up before the Ocarina of Time remake](https://legendofhyrule.com/)**
-  `▲ 181 pts` &nbsp;·&nbsp; [💬 108 comments](https://news.ycombinator.com/item?id=50140769) &nbsp;·&nbsp; <sub>by jsomau</sub>
+- **[Show HN: I built a task system to handle the drudgery so I could focus on tasks](https://3anddoneapp.com/try)**
+  `▲ 34 pts` &nbsp;·&nbsp; [💬 34 comments](https://news.ycombinator.com/item?id=50151980) &nbsp;·&nbsp; <sub>by dmayle</sub>
 
-- **[Show HN: Yila – A Codex for Scientific Research](https://yila.ai)**
-  `▲ 7 pts` &nbsp;·&nbsp; [💬 4 comments](https://news.ycombinator.com/item?id=50148356) &nbsp;·&nbsp; <sub>by blacktechnology</sub>
+- **[Show HN: KiviDB, a faster Redis-compatible memory database and vector cache](https://github.com/kividbio/kividb)**
+  `▲ 59 pts` &nbsp;·&nbsp; [💬 38 comments](https://news.ycombinator.com/item?id=50152541) &nbsp;·&nbsp; <sub>by murtazayusuf</sub>
 
 ---
 
 ### <code>( 03 ) // ASK HN (DISCUSSIONS)</code>
 
-- **[Tell HN: Remember to migrate away from .name domain](https://news.ycombinator.com/item?id=50089577)**
-  `▲ 163 pts` &nbsp;·&nbsp; [💬 113 comments](https://news.ycombinator.com/item?id=50089577) &nbsp;·&nbsp; <sub>by nikanj</sub>
+- **[Ask HN: How to deal with shipping AI-written code you don't understand?](https://news.ycombinator.com/item?id=50151036)**
+  `▲ 82 pts` &nbsp;·&nbsp; [💬 143 comments](https://news.ycombinator.com/item?id=50151036) &nbsp;·&nbsp; <sub>by rzk</sub>
 
-- **[Ask HN: New Outlook` sends everything through Microsoft Servers](https://news.ycombinator.com/item?id=50148226)**
-  `▲ 2 pts` &nbsp;·&nbsp; [💬 2 comments](https://news.ycombinator.com/item?id=50148226) &nbsp;·&nbsp; <sub>by NicoJuicy</sub>
+- **[Ask HN: Why can't Ukraine use LoRA instead of Starshield?](https://news.ycombinator.com/item?id=50156330)**
+  `▲ 2 pts` &nbsp;·&nbsp; [💬 4 comments](https://news.ycombinator.com/item?id=50156330) &nbsp;·&nbsp; <sub>by xrd</sub>
 
 - **[Ask HN: How do you deal with AI output of your boss?](https://news.ycombinator.com/item?id=50135854)**
-  `▲ 14 pts` &nbsp;·&nbsp; [💬 12 comments](https://news.ycombinator.com/item?id=50135854) &nbsp;·&nbsp; <sub>by okr</sub>
+  `▲ 15 pts` &nbsp;·&nbsp; [💬 14 comments](https://news.ycombinator.com/item?id=50135854) &nbsp;·&nbsp; <sub>by okr</sub>
 
 ---
 
