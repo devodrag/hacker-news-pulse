@@ -8,46 +8,46 @@
 
 ### <code>( 01 ) // TOP INTELLIGENCE</code>
 
-- **[Nordwand Mono – A monospace font for coders and adventurers](https://github.com/tywr/Nordwand-Mono)**
-  `▲ 163 pts` &nbsp;·&nbsp; [💬 38 comments](https://news.ycombinator.com/item?id=50141581) &nbsp;·&nbsp; <sub>by noriax86</sub>
+- **[Voxtral 3](https://mistral.ai/news/voxtral-3/)**
+  `▲ 291 pts` &nbsp;·&nbsp; [💬 76 comments](https://news.ycombinator.com/item?id=50168396) &nbsp;·&nbsp; <sub>by ilreb</sub>
 
-- **[OpenBSD 8.0](https://www.openbsd.org/80.html)**
-  `▲ 251 pts` &nbsp;·&nbsp; [💬 71 comments](https://news.ycombinator.com/item?id=50160494) &nbsp;·&nbsp; <sub>by privong</sub>
+- **[DeepInfer: High-performance inference framework for DeepSeek models](https://github.com/deepseek-ai/DeepInfer)**
+  `▲ 1919 pts` &nbsp;·&nbsp; [💬 744 comments](https://news.ycombinator.com/item?id=50163277) &nbsp;·&nbsp; <sub>by ggcr</sub>
 
-- **[WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions)**
-  `▲ 369 pts` &nbsp;·&nbsp; [💬 88 comments](https://news.ycombinator.com/item?id=50159341) &nbsp;·&nbsp; <sub>by ds</sub>
+- **[Google open-sources TorchTPU, a native PyTorch back end for TPUs](https://github.com/google-pytorch/torch_tpu)**
+  `▲ 108 pts` &nbsp;·&nbsp; [💬 28 comments](https://news.ycombinator.com/item?id=50169053) &nbsp;·&nbsp; <sub>by ilreb</sub>
 
-- **[Restoration of Retinal Regenerative Potential](https://www.nature.com/articles/s41467-025-58290-8)**
-  `▲ 31 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50140111) &nbsp;·&nbsp; <sub>by Kaibeezy</sub>
+- **[EMudhra Intermediate CA Compromise](https://emudhra.we-have-a-problem.com/)**
+  `▲ 334 pts` &nbsp;·&nbsp; [💬 167 comments](https://news.ycombinator.com/item?id=50166579) &nbsp;·&nbsp; <sub>by galadran</sub>
 
-- **[MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f)**
-  `▲ 456 pts` &nbsp;·&nbsp; [💬 193 comments](https://news.ycombinator.com/item?id=50154540) &nbsp;·&nbsp; <sub>by jtg</sub>
+- **[Ofcom concedes defeat in 4chan case](https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/)**
+  `▲ 179 pts` &nbsp;·&nbsp; [💬 95 comments](https://news.ycombinator.com/item?id=50167028) &nbsp;·&nbsp; <sub>by iamnothere</sub>
 
 ---
 
 ### <code>( 02 ) // SHOW HN (NEW TOOLS)</code>
 
-- **[Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs](https://deathplanswitch.com/)**
-  `▲ 56 pts` &nbsp;·&nbsp; [💬 45 comments](https://news.ycombinator.com/item?id=50161408) &nbsp;·&nbsp; <sub>by romeo19361</sub>
+- **[Show HN: Penmentor – Claude marks up your handwritten math like a teacher](https://github.com/AbdullahAlhariri/penmentor)**
+  `▲ 38 pts` &nbsp;·&nbsp; [💬 2 comments](https://news.ycombinator.com/item?id=50167604) &nbsp;·&nbsp; <sub>by abdullahalharir</sub>
 
-- **[Show HN: I made the most simple pie chart maker](https://www.createpiechart.com/)**
-  `▲ 3 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50161940) &nbsp;·&nbsp; <sub>by atharvtathe</sub>
+- **[Show HN: Jev Cards, Can you beat a vision model at a picture quiz?](https://jevcards.com)**
+  `▲ 50 pts` &nbsp;·&nbsp; [💬 38 comments](https://news.ycombinator.com/item?id=50167617) &nbsp;·&nbsp; <sub>by totisjosema</sub>
 
-- **[Show HN: Lights-on software factory boilerplate for Claude Code](https://github.com/gojko/lights-on-software-factory)**
-  `▲ 11 pts` &nbsp;·&nbsp; [💬 2 comments](https://news.ycombinator.com/item?id=50160198) &nbsp;·&nbsp; <sub>by gojkoa</sub>
+- **[Show HN: Clerkenwell – A Handwritten Clojure Notebook](https://handwritten.danieljanus.pl/2026-10-20-clerkenwell.html)**
+  `▲ 12 pts` &nbsp;·&nbsp; [💬 1 comments](https://news.ycombinator.com/item?id=50167657) &nbsp;·&nbsp; <sub>by nathell</sub>
 
 ---
 
 ### <code>( 03 ) // ASK HN (DISCUSSIONS)</code>
 
+- **[Ask HN: Time to read those programming books?](https://news.ycombinator.com/item?id=50170094)**
+  `▲ 3 pts` &nbsp;·&nbsp; [💬 4 comments](https://news.ycombinator.com/item?id=50170094) &nbsp;·&nbsp; <sub>by blinkbat</sub>
+
 - **[Ask HN: How to deal with shipping AI-written code you don't understand?](https://news.ycombinator.com/item?id=50151036)**
-  `▲ 413 pts` &nbsp;·&nbsp; [💬 555 comments](https://news.ycombinator.com/item?id=50151036) &nbsp;·&nbsp; <sub>by rzk</sub>
+  `▲ 568 pts` &nbsp;·&nbsp; [💬 679 comments](https://news.ycombinator.com/item?id=50151036) &nbsp;·&nbsp; <sub>by rzk</sub>
 
-- **[Triplet of 'Ghostly' Galaxies Hints at What Dark Matter Is – and Isn't](https://news.ycombinator.com/item?id=50131997)**
-  `▲ 22 pts` &nbsp;·&nbsp; [💬 4 comments](https://news.ycombinator.com/item?id=50131997) &nbsp;·&nbsp; <sub>by gumby</sub>
-
-- **[Ask HN: How to get the most intelligence out of your agents?](https://news.ycombinator.com/item?id=50161627)**
-  `▲ 5 pts` &nbsp;·&nbsp; [💬 11 comments](https://news.ycombinator.com/item?id=50161627) &nbsp;·&nbsp; <sub>by thechairman12</sub>
+- **[Ask HN: My Gemini bill shot up suddenly to 2500 USD in one day](https://news.ycombinator.com/item?id=50168795)**
+  `▲ 7 pts` &nbsp;·&nbsp; [💬 1 comments](https://news.ycombinator.com/item?id=50168795) &nbsp;·&nbsp; <sub>by kinj28</sub>
 
 ---
 
