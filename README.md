@@ -8,46 +8,46 @@
 
 ### <code>( 01 ) // TOP INTELLIGENCE</code>
 
-- **[OpenAI CLI](https://github.com/openai/openai-cli)**
-  `▲ 83 pts` &nbsp;·&nbsp; [💬 54 comments](https://news.ycombinator.com/item?id=50191507) &nbsp;·&nbsp; <sub>by armcat</sub>
+- **[Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/)**
+  `▲ 530 pts` &nbsp;·&nbsp; [💬 187 comments](https://news.ycombinator.com/item?id=50195959) &nbsp;·&nbsp; <sub>by farrokhi</sub>
 
-- **[WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/)**
-  `▲ 131 pts` &nbsp;·&nbsp; [💬 45 comments](https://news.ycombinator.com/item?id=50190363) &nbsp;·&nbsp; <sub>by alphax314</sub>
+- **[eMudhra to exit global SSL/TLS certificate business](https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business)**
+  `▲ 704 pts` &nbsp;·&nbsp; [💬 503 comments](https://news.ycombinator.com/item?id=50195110) &nbsp;·&nbsp; <sub>by bo0tzz</sub>
 
-- **[The recently proposed o(n log n) integer multiplication algorithm [pdf]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf)**
-  `▲ 179 pts` &nbsp;·&nbsp; [💬 107 comments](https://news.ycombinator.com/item?id=50190455) &nbsp;·&nbsp; <sub>by craigcitro</sub>
+- **[Nvidia OpenShell](https://github.com/NVIDIA/OpenShell)**
+  `▲ 69 pts` &nbsp;·&nbsp; [💬 34 comments](https://news.ycombinator.com/item?id=50198675) &nbsp;·&nbsp; <sub>by niemandhier</sub>
 
-- **[There isn't an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/)**
-  `▲ 485 pts` &nbsp;·&nbsp; [💬 274 comments](https://news.ycombinator.com/item?id=50188948) &nbsp;·&nbsp; <sub>by zkldi</sub>
+- **[Show HN: Run full iOS 16.5 firmware on Android Devices](https://github.com/oosexgang/hackios-xnu-kernel)**
+  `▲ 167 pts` &nbsp;·&nbsp; [💬 57 comments](https://news.ycombinator.com/item?id=50196718) &nbsp;·&nbsp; <sub>by aghuang</sub>
 
-- **[A Markdown File Should Just Open](https://joshuamorris.info/notes/2026/10/13/a-markdown-file-should-just-open/)**
-  `▲ 14 pts` &nbsp;·&nbsp; [💬 7 comments](https://news.ycombinator.com/item?id=50192254) &nbsp;·&nbsp; <sub>by TheWoollyBully</sub>
+- **[Getting ready to operate GNU Taler in Germany](https://www.taler.net/en/news/2026-13.html)**
+  `▲ 93 pts` &nbsp;·&nbsp; [💬 30 comments](https://news.ycombinator.com/item?id=50197404) &nbsp;·&nbsp; <sub>by dewey</sub>
 
 ---
 
 ### <code>( 02 ) // SHOW HN (NEW TOOLS)</code>
 
-- **[Show HN: Omnara – Open-source alternative to Claude Managed Agents](https://github.com/omnara-ai/omnara)**
-  `▲ 70 pts` &nbsp;·&nbsp; [💬 23 comments](https://news.ycombinator.com/item?id=50183892) &nbsp;·&nbsp; <sub>by kmansm27</sub>
+- **[Show HN: Run full iOS 16.5 firmware on Android Devices](https://github.com/oosexgang/hackios-xnu-kernel)**
+  `▲ 167 pts` &nbsp;·&nbsp; [💬 57 comments](https://news.ycombinator.com/item?id=50196718) &nbsp;·&nbsp; <sub>by aghuang</sub>
 
-- **[Show HN: AI-built browser games, collected in one place](https://playgroundarcade.com/)**
-  `▲ 26 pts` &nbsp;·&nbsp; [💬 1 comments](https://news.ycombinator.com/item?id=50168142) &nbsp;·&nbsp; <sub>by richleigh</sub>
+- **[Show HN: UI micro interactions prompts for AI](https://www.typeui.sh/micro-interactions)**
+  `▲ 11 pts` &nbsp;·&nbsp; [💬 1 comments](https://news.ycombinator.com/item?id=50199290) &nbsp;·&nbsp; <sub>by elwingo1</sub>
 
-- **[Show HN:Odd Orbit, live 3D globe of quakes, weather, satellites and UFO reports](https://oddorbit.app/)**
-  `▲ 5 pts` &nbsp;·&nbsp; [💬 3 comments](https://news.ycombinator.com/item?id=50179168) &nbsp;·&nbsp; <sub>by oddorbitapp</sub>
+- **[Show HN: agent-usage-guard – a Claude Code mod to protect your usage window](https://github.com/rbartoli/agent-usage-guard)**
+  `▲ 8 pts` &nbsp;·&nbsp; [💬 6 comments](https://news.ycombinator.com/item?id=50198936) &nbsp;·&nbsp; <sub>by zzyyxx332211</sub>
 
 ---
 
 ### <code>( 03 ) // ASK HN (DISCUSSIONS)</code>
 
-- **[Ask HN: How has your company adapted interviews in the AI world?](https://news.ycombinator.com/item?id=50191025)**
-  `▲ 3 pts` &nbsp;·&nbsp; [💬 1 comments](https://news.ycombinator.com/item?id=50191025) &nbsp;·&nbsp; <sub>by parthdesai</sub>
+- **[Biggest pet peeve of FPGA toolchains](https://news.ycombinator.com/item?id=50199334)**
+  `▲ 2 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50199334) &nbsp;·&nbsp; <sub>by vWijdaan</sub>
 
-- **[Tell HN: 2x PHP RCE CVEs with CVSS 10.0 Incoming](https://news.ycombinator.com/item?id=50167754)**
-  `▲ 275 pts` &nbsp;·&nbsp; [💬 61 comments](https://news.ycombinator.com/item?id=50167754) &nbsp;·&nbsp; <sub>by petecooper</sub>
+- **[Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.](https://news.ycombinator.com/item?id=50193416)**
+  `▲ 91 pts` &nbsp;·&nbsp; [💬 16 comments](https://news.ycombinator.com/item?id=50193416) &nbsp;·&nbsp; <sub>by petecooper</sub>
 
-- **[Ask HN: How to deal with shipping AI-written code you don't understand?](https://news.ycombinator.com/item?id=50151036)**
-  `▲ 605 pts` &nbsp;·&nbsp; [💬 741 comments](https://news.ycombinator.com/item?id=50151036) &nbsp;·&nbsp; <sub>by rzk</sub>
+- **[Ask HN: Which AI Security tool do you use and why for your repositories?](https://news.ycombinator.com/item?id=50196829)**
+  `▲ 2 pts` &nbsp;·&nbsp; [💬 1 comments](https://news.ycombinator.com/item?id=50196829) &nbsp;·&nbsp; <sub>by BehanPrW</sub>
 
 ---
 
