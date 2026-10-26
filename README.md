@@ -8,46 +8,46 @@
 
 ### <code>( 01 ) // TOP INTELLIGENCE</code>
 
-- **[Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/)**
-  `▲ 193 pts` &nbsp;·&nbsp; [💬 28 comments](https://news.ycombinator.com/item?id=50238708) &nbsp;·&nbsp; <sub>by davidbarker</sub>
+- **[Type Server Protocol](https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md)**
+  `▲ 111 pts` &nbsp;·&nbsp; [💬 61 comments](https://news.ycombinator.com/item?id=50248371) &nbsp;·&nbsp; <sub>by adamnemecek</sub>
 
-- **[The result of the C++26 DIS ballot](https://train-it.eu/blog/cpp26-contracts-the-ballot-result/)**
-  `▲ 31 pts` &nbsp;·&nbsp; [💬 7 comments](https://news.ycombinator.com/item?id=50239748) &nbsp;·&nbsp; <sub>by uasi</sub>
+- **[Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models)**
+  `▲ 409 pts` &nbsp;·&nbsp; [💬 54 comments](https://news.ycombinator.com/item?id=50245138) &nbsp;·&nbsp; <sub>by sgiannopoulos</sub>
 
-- **[PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP](https://github.com/KrushnaVardhanReddy/PaperPilot)**
-  `▲ 116 pts` &nbsp;·&nbsp; [💬 28 comments](https://news.ycombinator.com/item?id=50238739) &nbsp;·&nbsp; <sub>by vardhan1237</sub>
+- **[Oldest GUI application that still runs on Windows 11](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/)**
+  `▲ 109 pts` &nbsp;·&nbsp; [💬 42 comments](https://news.ycombinator.com/item?id=50248055) &nbsp;·&nbsp; <sub>by enlyth</sub>
 
-- **[Behind the scenes at the NeXT Computer office](https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry)**
-  `▲ 91 pts` &nbsp;·&nbsp; [💬 40 comments](https://news.ycombinator.com/item?id=50238763) &nbsp;·&nbsp; <sub>by Austin_Conlon</sub>
+- **[CSS-Tricks has a new owner](https://css-tricks.com/css-tricks-has-a-new-owner/)**
+  `▲ 275 pts` &nbsp;·&nbsp; [💬 62 comments](https://news.ycombinator.com/item?id=50245831) &nbsp;·&nbsp; <sub>by edent</sub>
 
-- **[Growing Trees](https://brashandplucky.com/2026/10/15/growing-trees.html)**
-  `▲ 30 pts` &nbsp;·&nbsp; [💬 1 comments](https://news.ycombinator.com/item?id=50209278) &nbsp;·&nbsp; <sub>by ibobev</sub>
+- **[GPT-6.1 Terra](https://openai.com/index/introducing-gpt-6-1-terra/)**
+  `▲ 308 pts` &nbsp;·&nbsp; [💬 163 comments](https://news.ycombinator.com/item?id=50248124) &nbsp;·&nbsp; <sub>by meetpateltech</sub>
 
 ---
 
 ### <code>( 02 ) // SHOW HN (NEW TOOLS)</code>
 
-- **[Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/)**
-  `▲ 193 pts` &nbsp;·&nbsp; [💬 28 comments](https://news.ycombinator.com/item?id=50238708) &nbsp;·&nbsp; <sub>by davidbarker</sub>
+- **[Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT](https://github.com/FrigadeHQ/hob)**
+  `▲ 5 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50246238) &nbsp;·&nbsp; <sub>by pancomplex</sub>
 
-- **[Show HN: A Truly Modular Keyboard](https://github.com/notaroomba/keybytes)**
-  `▲ 130 pts` &nbsp;·&nbsp; [💬 37 comments](https://news.ycombinator.com/item?id=50228115) &nbsp;·&nbsp; <sub>by NotARoomba</sub>
+- **[Show HN: Glider 4.0 Unofficial Web Edition (Mac game port)](https://dbohdan.github.io/glider/)**
+  `▲ 7 pts` &nbsp;·&nbsp; [💬 1 comments](https://news.ycombinator.com/item?id=50237019) &nbsp;·&nbsp; <sub>by networked</sub>
 
-- **[Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git](https://adrs.systems)**
-  `▲ 42 pts` &nbsp;·&nbsp; [💬 20 comments](https://news.ycombinator.com/item?id=50227041) &nbsp;·&nbsp; <sub>by lumbroso</sub>
+- **[Show HN: Claude Plays the Piano from Braille](https://github.com/chris-mccoy/gottschalk-tarantelle)**
+  `▲ 2 pts` &nbsp;·&nbsp; [💬 1 comments](https://news.ycombinator.com/item?id=50250055) &nbsp;·&nbsp; <sub>by mccoyc</sub>
 
 ---
 
 ### <code>( 03 ) // ASK HN (DISCUSSIONS)</code>
 
-- **[Ask HN: Is it not possible to enroll for Apple Developer anymore?](https://news.ycombinator.com/item?id=50237680)**
-  `▲ 20 pts` &nbsp;·&nbsp; [💬 8 comments](https://news.ycombinator.com/item?id=50237680) &nbsp;·&nbsp; <sub>by olalonde</sub>
+- **[Ask HN: Do you still read clean code and software architecture books?](https://news.ycombinator.com/item?id=50248168)**
+  `▲ 5 pts` &nbsp;·&nbsp; [💬 4 comments](https://news.ycombinator.com/item?id=50248168) &nbsp;·&nbsp; <sub>by pelcg</sub>
 
 - **[Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?](https://news.ycombinator.com/item?id=50200997)**
-  `▲ 672 pts` &nbsp;·&nbsp; [💬 744 comments](https://news.ycombinator.com/item?id=50200997) &nbsp;·&nbsp; <sub>by ex-aws-dude</sub>
+  `▲ 677 pts` &nbsp;·&nbsp; [💬 750 comments](https://news.ycombinator.com/item?id=50200997) &nbsp;·&nbsp; <sub>by ex-aws-dude</sub>
 
-- **[Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry](https://news.ycombinator.com/item?id=50193416)**
-  `▲ 745 pts` &nbsp;·&nbsp; [💬 268 comments](https://news.ycombinator.com/item?id=50193416) &nbsp;·&nbsp; <sub>by petecooper</sub>
+- **[Ask HN: Is it not possible to enroll for Apple Developer anymore?](https://news.ycombinator.com/item?id=50237680)**
+  `▲ 31 pts` &nbsp;·&nbsp; [💬 12 comments](https://news.ycombinator.com/item?id=50237680) &nbsp;·&nbsp; <sub>by olalonde</sub>
 
 ---
 
