@@ -8,46 +8,46 @@
 
 ### <code>( 01 ) // TOP INTELLIGENCE</code>
 
-- **[Three new discoveries in mathematics, computer science, and physics](https://openai.com/index/building-scientific-understanding-with-academic-communities/)**
-  `▲ 846 pts` &nbsp;·&nbsp; [💬 373 comments](https://news.ycombinator.com/item?id=50251344) &nbsp;·&nbsp; <sub>by jonluca</sub>
+- **[Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)**
+  `▲ 453 pts` &nbsp;·&nbsp; [💬 260 comments](https://news.ycombinator.com/item?id=50261319) &nbsp;·&nbsp; <sub>by acossta</sub>
 
-- **[The Mythical Man-Month in the Age of AI](https://j11g.com/the-mythical-man-month-in-the-age-of-ai)**
-  `▲ 77 pts` &nbsp;·&nbsp; [💬 60 comments](https://news.ycombinator.com/item?id=50255298) &nbsp;·&nbsp; <sub>by ilreb</sub>
+- **[Ghostty 1.4.0](https://ghostty.org/docs/install/release-notes/1-4-0)**
+  `▲ 355 pts` &nbsp;·&nbsp; [💬 117 comments](https://news.ycombinator.com/item?id=50261998) &nbsp;·&nbsp; <sub>by deaux</sub>
 
-- **[The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf)**
-  `▲ 598 pts` &nbsp;·&nbsp; [💬 210 comments](https://news.ycombinator.com/item?id=50251661) &nbsp;·&nbsp; <sub>by vok</sub>
+- **[New 14‑inch MacBook Pro with M6](https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/)**
+  `▲ 140 pts` &nbsp;·&nbsp; [💬 146 comments](https://news.ycombinator.com/item?id=50261352) &nbsp;·&nbsp; <sub>by beex</sub>
 
-- **[New 'Circadian' Subtype of Depression Affecting 1 in 4 Patients](https://www.sciencealert.com/researchers-identify-new-circadian-subtype-of-depression-affecting-1-in-4-patients)**
-  `▲ 32 pts` &nbsp;·&nbsp; [💬 10 comments](https://news.ycombinator.com/item?id=50196212) &nbsp;·&nbsp; <sub>by gmays</sub>
+- **[Three TLS Bugs in GoAhead](https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead)**
+  `▲ 20 pts` &nbsp;·&nbsp; [💬 2 comments](https://news.ycombinator.com/item?id=50263701) &nbsp;·&nbsp; <sub>by owenshen24</sub>
 
-- **[Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models)**
-  `▲ 691 pts` &nbsp;·&nbsp; [💬 94 comments](https://news.ycombinator.com/item?id=50245138) &nbsp;·&nbsp; <sub>by sgiannopoulos</sub>
+- **[Classification of Finite Simple Groups Formalized in Lean](https://cfsg.axiommath.ai/)**
+  `▲ 93 pts` &nbsp;·&nbsp; [💬 25 comments](https://news.ycombinator.com/item?id=50261647) &nbsp;·&nbsp; <sub>by pfdietz</sub>
 
 ---
 
 ### <code>( 02 ) // SHOW HN (NEW TOOLS)</code>
 
-- **[Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT](https://github.com/FrigadeHQ/hob)**
-  `▲ 142 pts` &nbsp;·&nbsp; [💬 33 comments](https://news.ycombinator.com/item?id=50246238) &nbsp;·&nbsp; <sub>by pancomplex</sub>
+- **[Show HN: Specification First Agentic Development Plugin and Prove](https://spec-first.dev/)**
+  `▲ 18 pts` &nbsp;·&nbsp; [💬 6 comments](https://news.ycombinator.com/item?id=50260571) &nbsp;·&nbsp; <sub>by hleichsenring</sub>
 
-- **[Show HN: A Truly Modular Keyboard](https://github.com/notaroomba/keybytes)**
-  `▲ 290 pts` &nbsp;·&nbsp; [💬 105 comments](https://news.ycombinator.com/item?id=50228115) &nbsp;·&nbsp; <sub>by NotARoomba</sub>
+- **[Show HN: Filmcraft – Free online video editor, color and audio tools](https://filmcraft.tools/)**
+  `▲ 2 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50264265) &nbsp;·&nbsp; <sub>by vantareed</sub>
 
-- **[Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/)**
-  `▲ 391 pts` &nbsp;·&nbsp; [💬 78 comments](https://news.ycombinator.com/item?id=50238708) &nbsp;·&nbsp; <sub>by davidbarker</sub>
+- **[Show HN: Jog – GitHub runners for 80% less](https://usejog.com/)**
+  `▲ 5 pts` &nbsp;·&nbsp; [💬 2 comments](https://news.ycombinator.com/item?id=50263941) &nbsp;·&nbsp; <sub>by matthewgapp</sub>
 
 ---
 
 ### <code>( 03 ) // ASK HN (DISCUSSIONS)</code>
 
-- **[Why remote roles are becoming extinct in 2026?](https://news.ycombinator.com/item?id=50255318)**
-  `▲ 2 pts` &nbsp;·&nbsp; [💬 6 comments](https://news.ycombinator.com/item?id=50255318) &nbsp;·&nbsp; <sub>by rohansrma</sub>
+- **[DietPi v10.8 has been released](https://news.ycombinator.com/item?id=50260146)**
+  `▲ 12 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50260146) &nbsp;·&nbsp; <sub>by stephanstsdietp</sub>
 
-- **[Looking for a tech job is a helpless data-entry nightmare](https://news.ycombinator.com/item?id=50254873)**
-  `▲ 7 pts` &nbsp;·&nbsp; [💬 3 comments](https://news.ycombinator.com/item?id=50254873) &nbsp;·&nbsp; <sub>by Gravyness</sub>
+- **[Slow Cloudflare Connections](https://news.ycombinator.com/item?id=50261688)**
+  `▲ 2 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50261688) &nbsp;·&nbsp; <sub>by bryonyoni</sub>
 
-- **[Tech market feels like a data entry job](https://news.ycombinator.com/item?id=50254751)**
-  `▲ 4 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50254751) &nbsp;·&nbsp; <sub>by Gravyness</sub>
+- **[Necro-Economics Eyal Weizman](https://news.ycombinator.com/item?id=50264163)**
+  `▲ 4 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50264163) &nbsp;·&nbsp; <sub>by abdelhousni</sub>
 
 ---
 
