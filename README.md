@@ -8,46 +8,46 @@
 
 ### <code>( 01 ) // TOP INTELLIGENCE</code>
 
-- **[Git for the US Code](https://lexifina.com/blog/git-for-the-us-code)**
-  `▲ 252 pts` &nbsp;·&nbsp; [💬 122 comments](https://news.ycombinator.com/item?id=50268380) &nbsp;·&nbsp; <sub>by alansaber</sub>
+- **[Why Is This Fingerprinting Script Creating Bioweapons?](https://nullpt.rs/fingerprinting-bioweapons)**
+  `▲ 234 pts` &nbsp;·&nbsp; [💬 43 comments](https://news.ycombinator.com/item?id=50276998) &nbsp;·&nbsp; <sub>by hazebooth</sub>
 
-- **[Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)**
-  `▲ 884 pts` &nbsp;·&nbsp; [💬 507 comments](https://news.ycombinator.com/item?id=50261319) &nbsp;·&nbsp; <sub>by acossta</sub>
+- **[Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/)**
+  `▲ 544 pts` &nbsp;·&nbsp; [💬 458 comments](https://news.ycombinator.com/item?id=50276792) &nbsp;·&nbsp; <sub>by acossta</sub>
 
-- **[Ghostty 1.4](https://ghostty.org/docs/install/release-notes/1-4-0)**
-  `▲ 1001 pts` &nbsp;·&nbsp; [💬 318 comments](https://news.ycombinator.com/item?id=50261998) &nbsp;·&nbsp; <sub>by deaux</sub>
+- **[CNC Stone Carving](https://carmelitegothic.com/cnc-stone-carving/)**
+  `▲ 298 pts` &nbsp;·&nbsp; [💬 102 comments](https://news.ycombinator.com/item?id=50274409) &nbsp;·&nbsp; <sub>by bschne</sub>
 
-- **[Ink droplets in motion snag top prize in Nikon Small World contest](https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/)**
-  `▲ 223 pts` &nbsp;·&nbsp; [💬 36 comments](https://news.ycombinator.com/item?id=50234796) &nbsp;·&nbsp; <sub>by _Microft</sub>
+- **[MacBook Pro with PROLED XDR Display and Touch](https://www.apple.com/macbook-pro/proled-xdr-display/)**
+  `▲ 339 pts` &nbsp;·&nbsp; [💬 571 comments](https://news.ycombinator.com/item?id=50276940) &nbsp;·&nbsp; <sub>by etothet</sub>
 
-- **[Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm)**
-  `▲ 337 pts` &nbsp;·&nbsp; [💬 138 comments](https://news.ycombinator.com/item?id=50264853) &nbsp;·&nbsp; <sub>by Luc</sub>
+- **[Dayjob: Tax – evaluating AI agents on 50 professional tax assignments](https://surgehq.ai/blog/dayjob-tax)**
+  `▲ 125 pts` &nbsp;·&nbsp; [💬 76 comments](https://news.ycombinator.com/item?id=50275626) &nbsp;·&nbsp; <sub>by landonxi</sub>
 
 ---
 
 ### <code>( 02 ) // SHOW HN (NEW TOOLS)</code>
 
-- **[Show HN: A Lego-like composable Framework for RSI](https://rsi-gear.github.io/)**
-  `▲ 13 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50270229) &nbsp;·&nbsp; <sub>by ethan1998</sub>
+- **[Show HN: SlideBySide – Present slides without sharing your screen](https://slidebyside.com/)**
+  `▲ 32 pts` &nbsp;·&nbsp; [💬 18 comments](https://news.ycombinator.com/item?id=50276883) &nbsp;·&nbsp; <sub>by denismenace</sub>
 
-- **[Show HN: Encarta 95 Web](https://benwinding.github.io/encarta_95_web/#/article/Art)**
-  `▲ 134 pts` &nbsp;·&nbsp; [💬 62 comments](https://news.ycombinator.com/item?id=50218975) &nbsp;·&nbsp; <sub>by gitgud</sub>
+- **[Show HN: Measuring how much of an AI-assisted design is yours](https://claude.ai/artifact/Xxm7H6eLCKgoxJVrSqTigH)**
+  `▲ 3 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50278863) &nbsp;·&nbsp; <sub>by arian_</sub>
 
-- **[Show HN: Specification First Agentic Development Plugin and Prove](https://spec-first.dev/)**
-  `▲ 30 pts` &nbsp;·&nbsp; [💬 26 comments](https://news.ycombinator.com/item?id=50260571) &nbsp;·&nbsp; <sub>by hleichsenring</sub>
+- **[Show HN: A proof-of-concept formalization of the IRS federal tax forms](https://github.com/emmilco/us-tax-model)**
+  `▲ 3 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50278678) &nbsp;·&nbsp; <sub>by RGS1811</sub>
 
 ---
 
 ### <code>( 03 ) // ASK HN (DISCUSSIONS)</code>
 
-- **[DietPi v10.8 has been released](https://news.ycombinator.com/item?id=50260146)**
-  `▲ 17 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50260146) &nbsp;·&nbsp; <sub>by stephanstsdietp</sub>
+- **[Ask HN: What do you believe or not believe about AI?](https://news.ycombinator.com/item?id=50271004)**
+  `▲ 13 pts` &nbsp;·&nbsp; [💬 24 comments](https://news.ycombinator.com/item?id=50271004) &nbsp;·&nbsp; <sub>by maniac_2000</sub>
+
+- **[Old.reddit.com Gone](https://news.ycombinator.com/item?id=50275640)**
+  `▲ 16 pts` &nbsp;·&nbsp; [💬 9 comments](https://news.ycombinator.com/item?id=50275640) &nbsp;·&nbsp; <sub>by Balgair</sub>
 
 - **[Expericencing an issue in Gmail where emails do not delete in Firefox](https://news.ycombinator.com/item?id=50259191)**
-  `▲ 7 pts` &nbsp;·&nbsp; [💬 3 comments](https://news.ycombinator.com/item?id=50259191) &nbsp;·&nbsp; <sub>by rc_kas</sub>
-
-- **[Hey, Y Combinator - What will happen to humans?](https://news.ycombinator.com/item?id=50256932)**
-  `▲ 12 pts` &nbsp;·&nbsp; [💬 17 comments](https://news.ycombinator.com/item?id=50256932) &nbsp;·&nbsp; <sub>by pikseladam</sub>
+  `▲ 8 pts` &nbsp;·&nbsp; [💬 3 comments](https://news.ycombinator.com/item?id=50259191) &nbsp;·&nbsp; <sub>by rc_kas</sub>
 
 ---
 
