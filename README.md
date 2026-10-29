@@ -1,6 +1,6 @@
 <div align="center">
   <p><code><b>( • ) HACKER NEWS PULSE &nbsp;|&nbsp; AUTOMATED DAILY DIGEST</b></code></p>
-  <h1><b>HN PULSE // 2026-10-28</b></h1>
+  <h1><b>HN PULSE // 2026-10-29</b></h1>
   <p>Curated developer intelligence, trending engineering debates, and community showcases.</p>
 </div>
 
@@ -8,46 +8,46 @@
 
 ### <code>( 01 ) // TOP INTELLIGENCE</code>
 
-- **[Why Is This Fingerprinting Script Creating Bioweapons?](https://nullpt.rs/fingerprinting-bioweapons)**
-  `▲ 234 pts` &nbsp;·&nbsp; [💬 43 comments](https://news.ycombinator.com/item?id=50276998) &nbsp;·&nbsp; <sub>by hazebooth</sub>
+- **[Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer)**
+  `▲ 438 pts` &nbsp;·&nbsp; [💬 94 comments](https://news.ycombinator.com/item?id=50282838) &nbsp;·&nbsp; <sub>by csmantle</sub>
 
-- **[Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/)**
-  `▲ 544 pts` &nbsp;·&nbsp; [💬 458 comments](https://news.ycombinator.com/item?id=50276792) &nbsp;·&nbsp; <sub>by acossta</sub>
+- **[Why is this fingerprinting script creating bioweapons?](https://nullpt.rs/fingerprinting-bioweapons)**
+  `▲ 1195 pts` &nbsp;·&nbsp; [💬 229 comments](https://news.ycombinator.com/item?id=50276998) &nbsp;·&nbsp; <sub>by hazebooth</sub>
 
-- **[CNC Stone Carving](https://carmelitegothic.com/cnc-stone-carving/)**
-  `▲ 298 pts` &nbsp;·&nbsp; [💬 102 comments](https://news.ycombinator.com/item?id=50274409) &nbsp;·&nbsp; <sub>by bschne</sub>
+- **[Getting debug access on a Brother printer over Telnet](https://inventor7777.github.io/blog/2026/10/22/debug-access-on-brother/)**
+  `▲ 32 pts` &nbsp;·&nbsp; [💬 7 comments](https://news.ycombinator.com/item?id=50243757) &nbsp;·&nbsp; <sub>by inventor7777</sub>
 
-- **[MacBook Pro with PROLED XDR Display and Touch](https://www.apple.com/macbook-pro/proled-xdr-display/)**
-  `▲ 339 pts` &nbsp;·&nbsp; [💬 571 comments](https://news.ycombinator.com/item?id=50276940) &nbsp;·&nbsp; <sub>by etothet</sub>
+- **[Zero click, silent, remote Android DoS](https://smsofdeath.com/)**
+  `▲ 37 pts` &nbsp;·&nbsp; [💬 17 comments](https://news.ycombinator.com/item?id=50285452) &nbsp;·&nbsp; <sub>by MarkBlah</sub>
 
-- **[Dayjob: Tax – evaluating AI agents on 50 professional tax assignments](https://surgehq.ai/blog/dayjob-tax)**
-  `▲ 125 pts` &nbsp;·&nbsp; [💬 76 comments](https://news.ycombinator.com/item?id=50275626) &nbsp;·&nbsp; <sub>by landonxi</sub>
+- **[Forging a Microsoft Edge Full Chain with Logic Bugs Only](https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/)**
+  `▲ 33 pts` &nbsp;·&nbsp; [💬 5 comments](https://news.ycombinator.com/item?id=50285319) &nbsp;·&nbsp; <sub>by austinallegro</sub>
 
 ---
 
 ### <code>( 02 ) // SHOW HN (NEW TOOLS)</code>
 
+- **[Show HN: Pure Particles, an open source art particle toy built with Three.js](https://pureart-xyz.vercel.app/)**
+  `▲ 2 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50285372) &nbsp;·&nbsp; <sub>by exos-xyz</sub>
+
 - **[Show HN: SlideBySide – Present slides without sharing your screen](https://slidebyside.com/)**
-  `▲ 32 pts` &nbsp;·&nbsp; [💬 18 comments](https://news.ycombinator.com/item?id=50276883) &nbsp;·&nbsp; <sub>by denismenace</sub>
+  `▲ 70 pts` &nbsp;·&nbsp; [💬 31 comments](https://news.ycombinator.com/item?id=50276883) &nbsp;·&nbsp; <sub>by denismenace</sub>
 
-- **[Show HN: Measuring how much of an AI-assisted design is yours](https://claude.ai/artifact/Xxm7H6eLCKgoxJVrSqTigH)**
-  `▲ 3 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50278863) &nbsp;·&nbsp; <sub>by arian_</sub>
-
-- **[Show HN: A proof-of-concept formalization of the IRS federal tax forms](https://github.com/emmilco/us-tax-model)**
-  `▲ 3 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50278678) &nbsp;·&nbsp; <sub>by RGS1811</sub>
+- **[Show HN: A Cursor-like workspace for your LaTeX papers](https://github.com/cu1ch3n/papilot)**
+  `▲ 2 pts` &nbsp;·&nbsp; [💬 1 comments](https://news.ycombinator.com/item?id=50284944) &nbsp;·&nbsp; <sub>by cuichen</sub>
 
 ---
 
 ### <code>( 03 ) // ASK HN (DISCUSSIONS)</code>
 
-- **[Ask HN: What do you believe or not believe about AI?](https://news.ycombinator.com/item?id=50271004)**
-  `▲ 13 pts` &nbsp;·&nbsp; [💬 24 comments](https://news.ycombinator.com/item?id=50271004) &nbsp;·&nbsp; <sub>by maniac_2000</sub>
+- **[Tell HN: Claude Code adds your email to the prompt, the LLM sends it to websites](https://news.ycombinator.com/item?id=50286306)**
+  `▲ 2 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50286306) &nbsp;·&nbsp; <sub>by TekMol</sub>
 
-- **[Old.reddit.com Gone](https://news.ycombinator.com/item?id=50275640)**
-  `▲ 16 pts` &nbsp;·&nbsp; [💬 9 comments](https://news.ycombinator.com/item?id=50275640) &nbsp;·&nbsp; <sub>by Balgair</sub>
+- **[Ask HN: I Need Advice](https://news.ycombinator.com/item?id=50285134)**
+  `▲ 4 pts` &nbsp;·&nbsp; [💬 11 comments](https://news.ycombinator.com/item?id=50285134) &nbsp;·&nbsp; <sub>by TuxedoBuddy</sub>
 
-- **[Expericencing an issue in Gmail where emails do not delete in Firefox](https://news.ycombinator.com/item?id=50259191)**
-  `▲ 8 pts` &nbsp;·&nbsp; [💬 3 comments](https://news.ycombinator.com/item?id=50259191) &nbsp;·&nbsp; <sub>by rc_kas</sub>
+- **[Ask HN: Why big LLMs use "it's not A, it is B" pattern? Shared dataset supplier?](https://news.ycombinator.com/item?id=50284849)**
+  `▲ 5 pts` &nbsp;·&nbsp; [💬 3 comments](https://news.ycombinator.com/item?id=50284849) &nbsp;·&nbsp; <sub>by jumasheff</sub>
 
 ---
 
