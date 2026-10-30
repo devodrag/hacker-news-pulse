@@ -8,46 +8,46 @@
 
 ### <code>( 01 ) // TOP INTELLIGENCE</code>
 
-- **[Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8)**
-  `▲ 1328 pts` &nbsp;·&nbsp; [💬 812 comments](https://news.ycombinator.com/item?id=50296470) &nbsp;·&nbsp; <sub>by Tiberium</sub>
+- **[My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/)**
+  `▲ 110 pts` &nbsp;·&nbsp; [💬 24 comments](https://news.ycombinator.com/item?id=50307190) &nbsp;·&nbsp; <sub>by DHowett</sub>
 
-- **[I Returned My iPhone Duo](https://codakuma.com/i-returned-my-duo/)**
-  `▲ 16 pts` &nbsp;·&nbsp; [💬 13 comments](https://news.ycombinator.com/item?id=50301373) &nbsp;·&nbsp; <sub>by ricobecks</sub>
+- **[Northflank Breached](https://status.northflank.com)**
+  `▲ 236 pts` &nbsp;·&nbsp; [💬 153 comments](https://news.ycombinator.com/item?id=50305025) &nbsp;·&nbsp; <sub>by js4ever</sub>
 
-- **[We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/)**
-  `▲ 1463 pts` &nbsp;·&nbsp; [💬 394 comments](https://news.ycombinator.com/item?id=50289418) &nbsp;·&nbsp; <sub>by kuberwastaken</sub>
+- **[Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/)**
+  `▲ 568 pts` &nbsp;·&nbsp; [💬 397 comments](https://news.ycombinator.com/item?id=50300683) &nbsp;·&nbsp; <sub>by _chall</sub>
 
-- **[Ask HN: Are you tired too in this AI era?](https://news.ycombinator.com/item?id=50301479)**
-  `▲ 42 pts` &nbsp;·&nbsp; [💬 14 comments](https://news.ycombinator.com/item?id=50301479) &nbsp;·&nbsp; <sub>by mellosty</sub>
+- **[Show HN: A working Nintendo in ~1GB of Qwen weights](https://github.com/dbreunig/nesformer)**
+  `▲ 112 pts` &nbsp;·&nbsp; [💬 88 comments](https://news.ycombinator.com/item?id=50306442) &nbsp;·&nbsp; <sub>by dbreunig</sub>
 
-- **[Cuis: The Modern Smalltalk-80](https://cuis.st/)**
-  `▲ 109 pts` &nbsp;·&nbsp; [💬 15 comments](https://news.ycombinator.com/item?id=50255343) &nbsp;·&nbsp; <sub>by theanonymousone</sub>
+- **[Breaking the open web won't stop the bad bots](https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/)**
+  `▲ 82 pts` &nbsp;·&nbsp; [💬 30 comments](https://news.ycombinator.com/item?id=50263837) &nbsp;·&nbsp; <sub>by raybb</sub>
 
 ---
 
 ### <code>( 02 ) // SHOW HN (NEW TOOLS)</code>
 
-- **[Show HN: I Turned DOOM into a Transformer](https://github.com/mottopanikeiku/doomformer)**
-  `▲ 89 pts` &nbsp;·&nbsp; [💬 28 comments](https://news.ycombinator.com/item?id=50297697) &nbsp;·&nbsp; <sub>by falperc</sub>
+- **[Show HN: A working Nintendo in ~1GB of Qwen weights](https://github.com/dbreunig/nesformer)**
+  `▲ 112 pts` &nbsp;·&nbsp; [💬 88 comments](https://news.ycombinator.com/item?id=50306442) &nbsp;·&nbsp; <sub>by dbreunig</sub>
 
-- **[Show HN: Auto Dismiss Mac OS "Allow <app> to find devices on local networks?"](https://github.com/johncassil/dontallow)**
-  `▲ 134 pts` &nbsp;·&nbsp; [💬 100 comments](https://news.ycombinator.com/item?id=50294506) &nbsp;·&nbsp; <sub>by johncassil</sub>
+- **[Show HN: Spinf-serve – inference server for bulk scoring and decisions](https://github.com/spinfinc/spinf-serve)**
+  `▲ 11 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50306815) &nbsp;·&nbsp; <sub>by giarec</sub>
 
-- **[Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge](https://github.com/Millillion/lasm)**
-  `▲ 28 pts` &nbsp;·&nbsp; [💬 6 comments](https://news.ycombinator.com/item?id=50299004) &nbsp;·&nbsp; <sub>by lastmjs</sub>
+- **[Show HN: Sketch Stadium – watch your agent play Pictionary](https://sketch.wakeshift.ai/)**
+  `▲ 8 pts` &nbsp;·&nbsp; [💬 1 comments](https://news.ycombinator.com/item?id=50305218) &nbsp;·&nbsp; <sub>by ericlevine</sub>
 
 ---
 
 ### <code>( 03 ) // ASK HN (DISCUSSIONS)</code>
 
-- **[Ask HN: Are you tired too in this AI era?](https://news.ycombinator.com/item?id=50301479)**
-  `▲ 42 pts` &nbsp;·&nbsp; [💬 14 comments](https://news.ycombinator.com/item?id=50301479) &nbsp;·&nbsp; <sub>by mellosty</sub>
+- **[Ask HN: Is applying to Y Combinator worth it if you aren't an insider?](https://news.ycombinator.com/item?id=50308286)**
+  `▲ 7 pts` &nbsp;·&nbsp; [💬 4 comments](https://news.ycombinator.com/item?id=50308286) &nbsp;·&nbsp; <sub>by all2</sub>
 
-- **[Ask HN: Opus 5.5 suddenly dumb as rocks?](https://news.ycombinator.com/item?id=50296367)**
-  `▲ 27 pts` &nbsp;·&nbsp; [💬 22 comments](https://news.ycombinator.com/item?id=50296367) &nbsp;·&nbsp; <sub>by jahala</sub>
+- **[Ask HN: What's it like working at Google nowadays? Core teams like Search, Ads?](https://news.ycombinator.com/item?id=50306776)**
+  `▲ 24 pts` &nbsp;·&nbsp; [💬 16 comments](https://news.ycombinator.com/item?id=50306776) &nbsp;·&nbsp; <sub>by karakoram</sub>
 
-- **[Ask HN: Do you have side-projects that generate >$500 revenue/month?](https://news.ycombinator.com/item?id=50293459)**
-  `▲ 26 pts` &nbsp;·&nbsp; [💬 8 comments](https://news.ycombinator.com/item?id=50293459) &nbsp;·&nbsp; <sub>by learner_yearner</sub>
+- **["Wrong" Email](https://news.ycombinator.com/item?id=50307092)**
+  `▲ 17 pts` &nbsp;·&nbsp; [💬 2 comments](https://news.ycombinator.com/item?id=50307092) &nbsp;·&nbsp; <sub>by rbmm</sub>
 
 ---
 
