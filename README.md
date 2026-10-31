@@ -8,46 +8,46 @@
 
 ### <code>( 01 ) // TOP INTELLIGENCE</code>
 
-- **[Switch Lowering in GCC](https://xoranth.net/gcc-switch/)**
-  `▲ 28 pts` &nbsp;·&nbsp; [💬 1 comments](https://news.ycombinator.com/item?id=50314085) &nbsp;·&nbsp; <sub>by signa11</sub>
+- **[The Impact of Generative AI on Critical Thinking](https://dl.acm.org/doi/full/10.1145/3706598.3713778)**
+  `▲ 38 pts` &nbsp;·&nbsp; [💬 18 comments](https://news.ycombinator.com/item?id=50318401) &nbsp;·&nbsp; <sub>by the-mitr</sub>
 
-- **[Show HN: Marelleo, an open-source story box I built for my kids using ESP32](https://zebra.rodeo/en/blog/marelleo/)**
-  `▲ 25 pts` &nbsp;·&nbsp; [💬 10 comments](https://news.ycombinator.com/item?id=50260753) &nbsp;·&nbsp; <sub>by foOg</sub>
+- **[Molly (Signal fork) has not been updated since 3 months and is vulnerable](https://piefed.world/post/1503394)**
+  `▲ 245 pts` &nbsp;·&nbsp; [💬 149 comments](https://news.ycombinator.com/item?id=50314666) &nbsp;·&nbsp; <sub>by DeepLogin</sub>
 
-- **[My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/)**
-  `▲ 308 pts` &nbsp;·&nbsp; [💬 86 comments](https://news.ycombinator.com/item?id=50307190) &nbsp;·&nbsp; <sub>by DHowett</sub>
+- **[We Took over ChatGPT Accounts](https://www.parameter.ai/labs/we-found-a-gap-at-openai)**
+  `▲ 260 pts` &nbsp;·&nbsp; [💬 119 comments](https://news.ycombinator.com/item?id=50314699) &nbsp;·&nbsp; <sub>by armcat</sub>
 
-- **[Cloudflare Turnstile solver library (no headless browser required)](https://github.com/chris124567/cfsolve)**
-  `▲ 197 pts` &nbsp;·&nbsp; [💬 57 comments](https://news.ycombinator.com/item?id=50277379) &nbsp;·&nbsp; <sub>by costco</sub>
+- **[UK Green party drops longstanding opposition to nuclear power](https://www.theguardian.com/politics/2026/oct/05/green-party-nuclear-power-policy)**
+  `▲ 127 pts` &nbsp;·&nbsp; [💬 95 comments](https://news.ycombinator.com/item?id=50318189) &nbsp;·&nbsp; <sub>by mpweiher</sub>
 
-- **[The $6.3B Binance hack was pulled off in just 20 minutes](https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/)**
-  `▲ 443 pts` &nbsp;·&nbsp; [💬 295 comments](https://news.ycombinator.com/item?id=50303172) &nbsp;·&nbsp; <sub>by domhudson</sub>
+- **[Redox: Ring Buffers Project Summary](https://www.redox-os.org/news/nlnet-rb-summary/)**
+  `▲ 19 pts` &nbsp;·&nbsp; [💬 1 comments](https://news.ycombinator.com/item?id=50274186) &nbsp;·&nbsp; <sub>by g0xA52A2A</sub>
 
 ---
 
 ### <code>( 02 ) // SHOW HN (NEW TOOLS)</code>
 
+- **[Show HN: Ghostman – A fast, keyboard-driven TUI API client and webhook inspector](https://github.com/4yk5/Ghostman)**
+  `▲ 25 pts` &nbsp;·&nbsp; [💬 18 comments](https://news.ycombinator.com/item?id=50300902) &nbsp;·&nbsp; <sub>by 4yk5</sub>
+
 - **[Show HN: Marelleo, an open-source story box I built for my kids using ESP32](https://zebra.rodeo/en/blog/marelleo/)**
-  `▲ 25 pts` &nbsp;·&nbsp; [💬 10 comments](https://news.ycombinator.com/item?id=50260753) &nbsp;·&nbsp; <sub>by foOg</sub>
+  `▲ 161 pts` &nbsp;·&nbsp; [💬 44 comments](https://news.ycombinator.com/item?id=50260753) &nbsp;·&nbsp; <sub>by foOg</sub>
 
-- **[Show HN: A working Nintendo in ~1GB of Qwen weights](https://github.com/dbreunig/nesformer)**
-  `▲ 248 pts` &nbsp;·&nbsp; [💬 122 comments](https://news.ycombinator.com/item?id=50306442) &nbsp;·&nbsp; <sub>by dbreunig</sub>
-
-- **[Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game](https://tng.episodle.com/)**
-  `▲ 191 pts` &nbsp;·&nbsp; [💬 50 comments](https://news.ycombinator.com/item?id=50311686) &nbsp;·&nbsp; <sub>by francisofascii</sub>
+- **[Show HN: Jointter – A daily word puzzle using dots and lines](https://www.jointter.com/)**
+  `▲ 9 pts` &nbsp;·&nbsp; [💬 10 comments](https://news.ycombinator.com/item?id=50317548) &nbsp;·&nbsp; <sub>by proy87</sub>
 
 ---
 
 ### <code>( 03 ) // ASK HN (DISCUSSIONS)</code>
 
 - **[Tell HN: Scribd Breached](https://news.ycombinator.com/item?id=50312756)**
-  `▲ 191 pts` &nbsp;·&nbsp; [💬 79 comments](https://news.ycombinator.com/item?id=50312756) &nbsp;·&nbsp; <sub>by x______________</sub>
+  `▲ 321 pts` &nbsp;·&nbsp; [💬 118 comments](https://news.ycombinator.com/item?id=50312756) &nbsp;·&nbsp; <sub>by x______________</sub>
 
-- **[Tell HN: X is opening any tweet link in a webview whether you press it or not](https://news.ycombinator.com/item?id=50312174)**
-  `▲ 30 pts` &nbsp;·&nbsp; [💬 1 comments](https://news.ycombinator.com/item?id=50312174) &nbsp;·&nbsp; <sub>by stillatit</sub>
+- **[Which hobby do you think is most diverting and pleasurable?](https://news.ycombinator.com/item?id=50318646)**
+  `▲ 3 pts` &nbsp;·&nbsp; [💬 2 comments](https://news.ycombinator.com/item?id=50318646) &nbsp;·&nbsp; <sub>by ikelos</sub>
 
-- **[Ask HN: Is the Microsoft buyout just a long overdue correction?](https://news.ycombinator.com/item?id=50313705)**
-  `▲ 2 pts` &nbsp;·&nbsp; [💬 4 comments](https://news.ycombinator.com/item?id=50313705) &nbsp;·&nbsp; <sub>by sky2224</sub>
+- **[Ask HN: I'd like to request Microsoft open source Windows XP](https://news.ycombinator.com/item?id=50318141)**
+  `▲ 3 pts` &nbsp;·&nbsp; [💬 3 comments](https://news.ycombinator.com/item?id=50318141) &nbsp;·&nbsp; <sub>by fosco</sub>
 
 ---
 
