@@ -8,46 +8,46 @@
 
 ### <code>( 01 ) // TOP INTELLIGENCE</code>
 
+- **[Show HN: HackerBooks – HackerTube, but for books mentioned on HN](https://hackerbooks.org)**
+  `▲ 408 pts` &nbsp;·&nbsp; [💬 115 comments](https://news.ycombinator.com/item?id=50326821) &nbsp;·&nbsp; <sub>by roansh</sub>
+
+- **[Mathematics has changed. Let's act like it](https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/)**
+  `▲ 41 pts` &nbsp;·&nbsp; [💬 34 comments](https://news.ycombinator.com/item?id=50328251) &nbsp;·&nbsp; <sub>by smilelamp</sub>
+
 - **[HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/)**
-  `▲ 1313 pts` &nbsp;·&nbsp; [💬 369 comments](https://news.ycombinator.com/item?id=50319510) &nbsp;·&nbsp; <sub>by karpathy</sub>
+  `▲ 1943 pts` &nbsp;·&nbsp; [💬 488 comments](https://news.ycombinator.com/item?id=50319510) &nbsp;·&nbsp; <sub>by karpathy</sub>
 
-- **[Japan's trains are great. Why is booking one so hard?](https://vinibrasil.com/japan-train/)**
-  `▲ 17 pts` &nbsp;·&nbsp; [💬 24 comments](https://news.ycombinator.com/item?id=50323731) &nbsp;·&nbsp; <sub>by vnbrs</sub>
+- **[Patrick Stewart taught us what good men do with power](https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism)**
+  `▲ 161 pts` &nbsp;·&nbsp; [💬 110 comments](https://news.ycombinator.com/item?id=50327650) &nbsp;·&nbsp; <sub>by rhaynes</sub>
 
-- **[An Italian farmer found some unknown seeds in his attic and planted them](https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/)**
-  `▲ 439 pts` &nbsp;·&nbsp; [💬 125 comments](https://news.ycombinator.com/item?id=50320963) &nbsp;·&nbsp; <sub>by ecares</sub>
-
-- **[The AI cost of JavaScript frameworks](https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/)**
-  `▲ 71 pts` &nbsp;·&nbsp; [💬 37 comments](https://news.ycombinator.com/item?id=50323088) &nbsp;·&nbsp; <sub>by luu</sub>
-
-- **[Running a bootstrapped SaaS for 20 years with my brother](https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/)**
-  `▲ 86 pts` &nbsp;·&nbsp; [💬 24 comments](https://news.ycombinator.com/item?id=50303984) &nbsp;·&nbsp; <sub>by whyleyc</sub>
+- **[Police chief unplugs Flock cameras after company ignores contract cancellation](https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies)**
+  `▲ 319 pts` &nbsp;·&nbsp; [💬 110 comments](https://news.ycombinator.com/item?id=50326118) &nbsp;·&nbsp; <sub>by entryleveljobsc</sub>
 
 ---
 
 ### <code>( 02 ) // SHOW HN (NEW TOOLS)</code>
 
-- **[Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards](https://bbrouter.com/bbrouter/ben-eater-sap-1)**
-  `▲ 32 pts` &nbsp;·&nbsp; [💬 8 comments](https://news.ycombinator.com/item?id=50321522) &nbsp;·&nbsp; <sub>by creack</sub>
+- **[Show HN: HackerBooks – HackerTube, but for books mentioned on HN](https://hackerbooks.org)**
+  `▲ 408 pts` &nbsp;·&nbsp; [💬 115 comments](https://news.ycombinator.com/item?id=50326821) &nbsp;·&nbsp; <sub>by roansh</sub>
 
-- **[Show HN: A language model that lives in a boot sector](https://github.com/kerlenton/bootgpt)**
-  `▲ 83 pts` &nbsp;·&nbsp; [💬 5 comments](https://news.ycombinator.com/item?id=50315782) &nbsp;·&nbsp; <sub>by kerlenton</sub>
+- **[Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2](https://kevs3d.co.uk/phoria2/)**
+  `▲ 51 pts` &nbsp;·&nbsp; [💬 7 comments](https://news.ycombinator.com/item?id=50314508) &nbsp;·&nbsp; <sub>by kevs3d</sub>
 
-- **[Show HN: Marelleo, an open-source story box I built for my kids using ESP32](https://zebra.rodeo/en/blog/marelleo/)**
-  `▲ 189 pts` &nbsp;·&nbsp; [💬 49 comments](https://news.ycombinator.com/item?id=50260753) &nbsp;·&nbsp; <sub>by foOg</sub>
+- **[Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust](https://github.com/ivankovic/omnidiff)**
+  `▲ 55 pts` &nbsp;·&nbsp; [💬 25 comments](https://news.ycombinator.com/item?id=50325253) &nbsp;·&nbsp; <sub>by FabCH</sub>
 
 ---
 
 ### <code>( 03 ) // ASK HN (DISCUSSIONS)</code>
 
+- **[Heretic 2.0 Released: Training-free language model modification](https://news.ycombinator.com/item?id=50328567)**
+  `▲ 2 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50328567) &nbsp;·&nbsp; <sub>by razster</sub>
+
+- **[Ask HN: What are you working on? (November 2026)](https://news.ycombinator.com/item?id=50328340)**
+  `▲ 4 pts` &nbsp;·&nbsp; [💬 11 comments](https://news.ycombinator.com/item?id=50328340) &nbsp;·&nbsp; <sub>by jesse__</sub>
+
 - **[Tell HN: Scribd Breached](https://news.ycombinator.com/item?id=50312756)**
-  `▲ 342 pts` &nbsp;·&nbsp; [💬 121 comments](https://news.ycombinator.com/item?id=50312756) &nbsp;·&nbsp; <sub>by x______________</sub>
-
-- **[Ask HN: Anyone here still writing code for reasons other than fun or learning?](https://news.ycombinator.com/item?id=50322477)**
-  `▲ 6 pts` &nbsp;·&nbsp; [💬 9 comments](https://news.ycombinator.com/item?id=50322477) &nbsp;·&nbsp; <sub>by czhu12</sub>
-
-- **[Ask HN: Old experimental website that made photos sing?](https://news.ycombinator.com/item?id=50321871)**
-  `▲ 2 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50321871) &nbsp;·&nbsp; <sub>by jesuisdieu</sub>
+  `▲ 346 pts` &nbsp;·&nbsp; [💬 122 comments](https://news.ycombinator.com/item?id=50312756) &nbsp;·&nbsp; <sub>by x______________</sub>
 
 ---
 
