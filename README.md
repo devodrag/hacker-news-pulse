@@ -8,46 +8,46 @@
 
 ### <code>( 01 ) // TOP INTELLIGENCE</code>
 
-- **[Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN](https://wikihack.netlify.app)**
-  `▲ 197 pts` &nbsp;·&nbsp; [💬 57 comments](https://news.ycombinator.com/item?id=50333339) &nbsp;·&nbsp; <sub>by aizk</sub>
+- **[Astra can read and write weights to improve Qwen](https://rikiyat.github.io/blog/weight-space-programming/)**
+  `▲ 1531 pts` &nbsp;·&nbsp; [💬 498 comments](https://news.ycombinator.com/item?id=50341174) &nbsp;·&nbsp; <sub>by dbreunig</sub>
 
-- **[Show HN: HackerBooks – HackerTube, but for books mentioned on HN](https://hackerbooks.org)**
-  `▲ 1405 pts` &nbsp;·&nbsp; [💬 234 comments](https://news.ycombinator.com/item?id=50326821) &nbsp;·&nbsp; <sub>by roansh</sub>
+- **[The SEC Should Block Anthropic's IPO to Protect the Public](https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/)**
+  `▲ 39 pts` &nbsp;·&nbsp; [💬 6 comments](https://news.ycombinator.com/item?id=50344919) &nbsp;·&nbsp; <sub>by cdrnsf</sub>
 
-- **[Postgres 19 is late because so many more bugs are being found now](http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html)**
-  `▲ 470 pts` &nbsp;·&nbsp; [💬 297 comments](https://news.ycombinator.com/item?id=50312408) &nbsp;·&nbsp; <sub>by soheilpro</sub>
+- **[Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088)**
+  `▲ 455 pts` &nbsp;·&nbsp; [💬 255 comments](https://news.ycombinator.com/item?id=50340088) &nbsp;·&nbsp; <sub>by aarushyadav</sub>
 
-- **[HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/)**
-  `▲ 2584 pts` &nbsp;·&nbsp; [💬 571 comments](https://news.ycombinator.com/item?id=50319510) &nbsp;·&nbsp; <sub>by karpathy</sub>
+- **[Apple reports fourth quarter results](https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/)**
+  `▲ 28 pts` &nbsp;·&nbsp; [💬 9 comments](https://news.ycombinator.com/item?id=50344670) &nbsp;·&nbsp; <sub>by mfiguiere</sub>
 
-- **[F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix](https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/)**
-  `▲ 128 pts` &nbsp;·&nbsp; [💬 14 comments](https://news.ycombinator.com/item?id=50332163) &nbsp;·&nbsp; <sub>by joonehur</sub>
+- **[BYD sold more EVs last month than the US did all quarter, topping 300,000](https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/)**
+  `▲ 175 pts` &nbsp;·&nbsp; [💬 142 comments](https://news.ycombinator.com/item?id=50344181) &nbsp;·&nbsp; <sub>by cisc</sub>
 
 ---
 
 ### <code>( 02 ) // SHOW HN (NEW TOOLS)</code>
 
-- **[Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN](https://wikihack.netlify.app)**
-  `▲ 197 pts` &nbsp;·&nbsp; [💬 57 comments](https://news.ycombinator.com/item?id=50333339) &nbsp;·&nbsp; <sub>by aizk</sub>
+- **[Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088)**
+  `▲ 455 pts` &nbsp;·&nbsp; [💬 255 comments](https://news.ycombinator.com/item?id=50340088) &nbsp;·&nbsp; <sub>by aarushyadav</sub>
 
-- **[Show HN: HackerBooks – HackerTube, but for books mentioned on HN](https://hackerbooks.org)**
-  `▲ 1405 pts` &nbsp;·&nbsp; [💬 234 comments](https://news.ycombinator.com/item?id=50326821) &nbsp;·&nbsp; <sub>by roansh</sub>
+- **[Show HN: Warsaw in voxels – An interactive 3D map of the city centre](https://p.migdal.pl/warsaw-vibe-voxel/)**
+  `▲ 183 pts` &nbsp;·&nbsp; [💬 32 comments](https://news.ycombinator.com/item?id=50339221) &nbsp;·&nbsp; <sub>by stared</sub>
 
 - **[Show HN: I've updated my Linux System Call website and API](https://syscall.sh/)**
-  `▲ 6 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50334704) &nbsp;·&nbsp; <sub>by guitmz</sub>
+  `▲ 195 pts` &nbsp;·&nbsp; [💬 48 comments](https://news.ycombinator.com/item?id=50334704) &nbsp;·&nbsp; <sub>by guitmz</sub>
 
 ---
 
 ### <code>( 03 ) // ASK HN (DISCUSSIONS)</code>
 
+- **[Ask HN: Who is hiring? (November 2026)](https://news.ycombinator.com/item?id=50338728)**
+  `▲ 155 pts` &nbsp;·&nbsp; [💬 128 comments](https://news.ycombinator.com/item?id=50338728) &nbsp;·&nbsp; <sub>by whoishiring</sub>
+
 - **[Ask HN: Which TV do you recommend for privacy?](https://news.ycombinator.com/item?id=50328896)**
-  `▲ 407 pts` &nbsp;·&nbsp; [💬 537 comments](https://news.ycombinator.com/item?id=50328896) &nbsp;·&nbsp; <sub>by LecroJS</sub>
+  `▲ 680 pts` &nbsp;·&nbsp; [💬 820 comments](https://news.ycombinator.com/item?id=50328896) &nbsp;·&nbsp; <sub>by LecroJS</sub>
 
-- **[In LLM era, can software startup survive?](https://news.ycombinator.com/item?id=50331001)**
-  `▲ 23 pts` &nbsp;·&nbsp; [💬 35 comments](https://news.ycombinator.com/item?id=50331001) &nbsp;·&nbsp; <sub>by sjia</sub>
-
-- **[Pepperwind, a fictional company dataset with 223 tables and 79M rows](https://news.ycombinator.com/item?id=50333045)**
-  `▲ 9 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50333045) &nbsp;·&nbsp; <sub>by rasinmuhammed</sub>
+- **[Ask HN: What hardware are you using to run local LLMs?](https://news.ycombinator.com/item?id=50337431)**
+  `▲ 35 pts` &nbsp;·&nbsp; [💬 30 comments](https://news.ycombinator.com/item?id=50337431) &nbsp;·&nbsp; <sub>by leafletsigh</sub>
 
 ---
 
