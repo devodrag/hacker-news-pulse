@@ -1,6 +1,6 @@
 <div align="center">
   <p><code><b>( • ) HACKER NEWS PULSE &nbsp;|&nbsp; AUTOMATED DAILY DIGEST</b></code></p>
-  <h1><b>HN PULSE // 2026-11-01</b></h1>
+  <h1><b>HN PULSE // 2026-11-02</b></h1>
   <p>Curated developer intelligence, trending engineering debates, and community showcases.</p>
 </div>
 
@@ -8,46 +8,46 @@
 
 ### <code>( 01 ) // TOP INTELLIGENCE</code>
 
-- **[Show HN: HackerBooks – HackerTube, but for books mentioned on HN](https://hackerbooks.org)**
-  `▲ 408 pts` &nbsp;·&nbsp; [💬 115 comments](https://news.ycombinator.com/item?id=50326821) &nbsp;·&nbsp; <sub>by roansh</sub>
+- **[Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN](https://wikihack.netlify.app)**
+  `▲ 197 pts` &nbsp;·&nbsp; [💬 57 comments](https://news.ycombinator.com/item?id=50333339) &nbsp;·&nbsp; <sub>by aizk</sub>
 
-- **[Mathematics has changed. Let's act like it](https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/)**
-  `▲ 41 pts` &nbsp;·&nbsp; [💬 34 comments](https://news.ycombinator.com/item?id=50328251) &nbsp;·&nbsp; <sub>by smilelamp</sub>
+- **[Show HN: HackerBooks – HackerTube, but for books mentioned on HN](https://hackerbooks.org)**
+  `▲ 1405 pts` &nbsp;·&nbsp; [💬 234 comments](https://news.ycombinator.com/item?id=50326821) &nbsp;·&nbsp; <sub>by roansh</sub>
+
+- **[Postgres 19 is late because so many more bugs are being found now](http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html)**
+  `▲ 470 pts` &nbsp;·&nbsp; [💬 297 comments](https://news.ycombinator.com/item?id=50312408) &nbsp;·&nbsp; <sub>by soheilpro</sub>
 
 - **[HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/)**
-  `▲ 1943 pts` &nbsp;·&nbsp; [💬 488 comments](https://news.ycombinator.com/item?id=50319510) &nbsp;·&nbsp; <sub>by karpathy</sub>
+  `▲ 2584 pts` &nbsp;·&nbsp; [💬 571 comments](https://news.ycombinator.com/item?id=50319510) &nbsp;·&nbsp; <sub>by karpathy</sub>
 
-- **[Patrick Stewart taught us what good men do with power](https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism)**
-  `▲ 161 pts` &nbsp;·&nbsp; [💬 110 comments](https://news.ycombinator.com/item?id=50327650) &nbsp;·&nbsp; <sub>by rhaynes</sub>
-
-- **[Police chief unplugs Flock cameras after company ignores contract cancellation](https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies)**
-  `▲ 319 pts` &nbsp;·&nbsp; [💬 110 comments](https://news.ycombinator.com/item?id=50326118) &nbsp;·&nbsp; <sub>by entryleveljobsc</sub>
+- **[F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix](https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/)**
+  `▲ 128 pts` &nbsp;·&nbsp; [💬 14 comments](https://news.ycombinator.com/item?id=50332163) &nbsp;·&nbsp; <sub>by joonehur</sub>
 
 ---
 
 ### <code>( 02 ) // SHOW HN (NEW TOOLS)</code>
 
+- **[Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN](https://wikihack.netlify.app)**
+  `▲ 197 pts` &nbsp;·&nbsp; [💬 57 comments](https://news.ycombinator.com/item?id=50333339) &nbsp;·&nbsp; <sub>by aizk</sub>
+
 - **[Show HN: HackerBooks – HackerTube, but for books mentioned on HN](https://hackerbooks.org)**
-  `▲ 408 pts` &nbsp;·&nbsp; [💬 115 comments](https://news.ycombinator.com/item?id=50326821) &nbsp;·&nbsp; <sub>by roansh</sub>
+  `▲ 1405 pts` &nbsp;·&nbsp; [💬 234 comments](https://news.ycombinator.com/item?id=50326821) &nbsp;·&nbsp; <sub>by roansh</sub>
 
-- **[Show HN: I rebuilt my old canvas 3D library as a small WebGL 2 library – phoria2](https://kevs3d.co.uk/phoria2/)**
-  `▲ 51 pts` &nbsp;·&nbsp; [💬 7 comments](https://news.ycombinator.com/item?id=50314508) &nbsp;·&nbsp; <sub>by kevs3d</sub>
-
-- **[Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust](https://github.com/ivankovic/omnidiff)**
-  `▲ 55 pts` &nbsp;·&nbsp; [💬 25 comments](https://news.ycombinator.com/item?id=50325253) &nbsp;·&nbsp; <sub>by FabCH</sub>
+- **[Show HN: I've updated my Linux System Call website and API](https://syscall.sh/)**
+  `▲ 6 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50334704) &nbsp;·&nbsp; <sub>by guitmz</sub>
 
 ---
 
 ### <code>( 03 ) // ASK HN (DISCUSSIONS)</code>
 
-- **[Heretic 2.0 Released: Training-free language model modification](https://news.ycombinator.com/item?id=50328567)**
-  `▲ 2 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50328567) &nbsp;·&nbsp; <sub>by razster</sub>
+- **[Ask HN: Which TV do you recommend for privacy?](https://news.ycombinator.com/item?id=50328896)**
+  `▲ 407 pts` &nbsp;·&nbsp; [💬 537 comments](https://news.ycombinator.com/item?id=50328896) &nbsp;·&nbsp; <sub>by LecroJS</sub>
 
-- **[Ask HN: What are you working on? (November 2026)](https://news.ycombinator.com/item?id=50328340)**
-  `▲ 4 pts` &nbsp;·&nbsp; [💬 11 comments](https://news.ycombinator.com/item?id=50328340) &nbsp;·&nbsp; <sub>by jesse__</sub>
+- **[In LLM era, can software startup survive?](https://news.ycombinator.com/item?id=50331001)**
+  `▲ 23 pts` &nbsp;·&nbsp; [💬 35 comments](https://news.ycombinator.com/item?id=50331001) &nbsp;·&nbsp; <sub>by sjia</sub>
 
-- **[Tell HN: Scribd Breached](https://news.ycombinator.com/item?id=50312756)**
-  `▲ 346 pts` &nbsp;·&nbsp; [💬 122 comments](https://news.ycombinator.com/item?id=50312756) &nbsp;·&nbsp; <sub>by x______________</sub>
+- **[Pepperwind, a fictional company dataset with 223 tables and 79M rows](https://news.ycombinator.com/item?id=50333045)**
+  `▲ 9 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50333045) &nbsp;·&nbsp; <sub>by rasinmuhammed</sub>
 
 ---
 
