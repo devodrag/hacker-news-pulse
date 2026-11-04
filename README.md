@@ -8,46 +8,46 @@
 
 ### <code>( 01 ) // TOP INTELLIGENCE</code>
 
-- **[Kitty 0.50](https://sw.kovidgoyal.net/kitty/changelog/#)**
-  `▲ 114 pts` &nbsp;·&nbsp; [💬 48 comments](https://news.ycombinator.com/item?id=50362980) &nbsp;·&nbsp; <sub>by porridgeraisin</sub>
+- **[Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding](https://www.ricursive.com/ripple)**
+  `▲ 108 pts` &nbsp;·&nbsp; [💬 36 comments](https://news.ycombinator.com/item?id=50369925) &nbsp;·&nbsp; <sub>by Philpax</sub>
 
-- **[Verification Is Not Knowledge: Science needs more than answers](https://blog.cosmos-institute.org/p/verification-is-not-knowledge)**
-  `▲ 42 pts` &nbsp;·&nbsp; [💬 18 comments](https://news.ycombinator.com/item?id=50363019) &nbsp;·&nbsp; <sub>by ersinesen</sub>
+- **[Insects Don't Swarm at LED Lights](https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/)**
+  `▲ 52 pts` &nbsp;·&nbsp; [💬 28 comments](https://news.ycombinator.com/item?id=50370610) &nbsp;·&nbsp; <sub>by speckx</sub>
 
-- **[Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux](https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop)**
-  `▲ 49 pts` &nbsp;·&nbsp; [💬 22 comments](https://news.ycombinator.com/item?id=50362905) &nbsp;·&nbsp; <sub>by novaRom</sub>
+- **[AI is forcing us to pay off 40 years of technical debt](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability)**
+  `▲ 926 pts` &nbsp;·&nbsp; [💬 566 comments](https://news.ycombinator.com/item?id=50364336) &nbsp;·&nbsp; <sub>by pseudolus</sub>
 
-- **[Incident with Pull Requests, Git Operations and Issues](https://www.githubstatus.com/incidents/smtdswd1h2w4)**
-  `▲ 24 pts` &nbsp;·&nbsp; [💬 12 comments](https://news.ycombinator.com/item?id=50363378) &nbsp;·&nbsp; <sub>by kevcampb</sub>
+- **[Residential Proxies Detected on White House Network](https://layer3intel.com/blog/residential-proxies-white-house-network)**
+  `▲ 30 pts` &nbsp;·&nbsp; [💬 2 comments](https://news.ycombinator.com/item?id=50371246) &nbsp;·&nbsp; <sub>by Rasbora</sub>
 
-- **[Jelly Sheet](https://mrdoob.github.io/codevember-2026/01/)**
-  `▲ 253 pts` &nbsp;·&nbsp; [💬 68 comments](https://news.ycombinator.com/item?id=50361268) &nbsp;·&nbsp; <sub>by memalign</sub>
+- **[A new Go API for JSON](https://go.dev/blog/jsonv2)**
+  `▲ 137 pts` &nbsp;·&nbsp; [💬 43 comments](https://news.ycombinator.com/item?id=50369106) &nbsp;·&nbsp; <sub>by olexsmir</sub>
 
 ---
 
 ### <code>( 02 ) // SHOW HN (NEW TOOLS)</code>
 
-- **[Show HN: Uncracked City, detective game where you question LLM suspects that lie](https://uncracked.city)**
-  `▲ 66 pts` &nbsp;·&nbsp; [💬 23 comments](https://news.ycombinator.com/item?id=50358352) &nbsp;·&nbsp; <sub>by passkey1510</sub>
+- **[Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander](https://fireflyk64.github.io/wcmulti/)**
+  `▲ 20 pts` &nbsp;·&nbsp; [💬 3 comments](https://news.ycombinator.com/item?id=50369895) &nbsp;·&nbsp; <sub>by daniel_rh</sub>
+
+- **[Show HN: I built a tool that prices a prebuilt PC part by part](https://pcdealcheck.com/)**
+  `▲ 72 pts` &nbsp;·&nbsp; [💬 49 comments](https://news.ycombinator.com/item?id=50366929) &nbsp;·&nbsp; <sub>by adlep</sub>
 
 - **[Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels](https://hackertv.org)**
-  `▲ 338 pts` &nbsp;·&nbsp; [💬 68 comments](https://news.ycombinator.com/item?id=50346755) &nbsp;·&nbsp; <sub>by dsalzman</sub>
-
-- **[Show HN: Md2docx – Compile Markdown directly into native Word documents](https://md2docx.js.org/)**
-  `▲ 2 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50363166) &nbsp;·&nbsp; <sub>by mayank1513</sub>
+  `▲ 450 pts` &nbsp;·&nbsp; [💬 79 comments](https://news.ycombinator.com/item?id=50346755) &nbsp;·&nbsp; <sub>by dsalzman</sub>
 
 ---
 
 ### <code>( 03 ) // ASK HN (DISCUSSIONS)</code>
 
 - **[Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)](https://news.ycombinator.com/item?id=50363461)**
-  `▲ 3 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50363461) &nbsp;·&nbsp; <sub>by jameslk</sub>
+  `▲ 560 pts` &nbsp;·&nbsp; [💬 141 comments](https://news.ycombinator.com/item?id=50363461) &nbsp;·&nbsp; <sub>by jameslk</sub>
 
 - **[Tell HN: Don't use Postman, they proxy your info without your permission](https://news.ycombinator.com/item?id=50360947)**
-  `▲ 43 pts` &nbsp;·&nbsp; [💬 1 comments](https://news.ycombinator.com/item?id=50360947) &nbsp;·&nbsp; <sub>by neya</sub>
+  `▲ 93 pts` &nbsp;·&nbsp; [💬 3 comments](https://news.ycombinator.com/item?id=50360947) &nbsp;·&nbsp; <sub>by neya</sub>
 
 - **[OpenAI seems to be silently re-enabling model training on Codex chats](https://news.ycombinator.com/item?id=50352757)**
-  `▲ 484 pts` &nbsp;·&nbsp; [💬 144 comments](https://news.ycombinator.com/item?id=50352757) &nbsp;·&nbsp; <sub>by user052919</sub>
+  `▲ 514 pts` &nbsp;·&nbsp; [💬 152 comments](https://news.ycombinator.com/item?id=50352757) &nbsp;·&nbsp; <sub>by user052919</sub>
 
 ---
 
