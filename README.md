@@ -8,46 +8,46 @@
 
 ### <code>( 01 ) // TOP INTELLIGENCE</code>
 
-- **[Residential proxies detected on White House network](https://layer3intel.com/blog/residential-proxies-white-house-network)**
-  `▲ 1058 pts` &nbsp;·&nbsp; [💬 337 comments](https://news.ycombinator.com/item?id=50371246) &nbsp;·&nbsp; <sub>by Rasbora</sub>
+- **[sshole](https://sshhole.com)**
+  `▲ 2046 pts` &nbsp;·&nbsp; [💬 518 comments](https://news.ycombinator.com/item?id=50378228) &nbsp;·&nbsp; <sub>by josemrb</sub>
 
-- **[Lemmings CSS Animation](https://markblah.github.io/lemmings/)**
-  `▲ 185 pts` &nbsp;·&nbsp; [💬 39 comments](https://news.ycombinator.com/item?id=50375354) &nbsp;·&nbsp; <sub>by MarkBlah</sub>
+- **[Kagi Search for Everyone](https://kagi.com/changelog)**
+  `▲ 79 pts` &nbsp;·&nbsp; [💬 26 comments](https://news.ycombinator.com/item?id=50383740) &nbsp;·&nbsp; <sub>by elashri</sub>
 
-- **[Images 2.6](https://openai.com/index/introducing-images-2-6/)**
-  `▲ 302 pts` &nbsp;·&nbsp; [💬 175 comments](https://news.ycombinator.com/item?id=50372945) &nbsp;·&nbsp; <sub>by davidbarker</sub>
+- **[Alpine Linux Security Advisory: OpenSSH-server password authentication bypass](https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/)**
+  `▲ 491 pts` &nbsp;·&nbsp; [💬 97 comments](https://news.ycombinator.com/item?id=50379704) &nbsp;·&nbsp; <sub>by pantalaimon</sub>
 
-- **[A thousand fewer paths to root](https://openai.com/index/a-thousand-fewer-paths-to-root/)**
-  `▲ 342 pts` &nbsp;·&nbsp; [💬 244 comments](https://news.ycombinator.com/item?id=50372929) &nbsp;·&nbsp; <sub>by dangelosaurus</sub>
+- **[The Hackintosh Reborn](https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/)**
+  `▲ 96 pts` &nbsp;·&nbsp; [💬 27 comments](https://news.ycombinator.com/item?id=50383057) &nbsp;·&nbsp; <sub>by rubatuga</sub>
 
-- **[Baidu dropped ERNIE 5.5 Flash Base](https://ernie.baidu.com/release/ernie-5-5-flash-base/)**
-  `▲ 10 pts` &nbsp;·&nbsp; [💬 8 comments](https://news.ycombinator.com/item?id=50377078) &nbsp;·&nbsp; <sub>by pretext</sub>
+- **[Window Sweaters](https://github.com/saragordic/window-sweaters)**
+  `▲ 158 pts` &nbsp;·&nbsp; [💬 59 comments](https://news.ycombinator.com/item?id=50381383) &nbsp;·&nbsp; <sub>by nickswalker</sub>
 
 ---
 
 ### <code>( 02 ) // SHOW HN (NEW TOOLS)</code>
 
-- **[Show HN: Grasmere: Markdown for Writers and Researchers](https://grasmere.app/)**
-  `▲ 3 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50377443) &nbsp;·&nbsp; <sub>by trwhite</sub>
+- **[Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)](https://www.linum.ai/field-notes/pjit-21k)**
+  `▲ 99 pts` &nbsp;·&nbsp; [💬 11 comments](https://news.ycombinator.com/item?id=50368208) &nbsp;·&nbsp; <sub>by schopra909</sub>
 
-- **[Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander](https://fireflyk64.github.io/wcmulti/)**
-  `▲ 190 pts` &nbsp;·&nbsp; [💬 24 comments](https://news.ycombinator.com/item?id=50369895) &nbsp;·&nbsp; <sub>by daniel_rh</sub>
+- **[Show HN: Stroq – a local audit of what your coding agent did and why](https://github.com/AGGIB/Stroq)**
+  `▲ 45 pts` &nbsp;·&nbsp; [💬 10 comments](https://news.ycombinator.com/item?id=50380704) &nbsp;·&nbsp; <sub>by agybay_07</sub>
 
-- **[Show HN: Anything to colors – To every dream, its colors](https://colors.void.app/)**
-  `▲ 3 pts` &nbsp;·&nbsp; [💬 2 comments](https://news.ycombinator.com/item?id=50377069) &nbsp;·&nbsp; <sub>by Justineo</sub>
+- **[Show HN: Hand Your Markdown Tasks to Claude Code from a Kanban Board](https://blog.etherpk.com/hand-your-markdown-tasks-to-claude-code-from-a-kanban-board)**
+  `▲ 2 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50384357) &nbsp;·&nbsp; <sub>by gb2d_hn</sub>
 
 ---
 
 ### <code>( 03 ) // ASK HN (DISCUSSIONS)</code>
 
-- **[Ask HN: What's your current AI agentic setup?](https://news.ycombinator.com/item?id=50366117)**
-  `▲ 335 pts` &nbsp;·&nbsp; [💬 364 comments](https://news.ycombinator.com/item?id=50366117) &nbsp;·&nbsp; <sub>by eggbrain</sub>
-
 - **[Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)](https://news.ycombinator.com/item?id=50363461)**
-  `▲ 669 pts` &nbsp;·&nbsp; [💬 173 comments](https://news.ycombinator.com/item?id=50363461) &nbsp;·&nbsp; <sub>by jameslk</sub>
+  `▲ 698 pts` &nbsp;·&nbsp; [💬 182 comments](https://news.ycombinator.com/item?id=50363461) &nbsp;·&nbsp; <sub>by jameslk</sub>
+
+- **[Ask HN: What's your current AI agentic setup?](https://news.ycombinator.com/item?id=50366117)**
+  `▲ 495 pts` &nbsp;·&nbsp; [💬 606 comments](https://news.ycombinator.com/item?id=50366117) &nbsp;·&nbsp; <sub>by eggbrain</sub>
 
 - **[Ask HN: What cryptography book do you recommend for reading with 10 year olds?](https://news.ycombinator.com/item?id=50347425)**
-  `▲ 73 pts` &nbsp;·&nbsp; [💬 70 comments](https://news.ycombinator.com/item?id=50347425) &nbsp;·&nbsp; <sub>by mike_richards</sub>
+  `▲ 82 pts` &nbsp;·&nbsp; [💬 79 comments](https://news.ycombinator.com/item?id=50347425) &nbsp;·&nbsp; <sub>by mike_richards</sub>
 
 ---
 
