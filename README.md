@@ -1,6 +1,6 @@
 <div align="center">
   <p><code><b>( • ) HACKER NEWS PULSE &nbsp;|&nbsp; AUTOMATED DAILY DIGEST</b></code></p>
-  <h1><b>HN PULSE // 2026-11-05</b></h1>
+  <h1><b>HN PULSE // 2026-11-06</b></h1>
   <p>Curated developer intelligence, trending engineering debates, and community showcases.</p>
 </div>
 
@@ -8,46 +8,46 @@
 
 ### <code>( 01 ) // TOP INTELLIGENCE</code>
 
+- **[Blender's UI and Runtime: Much Faster Than GPUI](https://github.com/ppmpreetham/BUI)**
+  `▲ 175 pts` &nbsp;·&nbsp; [💬 65 comments](https://news.ycombinator.com/item?id=50389333) &nbsp;·&nbsp; <sub>by ppmpreetham</sub>
+
+- **[Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757)**
+  `▲ 1160 pts` &nbsp;·&nbsp; [💬 357 comments](https://news.ycombinator.com/item?id=50385272) &nbsp;·&nbsp; <sub>by motoroco</sub>
+
+- **[Kugelblitz – Mac-Native Google Earth Alternative](https://apps.metaebene.me/en/kugelblitz)**
+  `▲ 71 pts` &nbsp;·&nbsp; [💬 11 comments](https://news.ycombinator.com/item?id=50389370) &nbsp;·&nbsp; <sub>by luoc</sub>
+
 - **[sshole](https://sshhole.com)**
-  `▲ 2046 pts` &nbsp;·&nbsp; [💬 518 comments](https://news.ycombinator.com/item?id=50378228) &nbsp;·&nbsp; <sub>by josemrb</sub>
+  `▲ 2718 pts` &nbsp;·&nbsp; [💬 651 comments](https://news.ycombinator.com/item?id=50378228) &nbsp;·&nbsp; <sub>by josemrb</sub>
 
-- **[Kagi Search for Everyone](https://kagi.com/changelog)**
-  `▲ 79 pts` &nbsp;·&nbsp; [💬 26 comments](https://news.ycombinator.com/item?id=50383740) &nbsp;·&nbsp; <sub>by elashri</sub>
-
-- **[Alpine Linux Security Advisory: OpenSSH-server password authentication bypass](https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/)**
-  `▲ 491 pts` &nbsp;·&nbsp; [💬 97 comments](https://news.ycombinator.com/item?id=50379704) &nbsp;·&nbsp; <sub>by pantalaimon</sub>
-
-- **[The Hackintosh Reborn](https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/)**
-  `▲ 96 pts` &nbsp;·&nbsp; [💬 27 comments](https://news.ycombinator.com/item?id=50383057) &nbsp;·&nbsp; <sub>by rubatuga</sub>
-
-- **[Window Sweaters](https://github.com/saragordic/window-sweaters)**
-  `▲ 158 pts` &nbsp;·&nbsp; [💬 59 comments](https://news.ycombinator.com/item?id=50381383) &nbsp;·&nbsp; <sub>by nickswalker</sub>
+- **[App Store 2026 in numbers: AI, pricing, abandoned apps](https://obelisk.club/research/app-store-2026)**
+  `▲ 37 pts` &nbsp;·&nbsp; [💬 29 comments](https://news.ycombinator.com/item?id=50389448) &nbsp;·&nbsp; <sub>by Peter216</sub>
 
 ---
 
 ### <code>( 02 ) // SHOW HN (NEW TOOLS)</code>
 
+- **[Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM](https://firenook.dev/)**
+  `▲ 118 pts` &nbsp;·&nbsp; [💬 17 comments](https://news.ycombinator.com/item?id=50378643) &nbsp;·&nbsp; <sub>by sanjevirau</sub>
+
 - **[Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)](https://www.linum.ai/field-notes/pjit-21k)**
-  `▲ 99 pts` &nbsp;·&nbsp; [💬 11 comments](https://news.ycombinator.com/item?id=50368208) &nbsp;·&nbsp; <sub>by schopra909</sub>
+  `▲ 232 pts` &nbsp;·&nbsp; [💬 21 comments](https://news.ycombinator.com/item?id=50368208) &nbsp;·&nbsp; <sub>by schopra909</sub>
 
 - **[Show HN: Stroq – a local audit of what your coding agent did and why](https://github.com/AGGIB/Stroq)**
-  `▲ 45 pts` &nbsp;·&nbsp; [💬 10 comments](https://news.ycombinator.com/item?id=50380704) &nbsp;·&nbsp; <sub>by agybay_07</sub>
-
-- **[Show HN: Hand Your Markdown Tasks to Claude Code from a Kanban Board](https://blog.etherpk.com/hand-your-markdown-tasks-to-claude-code-from-a-kanban-board)**
-  `▲ 2 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50384357) &nbsp;·&nbsp; <sub>by gb2d_hn</sub>
+  `▲ 85 pts` &nbsp;·&nbsp; [💬 30 comments](https://news.ycombinator.com/item?id=50380704) &nbsp;·&nbsp; <sub>by agybay_07</sub>
 
 ---
 
 ### <code>( 03 ) // ASK HN (DISCUSSIONS)</code>
 
+- **[Ask HN: What are you working on? (November 2026)](https://news.ycombinator.com/item?id=50389501)**
+  `▲ 10 pts` &nbsp;·&nbsp; [💬 21 comments](https://news.ycombinator.com/item?id=50389501) &nbsp;·&nbsp; <sub>by tha_infra_guy</sub>
+
+- **[Ask HN: What are forgotten topics in computing that deserve a new revisit?](https://news.ycombinator.com/item?id=50387483)**
+  `▲ 29 pts` &nbsp;·&nbsp; [💬 26 comments](https://news.ycombinator.com/item?id=50387483) &nbsp;·&nbsp; <sub>by draxen</sub>
+
 - **[Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)](https://news.ycombinator.com/item?id=50363461)**
-  `▲ 698 pts` &nbsp;·&nbsp; [💬 182 comments](https://news.ycombinator.com/item?id=50363461) &nbsp;·&nbsp; <sub>by jameslk</sub>
-
-- **[Ask HN: What's your current AI agentic setup?](https://news.ycombinator.com/item?id=50366117)**
-  `▲ 495 pts` &nbsp;·&nbsp; [💬 606 comments](https://news.ycombinator.com/item?id=50366117) &nbsp;·&nbsp; <sub>by eggbrain</sub>
-
-- **[Ask HN: What cryptography book do you recommend for reading with 10 year olds?](https://news.ycombinator.com/item?id=50347425)**
-  `▲ 82 pts` &nbsp;·&nbsp; [💬 79 comments](https://news.ycombinator.com/item?id=50347425) &nbsp;·&nbsp; <sub>by mike_richards</sub>
+  `▲ 717 pts` &nbsp;·&nbsp; [💬 192 comments](https://news.ycombinator.com/item?id=50363461) &nbsp;·&nbsp; <sub>by jameslk</sub>
 
 ---
 
