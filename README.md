@@ -8,46 +8,46 @@
 
 ### <code>( 01 ) // TOP INTELLIGENCE</code>
 
-- **[Blender's UI and Runtime: Much Faster Than GPUI](https://github.com/ppmpreetham/BUI)**
-  `▲ 175 pts` &nbsp;·&nbsp; [💬 65 comments](https://news.ycombinator.com/item?id=50389333) &nbsp;·&nbsp; <sub>by ppmpreetham</sub>
+- **[A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](https://hightouch.com/blog/llm-judges-identity-resolution)**
+  `▲ 62 pts` &nbsp;·&nbsp; [💬 10 comments](https://news.ycombinator.com/item?id=50397429) &nbsp;·&nbsp; <sub>by theanomaly</sub>
 
-- **[Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757)**
-  `▲ 1160 pts` &nbsp;·&nbsp; [💬 357 comments](https://news.ycombinator.com/item?id=50385272) &nbsp;·&nbsp; <sub>by motoroco</sub>
+- **[Firecracker VM Escape: PwnEscape Part 2](https://pwn.ai/blog/firecracker-escape)**
+  `▲ 62 pts` &nbsp;·&nbsp; [💬 21 comments](https://news.ycombinator.com/item?id=50397219) &nbsp;·&nbsp; <sub>by SerCe</sub>
 
-- **[Kugelblitz – Mac-Native Google Earth Alternative](https://apps.metaebene.me/en/kugelblitz)**
-  `▲ 71 pts` &nbsp;·&nbsp; [💬 11 comments](https://news.ycombinator.com/item?id=50389370) &nbsp;·&nbsp; <sub>by luoc</sub>
+- **[US FAA says it will phase out floppy disks from air traffic control by 2028](https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/)**
+  `▲ 191 pts` &nbsp;·&nbsp; [💬 158 comments](https://news.ycombinator.com/item?id=50388001) &nbsp;·&nbsp; <sub>by ChrisArchitect</sub>
 
-- **[sshole](https://sshhole.com)**
-  `▲ 2718 pts` &nbsp;·&nbsp; [💬 651 comments](https://news.ycombinator.com/item?id=50378228) &nbsp;·&nbsp; <sub>by josemrb</sub>
+- **[As the Japanese Countryside Empties Out, Wildlife Is Disappearing](https://e360.yale.edu/digest/japan-depopulation-biodiversity)**
+  `▲ 37 pts` &nbsp;·&nbsp; [💬 17 comments](https://news.ycombinator.com/item?id=50397264) &nbsp;·&nbsp; <sub>by rdmuser</sub>
 
-- **[App Store 2026 in numbers: AI, pricing, abandoned apps](https://obelisk.club/research/app-store-2026)**
-  `▲ 37 pts` &nbsp;·&nbsp; [💬 29 comments](https://news.ycombinator.com/item?id=50389448) &nbsp;·&nbsp; <sub>by Peter216</sub>
+- **[Tesla to wind down Cybertruck production](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817)**
+  `▲ 625 pts` &nbsp;·&nbsp; [💬 1383 comments](https://news.ycombinator.com/item?id=50391456) &nbsp;·&nbsp; <sub>by PLenz</sub>
 
 ---
 
 ### <code>( 02 ) // SHOW HN (NEW TOOLS)</code>
 
-- **[Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM](https://firenook.dev/)**
-  `▲ 118 pts` &nbsp;·&nbsp; [💬 17 comments](https://news.ycombinator.com/item?id=50378643) &nbsp;·&nbsp; <sub>by sanjevirau</sub>
+- **[Show HN: Agents infer Lego mechanisms from sources, then animate them](https://github.com/anteloc/ldraw-mecha/tree/v0.5.0)**
+  `▲ 10 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50397325) &nbsp;·&nbsp; <sub>by antelocnova</sub>
 
-- **[Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)](https://www.linum.ai/field-notes/pjit-21k)**
-  `▲ 232 pts` &nbsp;·&nbsp; [💬 21 comments](https://news.ycombinator.com/item?id=50368208) &nbsp;·&nbsp; <sub>by schopra909</sub>
+- **[Show HN: Tell the Sky – message lanterns drift on winds from live weather data](https://tellthesky.com)**
+  `▲ 2 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50397561) &nbsp;·&nbsp; <sub>by andycodeman</sub>
 
-- **[Show HN: Stroq – a local audit of what your coding agent did and why](https://github.com/AGGIB/Stroq)**
-  `▲ 85 pts` &nbsp;·&nbsp; [💬 30 comments](https://news.ycombinator.com/item?id=50380704) &nbsp;·&nbsp; <sub>by agybay_07</sub>
+- **[Show HN: AegisKernel – Zero-trust POSIX runtime for AI agents in <0.016ms](https://adikshatriyag-crypto.github.io/aegis-kernel/)**
+  `▲ 10 pts` &nbsp;·&nbsp; [💬 3 comments](https://news.ycombinator.com/item?id=50394991) &nbsp;·&nbsp; <sub>by adityawebde</sub>
 
 ---
 
 ### <code>( 03 ) // ASK HN (DISCUSSIONS)</code>
 
-- **[Ask HN: What are you working on? (November 2026)](https://news.ycombinator.com/item?id=50389501)**
-  `▲ 10 pts` &nbsp;·&nbsp; [💬 21 comments](https://news.ycombinator.com/item?id=50389501) &nbsp;·&nbsp; <sub>by tha_infra_guy</sub>
+- **[Ask HN: What in the world is taking Ubuntu so long?](https://news.ycombinator.com/item?id=50393105)**
+  `▲ 152 pts` &nbsp;·&nbsp; [💬 93 comments](https://news.ycombinator.com/item?id=50393105) &nbsp;·&nbsp; <sub>by linsomniac</sub>
 
-- **[Ask HN: What are forgotten topics in computing that deserve a new revisit?](https://news.ycombinator.com/item?id=50387483)**
-  `▲ 29 pts` &nbsp;·&nbsp; [💬 26 comments](https://news.ycombinator.com/item?id=50387483) &nbsp;·&nbsp; <sub>by draxen</sub>
+- **[About Loopback Interfaces](https://news.ycombinator.com/item?id=50397222)**
+  `▲ 2 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50397222) &nbsp;·&nbsp; <sub>by wuway</sub>
 
-- **[Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)](https://news.ycombinator.com/item?id=50363461)**
-  `▲ 717 pts` &nbsp;·&nbsp; [💬 192 comments](https://news.ycombinator.com/item?id=50363461) &nbsp;·&nbsp; <sub>by jameslk</sub>
+- **[A new protocol and software suite for AIs](https://news.ycombinator.com/item?id=50397008)**
+  `▲ 2 pts` &nbsp;·&nbsp; [💬 1 comments](https://news.ycombinator.com/item?id=50397008) &nbsp;·&nbsp; <sub>by homingpigeon</sub>
 
 ---
 
