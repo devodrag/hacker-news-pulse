@@ -1,6 +1,6 @@
 <div align="center">
   <p><code><b>( • ) HACKER NEWS PULSE &nbsp;|&nbsp; AUTOMATED DAILY DIGEST</b></code></p>
-  <h1><b>HN PULSE // 2026-11-07</b></h1>
+  <h1><b>HN PULSE // 2026-11-08</b></h1>
   <p>Curated developer intelligence, trending engineering debates, and community showcases.</p>
 </div>
 
@@ -8,46 +8,46 @@
 
 ### <code>( 01 ) // TOP INTELLIGENCE</code>
 
-- **[Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished](https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared/)**
-  `▲ 82 pts` &nbsp;·&nbsp; [💬 20 comments](https://news.ycombinator.com/item?id=50406563) &nbsp;·&nbsp; <sub>by srean</sub>
+- **[Goodbye Claude, Hello Pi](https://caleb.software/posts/claude-to-pi.html)**
+  `▲ 292 pts` &nbsp;·&nbsp; [💬 171 comments](https://news.ycombinator.com/item?id=50410107) &nbsp;·&nbsp; <sub>by karagenit</sub>
 
-- **[What I run on my $10 USD OpenStick, Linux, Homelab](https://blog.bosscher.ch/posts/openstick/)**
-  `▲ 49 pts` &nbsp;·&nbsp; [💬 9 comments](https://news.ycombinator.com/item?id=50406670) &nbsp;·&nbsp; <sub>by LaurensBER</sub>
+- **[Agent memory needs its OpenTelemetry moment](https://www.lorekit.io/blog/open-agent-memory-format)**
+  `▲ 13 pts` &nbsp;·&nbsp; [💬 9 comments](https://news.ycombinator.com/item?id=50411467) &nbsp;·&nbsp; <sub>by mthines</sub>
 
-- **[The End of AI Frontiers](https://hunch.net/?p=13764006)**
-  `▲ 54 pts` &nbsp;·&nbsp; [💬 18 comments](https://news.ycombinator.com/item?id=50406589) &nbsp;·&nbsp; <sub>by andsoitis</sub>
+- **[Clj.rs – a Clojure dialect implemented in Rust](https://clj.rs/)**
+  `▲ 46 pts` &nbsp;·&nbsp; [💬 4 comments](https://news.ycombinator.com/item?id=50366902) &nbsp;·&nbsp; <sub>by simonpure</sub>
 
-- **[Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller](https://github.com/hedgerow-dev/coldframe)**
-  `▲ 83 pts` &nbsp;·&nbsp; [💬 21 comments](https://news.ycombinator.com/item?id=50406292) &nbsp;·&nbsp; <sub>by hedgerow-dev</sub>
+- **[What I run on my $10 USD OpenStick homelab](https://blog.bosscher.ch/posts/openstick/)**
+  `▲ 579 pts` &nbsp;·&nbsp; [💬 110 comments](https://news.ycombinator.com/item?id=50406670) &nbsp;·&nbsp; <sub>by LaurensBER</sub>
 
-- **[MaxxBench – "Nice DeepSWE score. But is it true?"](https://maxxbench.unlap.ai/research/why-maxxbench/)**
-  `▲ 54 pts` &nbsp;·&nbsp; [💬 8 comments](https://news.ycombinator.com/item?id=50406222) &nbsp;·&nbsp; <sub>by antiuniverse</sub>
+- **[Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again)**
+  `▲ 390 pts` &nbsp;·&nbsp; [💬 268 comments](https://news.ycombinator.com/item?id=50407882) &nbsp;·&nbsp; <sub>by shmulc</sub>
 
 ---
 
 ### <code>( 02 ) // SHOW HN (NEW TOOLS)</code>
 
 - **[Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller](https://github.com/hedgerow-dev/coldframe)**
-  `▲ 83 pts` &nbsp;·&nbsp; [💬 21 comments](https://news.ycombinator.com/item?id=50406292) &nbsp;·&nbsp; <sub>by hedgerow-dev</sub>
+  `▲ 234 pts` &nbsp;·&nbsp; [💬 58 comments](https://news.ycombinator.com/item?id=50406292) &nbsp;·&nbsp; <sub>by hedgerow-dev</sub>
 
-- **[Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8](https://github.com/Video-Rebirth/hyperflow-h3-flash)**
-  `▲ 18 pts` &nbsp;·&nbsp; [💬 7 comments](https://news.ycombinator.com/item?id=50405263) &nbsp;·&nbsp; <sub>by jiant</sub>
+- **[Show HN: Maple – Sub-2-BPW Moe Pruning to Run Gemma 4 26B at 45 TPS on a 6GB GPU](https://github.com/AmSach/maple)**
+  `▲ 10 pts` &nbsp;·&nbsp; [💬 4 comments](https://news.ycombinator.com/item?id=50410253) &nbsp;·&nbsp; <sub>by AmSach</sub>
 
-- **[Show HN: Spindle – a full-featured, type-safe web framework for OCaml 5](https://github.com/hyphatech/spindle)**
-  `▲ 49 pts` &nbsp;·&nbsp; [💬 8 comments](https://news.ycombinator.com/item?id=50377613) &nbsp;·&nbsp; <sub>by zaiev</sub>
+- **[Show HN: Where Were We](https://wherewerewe.app/)**
+  `▲ 43 pts` &nbsp;·&nbsp; [💬 16 comments](https://news.ycombinator.com/item?id=50408082) &nbsp;·&nbsp; <sub>by zkiihne</sub>
 
 ---
 
 ### <code>( 03 ) // ASK HN (DISCUSSIONS)</code>
 
 - **[Ask HN: How did you convince family and friends to join your XMPP/Matrix server?](https://news.ycombinator.com/item?id=50405250)**
-  `▲ 59 pts` &nbsp;·&nbsp; [💬 49 comments](https://news.ycombinator.com/item?id=50405250) &nbsp;·&nbsp; <sub>by mtlynch</sub>
+  `▲ 84 pts` &nbsp;·&nbsp; [💬 81 comments](https://news.ycombinator.com/item?id=50405250) &nbsp;·&nbsp; <sub>by mtlynch</sub>
 
 - **[Ask HN: What in the world is taking Ubuntu so long?](https://news.ycombinator.com/item?id=50393105)**
-  `▲ 213 pts` &nbsp;·&nbsp; [💬 136 comments](https://news.ycombinator.com/item?id=50393105) &nbsp;·&nbsp; <sub>by linsomniac</sub>
+  `▲ 216 pts` &nbsp;·&nbsp; [💬 138 comments](https://news.ycombinator.com/item?id=50393105) &nbsp;·&nbsp; <sub>by linsomniac</sub>
 
-- **[I turned an ESP32-S3 into a Tailscale gateway with recovery functions](https://news.ycombinator.com/item?id=50403882)**
-  `▲ 5 pts` &nbsp;·&nbsp; [💬 1 comments](https://news.ycombinator.com/item?id=50403882) &nbsp;·&nbsp; <sub>by Mattboxx</sub>
+- **[Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)](https://news.ycombinator.com/item?id=50363461)**
+  `▲ 730 pts` &nbsp;·&nbsp; [💬 200 comments](https://news.ycombinator.com/item?id=50363461) &nbsp;·&nbsp; <sub>by jameslk</sub>
 
 ---
 
