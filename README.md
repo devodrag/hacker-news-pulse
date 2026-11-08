@@ -8,46 +8,46 @@
 
 ### <code>( 01 ) // TOP INTELLIGENCE</code>
 
-- **[Goodbye Claude, Hello Pi](https://caleb.software/posts/claude-to-pi.html)**
-  `▲ 292 pts` &nbsp;·&nbsp; [💬 171 comments](https://news.ycombinator.com/item?id=50410107) &nbsp;·&nbsp; <sub>by karagenit</sub>
+- **[Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers)**
+  `▲ 132 pts` &nbsp;·&nbsp; [💬 71 comments](https://news.ycombinator.com/item?id=50415628) &nbsp;·&nbsp; <sub>by TheWiggles</sub>
 
-- **[Agent memory needs its OpenTelemetry moment](https://www.lorekit.io/blog/open-agent-memory-format)**
-  `▲ 13 pts` &nbsp;·&nbsp; [💬 9 comments](https://news.ycombinator.com/item?id=50411467) &nbsp;·&nbsp; <sub>by mthines</sub>
+- **[Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU](https://github.com/synchopate/llama-modchip)**
+  `▲ 270 pts` &nbsp;·&nbsp; [💬 88 comments](https://news.ycombinator.com/item?id=50411961) &nbsp;·&nbsp; <sub>by joshcsimmons</sub>
 
-- **[Clj.rs – a Clojure dialect implemented in Rust](https://clj.rs/)**
-  `▲ 46 pts` &nbsp;·&nbsp; [💬 4 comments](https://news.ycombinator.com/item?id=50366902) &nbsp;·&nbsp; <sub>by simonpure</sub>
+- **[The Reconstruction of Torn Documents](https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/)**
+  `▲ 58 pts` &nbsp;·&nbsp; [💬 36 comments](https://news.ycombinator.com/item?id=50389923) &nbsp;·&nbsp; <sub>by jacquesm</sub>
 
-- **[What I run on my $10 USD OpenStick homelab](https://blog.bosscher.ch/posts/openstick/)**
-  `▲ 579 pts` &nbsp;·&nbsp; [💬 110 comments](https://news.ycombinator.com/item?id=50406670) &nbsp;·&nbsp; <sub>by LaurensBER</sub>
+- **[Writing as a thinking tool](http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html)**
+  `▲ 171 pts` &nbsp;·&nbsp; [💬 56 comments](https://news.ycombinator.com/item?id=50412067) &nbsp;·&nbsp; <sub>by jruohonen</sub>
 
-- **[Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again)**
-  `▲ 390 pts` &nbsp;·&nbsp; [💬 268 comments](https://news.ycombinator.com/item?id=50407882) &nbsp;·&nbsp; <sub>by shmulc</sub>
+- **[UK House of Lords to propose mandatory CSAM detection software on smartphones](https://observer.co.uk/news/national/article/fight-to-block-child-sexual-abuse-images-unites-peers-and-mps-in-cross-party-campaign)**
+  `▲ 41 pts` &nbsp;·&nbsp; [💬 17 comments](https://news.ycombinator.com/item?id=50414331) &nbsp;·&nbsp; <sub>by iamnothere</sub>
 
 ---
 
 ### <code>( 02 ) // SHOW HN (NEW TOOLS)</code>
 
+- **[Show HN: Vegetable Gardening for Engineers](https://jrcpl.us/contrib/2020/gardening-for-engineers/)**
+  `▲ 67 pts` &nbsp;·&nbsp; [💬 16 comments](https://news.ycombinator.com/item?id=50362963) &nbsp;·&nbsp; <sub>by jrcplus</sub>
+
+- **[Show HN: Elo Ratings for Tests, ODIs, and T20Is](https://outside-edge.github.io/side_order/)**
+  `▲ 3 pts` &nbsp;·&nbsp; [💬 1 comments](https://news.ycombinator.com/item?id=50415725) &nbsp;·&nbsp; <sub>by neehao</sub>
+
 - **[Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller](https://github.com/hedgerow-dev/coldframe)**
-  `▲ 234 pts` &nbsp;·&nbsp; [💬 58 comments](https://news.ycombinator.com/item?id=50406292) &nbsp;·&nbsp; <sub>by hedgerow-dev</sub>
-
-- **[Show HN: Maple – Sub-2-BPW Moe Pruning to Run Gemma 4 26B at 45 TPS on a 6GB GPU](https://github.com/AmSach/maple)**
-  `▲ 10 pts` &nbsp;·&nbsp; [💬 4 comments](https://news.ycombinator.com/item?id=50410253) &nbsp;·&nbsp; <sub>by AmSach</sub>
-
-- **[Show HN: Where Were We](https://wherewerewe.app/)**
-  `▲ 43 pts` &nbsp;·&nbsp; [💬 16 comments](https://news.ycombinator.com/item?id=50408082) &nbsp;·&nbsp; <sub>by zkiihne</sub>
+  `▲ 271 pts` &nbsp;·&nbsp; [💬 62 comments](https://news.ycombinator.com/item?id=50406292) &nbsp;·&nbsp; <sub>by hedgerow-dev</sub>
 
 ---
 
 ### <code>( 03 ) // ASK HN (DISCUSSIONS)</code>
 
 - **[Ask HN: How did you convince family and friends to join your XMPP/Matrix server?](https://news.ycombinator.com/item?id=50405250)**
-  `▲ 84 pts` &nbsp;·&nbsp; [💬 81 comments](https://news.ycombinator.com/item?id=50405250) &nbsp;·&nbsp; <sub>by mtlynch</sub>
-
-- **[Ask HN: What in the world is taking Ubuntu so long?](https://news.ycombinator.com/item?id=50393105)**
-  `▲ 216 pts` &nbsp;·&nbsp; [💬 138 comments](https://news.ycombinator.com/item?id=50393105) &nbsp;·&nbsp; <sub>by linsomniac</sub>
+  `▲ 96 pts` &nbsp;·&nbsp; [💬 87 comments](https://news.ycombinator.com/item?id=50405250) &nbsp;·&nbsp; <sub>by mtlynch</sub>
 
 - **[Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)](https://news.ycombinator.com/item?id=50363461)**
-  `▲ 730 pts` &nbsp;·&nbsp; [💬 200 comments](https://news.ycombinator.com/item?id=50363461) &nbsp;·&nbsp; <sub>by jameslk</sub>
+  `▲ 734 pts` &nbsp;·&nbsp; [💬 201 comments](https://news.ycombinator.com/item?id=50363461) &nbsp;·&nbsp; <sub>by jameslk</sub>
+
+- **[Ask HN: What in the world is taking Ubuntu so long?](https://news.ycombinator.com/item?id=50393105)**
+  `▲ 216 pts` &nbsp;·&nbsp; [💬 139 comments](https://news.ycombinator.com/item?id=50393105) &nbsp;·&nbsp; <sub>by linsomniac</sub>
 
 ---
 
