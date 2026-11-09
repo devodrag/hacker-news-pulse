@@ -1,6 +1,6 @@
 <div align="center">
   <p><code><b>( • ) HACKER NEWS PULSE &nbsp;|&nbsp; AUTOMATED DAILY DIGEST</b></code></p>
-  <h1><b>HN PULSE // 2026-11-08</b></h1>
+  <h1><b>HN PULSE // 2026-11-09</b></h1>
   <p>Curated developer intelligence, trending engineering debates, and community showcases.</p>
 </div>
 
@@ -8,46 +8,46 @@
 
 ### <code>( 01 ) // TOP INTELLIGENCE</code>
 
-- **[Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers)**
-  `▲ 132 pts` &nbsp;·&nbsp; [💬 71 comments](https://news.ycombinator.com/item?id=50415628) &nbsp;·&nbsp; <sub>by TheWiggles</sub>
+- **[Fun things to do with your VM/370 CE machine – Fun with big computers](https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/)**
+  `▲ 15 pts` &nbsp;·&nbsp; [💬 2 comments](https://news.ycombinator.com/item?id=50423569) &nbsp;·&nbsp; <sub>by rbanffy</sub>
 
-- **[Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU](https://github.com/synchopate/llama-modchip)**
-  `▲ 270 pts` &nbsp;·&nbsp; [💬 88 comments](https://news.ycombinator.com/item?id=50411961) &nbsp;·&nbsp; <sub>by joshcsimmons</sub>
+- **[Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation](https://arxiv.org/abs/2610.14162)**
+  `▲ 96 pts` &nbsp;·&nbsp; [💬 12 comments](https://news.ycombinator.com/item?id=50422168) &nbsp;·&nbsp; <sub>by theanonymousone</sub>
 
-- **[The Reconstruction of Torn Documents](https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/)**
-  `▲ 58 pts` &nbsp;·&nbsp; [💬 36 comments](https://news.ycombinator.com/item?id=50389923) &nbsp;·&nbsp; <sub>by jacquesm</sub>
+- **[Unlocking any car from X brand in most of the world](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/)**
+  `▲ 384 pts` &nbsp;·&nbsp; [💬 156 comments](https://news.ycombinator.com/item?id=50419215) &nbsp;·&nbsp; <sub>by infosecau</sub>
 
-- **[Writing as a thinking tool](http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html)**
-  `▲ 171 pts` &nbsp;·&nbsp; [💬 56 comments](https://news.ycombinator.com/item?id=50412067) &nbsp;·&nbsp; <sub>by jruohonen</sub>
+- **[KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](https://ketchup3d.github.io/app/)**
+  `▲ 516 pts` &nbsp;·&nbsp; [💬 149 comments](https://news.ycombinator.com/item?id=50418176) &nbsp;·&nbsp; <sub>by dcoulmbe</sub>
 
-- **[UK House of Lords to propose mandatory CSAM detection software on smartphones](https://observer.co.uk/news/national/article/fight-to-block-child-sexual-abuse-images-unites-peers-and-mps-in-cross-party-campaign)**
-  `▲ 41 pts` &nbsp;·&nbsp; [💬 17 comments](https://news.ycombinator.com/item?id=50414331) &nbsp;·&nbsp; <sub>by iamnothere</sub>
+- **[I'm not convinced the AI bubble exists](https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists)**
+  `▲ 312 pts` &nbsp;·&nbsp; [💬 535 comments](https://news.ycombinator.com/item?id=50418975) &nbsp;·&nbsp; <sub>by matteoraso</sub>
 
 ---
 
 ### <code>( 02 ) // SHOW HN (NEW TOOLS)</code>
 
-- **[Show HN: Vegetable Gardening for Engineers](https://jrcpl.us/contrib/2020/gardening-for-engineers/)**
-  `▲ 67 pts` &nbsp;·&nbsp; [💬 16 comments](https://news.ycombinator.com/item?id=50362963) &nbsp;·&nbsp; <sub>by jrcplus</sub>
+- **[Show HN: Flide: Make Jev-like decision models up to 9.5x faster](https://github.com/OmniJev/Flide)**
+  `▲ 35 pts` &nbsp;·&nbsp; [💬 9 comments](https://news.ycombinator.com/item?id=50421155) &nbsp;·&nbsp; <sub>by unikcc</sub>
 
-- **[Show HN: Elo Ratings for Tests, ODIs, and T20Is](https://outside-edge.github.io/side_order/)**
-  `▲ 3 pts` &nbsp;·&nbsp; [💬 1 comments](https://news.ycombinator.com/item?id=50415725) &nbsp;·&nbsp; <sub>by neehao</sub>
+- **[SHOW HN: GerGit - A Free Open-Source Git GUI Client for Linux Inspired by Fork](https://github.com/IcaruzSoftware/GerGit)**
+  `▲ 4 pts` &nbsp;·&nbsp; [💬 1 comments](https://news.ycombinator.com/item?id=50423525) &nbsp;·&nbsp; <sub>by IcaruzSoftware</sub>
 
-- **[Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller](https://github.com/hedgerow-dev/coldframe)**
-  `▲ 271 pts` &nbsp;·&nbsp; [💬 62 comments](https://news.ycombinator.com/item?id=50406292) &nbsp;·&nbsp; <sub>by hedgerow-dev</sub>
+- **[Show HN: Deterministic 15µs In-Material Lob Shock Damping for CCXT Traders](https://github.com/neoma-pcam/pcam-live)**
+  `▲ 2 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50423233) &nbsp;·&nbsp; <sub>by neoma001</sub>
 
 ---
 
 ### <code>( 03 ) // ASK HN (DISCUSSIONS)</code>
 
-- **[Ask HN: How did you convince family and friends to join your XMPP/Matrix server?](https://news.ycombinator.com/item?id=50405250)**
-  `▲ 96 pts` &nbsp;·&nbsp; [💬 87 comments](https://news.ycombinator.com/item?id=50405250) &nbsp;·&nbsp; <sub>by mtlynch</sub>
+- **[Ask HN: What are you working on? (November 2026)](https://news.ycombinator.com/item?id=50417407)**
+  `▲ 220 pts` &nbsp;·&nbsp; [💬 730 comments](https://news.ycombinator.com/item?id=50417407) &nbsp;·&nbsp; <sub>by david927</sub>
 
-- **[Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)](https://news.ycombinator.com/item?id=50363461)**
-  `▲ 734 pts` &nbsp;·&nbsp; [💬 201 comments](https://news.ycombinator.com/item?id=50363461) &nbsp;·&nbsp; <sub>by jameslk</sub>
+- **[ChatGPT Desktop forwards your SSH agent to remote machines](https://news.ycombinator.com/item?id=50422628)**
+  `▲ 31 pts` &nbsp;·&nbsp; [💬 9 comments](https://news.ycombinator.com/item?id=50422628) &nbsp;·&nbsp; <sub>by DenGorbachev</sub>
 
-- **[Ask HN: What in the world is taking Ubuntu so long?](https://news.ycombinator.com/item?id=50393105)**
-  `▲ 216 pts` &nbsp;·&nbsp; [💬 139 comments](https://news.ycombinator.com/item?id=50393105) &nbsp;·&nbsp; <sub>by linsomniac</sub>
+- **[Ask HN: Do you still enjoy coding in C++?](https://news.ycombinator.com/item?id=50423371)**
+  `▲ 16 pts` &nbsp;·&nbsp; [💬 10 comments](https://news.ycombinator.com/item?id=50423371) &nbsp;·&nbsp; <sub>by hasley</sub>
 
 ---
 
