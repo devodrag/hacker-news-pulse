@@ -8,46 +8,46 @@
 
 ### <code>( 01 ) // TOP INTELLIGENCE</code>
 
-- **[Fun things to do with your VM/370 CE machine – Fun with big computers](https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/)**
-  `▲ 15 pts` &nbsp;·&nbsp; [💬 2 comments](https://news.ycombinator.com/item?id=50423569) &nbsp;·&nbsp; <sub>by rbanffy</sub>
+- **[USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb)**
+  `▲ 363 pts` &nbsp;·&nbsp; [💬 181 comments](https://news.ycombinator.com/item?id=50431058) &nbsp;·&nbsp; <sub>by munro</sub>
 
-- **[Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation](https://arxiv.org/abs/2610.14162)**
-  `▲ 96 pts` &nbsp;·&nbsp; [💬 12 comments](https://news.ycombinator.com/item?id=50422168) &nbsp;·&nbsp; <sub>by theanonymousone</sub>
+- **[TPUs](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/)**
+  `▲ 109 pts` &nbsp;·&nbsp; [💬 14 comments](https://news.ycombinator.com/item?id=50432831) &nbsp;·&nbsp; <sub>by _benx_</sub>
 
-- **[Unlocking any car from X brand in most of the world](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/)**
-  `▲ 384 pts` &nbsp;·&nbsp; [💬 156 comments](https://news.ycombinator.com/item?id=50419215) &nbsp;·&nbsp; <sub>by infosecau</sub>
+- **[Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far](https://artificialanalysis.ai/models/claude-fable-5-2)**
+  `▲ 233 pts` &nbsp;·&nbsp; [💬 149 comments](https://news.ycombinator.com/item?id=50431144) &nbsp;·&nbsp; <sub>by theanonymousone</sub>
 
-- **[KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](https://ketchup3d.github.io/app/)**
-  `▲ 516 pts` &nbsp;·&nbsp; [💬 149 comments](https://news.ycombinator.com/item?id=50418176) &nbsp;·&nbsp; <sub>by dcoulmbe</sub>
+- **[Google Gemini routes personal Drive files and emails to human annotators](https://github.com/thisisme6598/gemini_files/)**
+  `▲ 281 pts` &nbsp;·&nbsp; [💬 56 comments](https://news.ycombinator.com/item?id=50429426) &nbsp;·&nbsp; <sub>by gf74918</sub>
 
-- **[I'm not convinced the AI bubble exists](https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists)**
-  `▲ 312 pts` &nbsp;·&nbsp; [💬 535 comments](https://news.ycombinator.com/item?id=50418975) &nbsp;·&nbsp; <sub>by matteoraso</sub>
+- **[E-means: 10x faster k-means at equal loss](https://e-means.github.io/)**
+  `▲ 234 pts` &nbsp;·&nbsp; [💬 13 comments](https://news.ycombinator.com/item?id=50429734) &nbsp;·&nbsp; <sub>by porridgeraisin</sub>
 
 ---
 
 ### <code>( 02 ) // SHOW HN (NEW TOOLS)</code>
 
-- **[Show HN: Flide: Make Jev-like decision models up to 9.5x faster](https://github.com/OmniJev/Flide)**
-  `▲ 35 pts` &nbsp;·&nbsp; [💬 9 comments](https://news.ycombinator.com/item?id=50421155) &nbsp;·&nbsp; <sub>by unikcc</sub>
+- **[Show HN: Every satellite that passed over any place this week, and its photos](https://www.watched.earth)**
+  `▲ 200 pts` &nbsp;·&nbsp; [💬 43 comments](https://news.ycombinator.com/item?id=50428907) &nbsp;·&nbsp; <sub>by a585gupt</sub>
 
-- **[SHOW HN: GerGit - A Free Open-Source Git GUI Client for Linux Inspired by Fork](https://github.com/IcaruzSoftware/GerGit)**
-  `▲ 4 pts` &nbsp;·&nbsp; [💬 1 comments](https://news.ycombinator.com/item?id=50423525) &nbsp;·&nbsp; <sub>by IcaruzSoftware</sub>
+- **[Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse](https://meowdisplay.app/)**
+  `▲ 68 pts` &nbsp;·&nbsp; [💬 25 comments](https://news.ycombinator.com/item?id=50429636) &nbsp;·&nbsp; <sub>by raiseCatError</sub>
 
-- **[Show HN: Deterministic 15µs In-Material Lob Shock Damping for CCXT Traders](https://github.com/neoma-pcam/pcam-live)**
-  `▲ 2 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50423233) &nbsp;·&nbsp; <sub>by neoma001</sub>
+- **[Show HN: Someone Was Here – Find out who used your Mac while you were away](https://someonewashere.app/)**
+  `▲ 40 pts` &nbsp;·&nbsp; [💬 18 comments](https://news.ycombinator.com/item?id=50429812) &nbsp;·&nbsp; <sub>by 4onthefloor124</sub>
 
 ---
 
 ### <code>( 03 ) // ASK HN (DISCUSSIONS)</code>
 
-- **[Ask HN: What are you working on? (November 2026)](https://news.ycombinator.com/item?id=50417407)**
-  `▲ 220 pts` &nbsp;·&nbsp; [💬 730 comments](https://news.ycombinator.com/item?id=50417407) &nbsp;·&nbsp; <sub>by david927</sub>
-
 - **[ChatGPT Desktop forwards your SSH agent to remote machines](https://news.ycombinator.com/item?id=50422628)**
-  `▲ 31 pts` &nbsp;·&nbsp; [💬 9 comments](https://news.ycombinator.com/item?id=50422628) &nbsp;·&nbsp; <sub>by DenGorbachev</sub>
+  `▲ 203 pts` &nbsp;·&nbsp; [💬 71 comments](https://news.ycombinator.com/item?id=50422628) &nbsp;·&nbsp; <sub>by DenGorbachev</sub>
+
+- **[Ask HN: What are you working on? (November 2026)](https://news.ycombinator.com/item?id=50417407)**
+  `▲ 278 pts` &nbsp;·&nbsp; [💬 965 comments](https://news.ycombinator.com/item?id=50417407) &nbsp;·&nbsp; <sub>by david927</sub>
 
 - **[Ask HN: Do you still enjoy coding in C++?](https://news.ycombinator.com/item?id=50423371)**
-  `▲ 16 pts` &nbsp;·&nbsp; [💬 10 comments](https://news.ycombinator.com/item?id=50423371) &nbsp;·&nbsp; <sub>by hasley</sub>
+  `▲ 51 pts` &nbsp;·&nbsp; [💬 70 comments](https://news.ycombinator.com/item?id=50423371) &nbsp;·&nbsp; <sub>by hasley</sub>
 
 ---
 
