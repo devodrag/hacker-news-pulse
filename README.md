@@ -8,46 +8,46 @@
 
 ### <code>( 01 ) // TOP INTELLIGENCE</code>
 
-- **[Amazon saves millions by replacing Sonnet 4.6 with Strands Decider](https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/)**
-  `▲ 308 pts` &nbsp;·&nbsp; [💬 106 comments](https://news.ycombinator.com/item?id=50436640) &nbsp;·&nbsp; <sub>by aloukissas</sub>
+- **[.name Grandfathered](https://neil.fraser.name/news/2026/11/10/)**
+  `▲ 509 pts` &nbsp;·&nbsp; [💬 99 comments](https://news.ycombinator.com/item?id=50442736) &nbsp;·&nbsp; <sub>by p4bl0</sub>
 
-- **[Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2)**
-  `▲ 624 pts` &nbsp;·&nbsp; [💬 819 comments](https://news.ycombinator.com/item?id=50429068) &nbsp;·&nbsp; <sub>by lairv</sub>
+- **[Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/)**
+  `▲ 482 pts` &nbsp;·&nbsp; [💬 175 comments](https://news.ycombinator.com/item?id=50441707) &nbsp;·&nbsp; <sub>by skittleson</sub>
 
-- **[Queens Public library under ransomware attack e-borrowing suspended](https://connect.queenslibrary.org/)**
-  `▲ 31 pts` &nbsp;·&nbsp; [💬 10 comments](https://news.ycombinator.com/item?id=50437790) &nbsp;·&nbsp; <sub>by rustyhancock</sub>
+- **[Synaptics patent claims stop work on DisplayLink drivers](https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/)**
+  `▲ 174 pts` &nbsp;·&nbsp; [💬 80 comments](https://news.ycombinator.com/item?id=50443824) &nbsp;·&nbsp; <sub>by speckx</sub>
 
-- **[USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb)**
-  `▲ 623 pts` &nbsp;·&nbsp; [💬 318 comments](https://news.ycombinator.com/item?id=50431058) &nbsp;·&nbsp; <sub>by munro</sub>
+- **[Val Town is winding down](https://blog.val.town/winding-down)**
+  `▲ 205 pts` &nbsp;·&nbsp; [💬 52 comments](https://news.ycombinator.com/item?id=50443427) &nbsp;·&nbsp; <sub>by tosh</sub>
 
-- **[Your TV can see through walls](https://maurycyz.com/projects/fading/)**
-  `▲ 128 pts` &nbsp;·&nbsp; [💬 48 comments](https://news.ycombinator.com/item?id=50436410) &nbsp;·&nbsp; <sub>by Curiositry</sub>
+- **[Six Math Essentials by Terence Tao](https://teorth.github.io/tao-web/six-math-essentials.html)**
+  `▲ 9 pts` &nbsp;·&nbsp; [💬 1 comments](https://news.ycombinator.com/item?id=50446246) &nbsp;·&nbsp; <sub>by digital55</sub>
 
 ---
 
 ### <code>( 02 ) // SHOW HN (NEW TOOLS)</code>
 
-- **[Show HN: Every satellite that passed over any place this week, and its photos](https://www.watched.earth)**
-  `▲ 363 pts` &nbsp;·&nbsp; [💬 62 comments](https://news.ycombinator.com/item?id=50428907) &nbsp;·&nbsp; <sub>by a585gupt</sub>
+- **[Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance)**
+  `▲ 152 pts` &nbsp;·&nbsp; [💬 43 comments](https://news.ycombinator.com/item?id=50443812) &nbsp;·&nbsp; <sub>by paulirish</sub>
 
-- **[Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse](https://meowdisplay.app/)**
-  `▲ 107 pts` &nbsp;·&nbsp; [💬 38 comments](https://news.ycombinator.com/item?id=50429636) &nbsp;·&nbsp; <sub>by raiseCatError</sub>
+- **[Show HN: Valencia, Spain in Sim City/Isometric View](https://tinyvalencia.com/)**
+  `▲ 139 pts` &nbsp;·&nbsp; [💬 35 comments](https://news.ycombinator.com/item?id=50441518) &nbsp;·&nbsp; <sub>by leugim</sub>
 
-- **[Show HN: Someone Was Here – Find out who used your Mac while you were away](https://someonewashere.app/)**
-  `▲ 96 pts` &nbsp;·&nbsp; [💬 35 comments](https://news.ycombinator.com/item?id=50429812) &nbsp;·&nbsp; <sub>by 4onthefloor124</sub>
+- **[Show HN: I have trained 15 blood glucose forecasting models on my own data](https://github.com/0xdeadf1sh/T1DMAI)**
+  `▲ 8 pts` &nbsp;·&nbsp; [💬 1 comments](https://news.ycombinator.com/item?id=50444761) &nbsp;·&nbsp; <sub>by 0xdeadf1sh</sub>
 
 ---
 
 ### <code>( 03 ) // ASK HN (DISCUSSIONS)</code>
 
+- **[How do you keep up quality when you vibe-code?](https://news.ycombinator.com/item?id=50444380)**
+  `▲ 13 pts` &nbsp;·&nbsp; [💬 13 comments](https://news.ycombinator.com/item?id=50444380) &nbsp;·&nbsp; <sub>by nkcodes</sub>
+
 - **[Ask HN: What are you working on? (November 2026)](https://news.ycombinator.com/item?id=50417407)**
-  `▲ 284 pts` &nbsp;·&nbsp; [💬 991 comments](https://news.ycombinator.com/item?id=50417407) &nbsp;·&nbsp; <sub>by david927</sub>
+  `▲ 290 pts` &nbsp;·&nbsp; [💬 1026 comments](https://news.ycombinator.com/item?id=50417407) &nbsp;·&nbsp; <sub>by david927</sub>
 
 - **[ChatGPT Desktop forwards your SSH agent to remote machines](https://news.ycombinator.com/item?id=50422628)**
-  `▲ 211 pts` &nbsp;·&nbsp; [💬 73 comments](https://news.ycombinator.com/item?id=50422628) &nbsp;·&nbsp; <sub>by DenGorbachev</sub>
-
-- **[Ask HN: Do you still enjoy coding in C++?](https://news.ycombinator.com/item?id=50423371)**
-  `▲ 55 pts` &nbsp;·&nbsp; [💬 80 comments](https://news.ycombinator.com/item?id=50423371) &nbsp;·&nbsp; <sub>by hasley</sub>
+  `▲ 213 pts` &nbsp;·&nbsp; [💬 76 comments](https://news.ycombinator.com/item?id=50422628) &nbsp;·&nbsp; <sub>by DenGorbachev</sub>
 
 ---
 
