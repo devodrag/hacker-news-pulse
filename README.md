@@ -8,46 +8,46 @@
 
 ### <code>( 01 ) // TOP INTELLIGENCE</code>
 
-- **[Protecting SSH Keys with macOS Secure Enclave](https://gatezh.com/posts/macos-secure-enclave-ssh-keys/)**
-  `▲ 203 pts` &nbsp;·&nbsp; [💬 73 comments](https://news.ycombinator.com/item?id=50449748) &nbsp;·&nbsp; <sub>by js2</sub>
+- **[AWS Finally Built Its Own AWS Emulator](https://github.com/aws/aws-emulator)**
+  `▲ 470 pts` &nbsp;·&nbsp; [💬 146 comments](https://news.ycombinator.com/item?id=50456631) &nbsp;·&nbsp; <sub>by super_linear</sub>
 
-- **[Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/)**
-  `▲ 954 pts` &nbsp;·&nbsp; [💬 343 comments](https://news.ycombinator.com/item?id=50441707) &nbsp;·&nbsp; <sub>by skittleson</sub>
+- **[Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)**
+  `▲ 637 pts` &nbsp;·&nbsp; [💬 63 comments](https://news.ycombinator.com/item?id=50450488) &nbsp;·&nbsp; <sub>by ayhanfuat</sub>
 
-- **[.name Grandfathered](https://neil.fraser.name/news/2026/11/10/)**
-  `▲ 846 pts` &nbsp;·&nbsp; [💬 184 comments](https://news.ycombinator.com/item?id=50442736) &nbsp;·&nbsp; <sub>by p4bl0</sub>
+- **[A false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/)**
+  `▲ 329 pts` &nbsp;·&nbsp; [💬 165 comments](https://news.ycombinator.com/item?id=50455394) &nbsp;·&nbsp; <sub>by mbac32768</sub>
 
-- **[Scion is back and is going to sell a kei truck in America](https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/)**
-  `▲ 477 pts` &nbsp;·&nbsp; [💬 316 comments](https://news.ycombinator.com/item?id=50445401) &nbsp;·&nbsp; <sub>by NaOH</sub>
+- **[AWS Emulator and the engineer's job when agents write the code](https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html)**
+  `▲ 108 pts` &nbsp;·&nbsp; [💬 13 comments](https://news.ycombinator.com/item?id=50456740) &nbsp;·&nbsp; <sub>by drbm</sub>
 
-- **[Greg Kurtzer's Ginux is now a userspace kernel](https://github.com/gmkurtzer/ginux)**
-  `▲ 73 pts` &nbsp;·&nbsp; [💬 34 comments](https://news.ycombinator.com/item?id=50450007) &nbsp;·&nbsp; <sub>by d3Xt3r</sub>
+- **[Show HN: I recreated Papers Please but you're deciding which YC startups to fund](https://termsheetplease.com/)**
+  `▲ 112 pts` &nbsp;·&nbsp; [💬 55 comments](https://news.ycombinator.com/item?id=50457230) &nbsp;·&nbsp; <sub>by bolau</sub>
 
 ---
 
 ### <code>( 02 ) // SHOW HN (NEW TOOLS)</code>
 
-- **[Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives](https://github.com/GoogleChrome/modern-web-guidance)**
-  `▲ 368 pts` &nbsp;·&nbsp; [💬 111 comments](https://news.ycombinator.com/item?id=50443812) &nbsp;·&nbsp; <sub>by paulirish</sub>
+- **[Show HN: I recreated Papers Please but you're deciding which YC startups to fund](https://termsheetplease.com/)**
+  `▲ 112 pts` &nbsp;·&nbsp; [💬 55 comments](https://news.ycombinator.com/item?id=50457230) &nbsp;·&nbsp; <sub>by bolau</sub>
 
-- **[Show HN: Black Ops II statically recompiled to native ARM64 macOS](https://github.com/adrbn/bo2-mac)**
-  `▲ 23 pts` &nbsp;·&nbsp; [💬 2 comments](https://news.ycombinator.com/item?id=50449891) &nbsp;·&nbsp; <sub>by adrbn</sub>
+- **[Show HN: Yogurt – Free, private, open-source alternative to Granola](https://github.com/FrigadeHQ/yogurt)**
+  `▲ 126 pts` &nbsp;·&nbsp; [💬 59 comments](https://news.ycombinator.com/item?id=50454625) &nbsp;·&nbsp; <sub>by brownrout</sub>
 
-- **[Show HN: Valencia, Spain in Sim City/Isometric View](https://tinyvalencia.com/)**
-  `▲ 228 pts` &nbsp;·&nbsp; [💬 56 comments](https://news.ycombinator.com/item?id=50441518) &nbsp;·&nbsp; <sub>by leugim</sub>
+- **[Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)](https://github.com/0xdeadf1sh/AssemblyForNeovim)**
+  `▲ 92 pts` &nbsp;·&nbsp; [💬 17 comments](https://news.ycombinator.com/item?id=50453229) &nbsp;·&nbsp; <sub>by 0xdeadf1sh</sub>
 
 ---
 
 ### <code>( 03 ) // ASK HN (DISCUSSIONS)</code>
 
-- **[What are your favorite tools?](https://news.ycombinator.com/item?id=50449938)**
-  `▲ 6 pts` &nbsp;·&nbsp; [💬 3 comments](https://news.ycombinator.com/item?id=50449938) &nbsp;·&nbsp; <sub>by d675</sub>
+- **[Ask HN: Personal "Tears in the Rain" Moments](https://news.ycombinator.com/item?id=50458894)**
+  `▲ 7 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50458894) &nbsp;·&nbsp; <sub>by HoldOnAMinute</sub>
 
-- **[Ask HN: What are you working on? (November 2026)](https://news.ycombinator.com/item?id=50417407)**
-  `▲ 293 pts` &nbsp;·&nbsp; [💬 1039 comments](https://news.ycombinator.com/item?id=50417407) &nbsp;·&nbsp; <sub>by david927</sub>
+- **[Ask HN: Did anybody used F# in a production?](https://news.ycombinator.com/item?id=50456492)**
+  `▲ 2 pts` &nbsp;·&nbsp; [💬 1 comments](https://news.ycombinator.com/item?id=50456492) &nbsp;·&nbsp; <sub>by vad_n__</sub>
 
-- **[How do you keep up quality when you vibe-code?](https://news.ycombinator.com/item?id=50444380)**
-  `▲ 31 pts` &nbsp;·&nbsp; [💬 27 comments](https://news.ycombinator.com/item?id=50444380) &nbsp;·&nbsp; <sub>by nkcodes</sub>
+- **[Any good ways on how to get into kernel dev?](https://news.ycombinator.com/item?id=50454875)**
+  `▲ 5 pts` &nbsp;·&nbsp; [💬 2 comments](https://news.ycombinator.com/item?id=50454875) &nbsp;·&nbsp; <sub>by ihms</sub>
 
 ---
 
