@@ -1,6 +1,6 @@
 <div align="center">
   <p><code><b>( • ) HACKER NEWS PULSE &nbsp;|&nbsp; AUTOMATED DAILY DIGEST</b></code></p>
-  <h1><b>HN PULSE // 2026-11-11</b></h1>
+  <h1><b>HN PULSE // 2026-11-12</b></h1>
   <p>Curated developer intelligence, trending engineering debates, and community showcases.</p>
 </div>
 
@@ -8,46 +8,46 @@
 
 ### <code>( 01 ) // TOP INTELLIGENCE</code>
 
-- **[AWS Finally Built Its Own AWS Emulator](https://github.com/aws/aws-emulator)**
-  `▲ 470 pts` &nbsp;·&nbsp; [💬 146 comments](https://news.ycombinator.com/item?id=50456631) &nbsp;·&nbsp; <sub>by super_linear</sub>
+- **[Jane Street: Socratic Tutor](https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md)**
+  `▲ 227 pts` &nbsp;·&nbsp; [💬 56 comments](https://news.ycombinator.com/item?id=50438261) &nbsp;·&nbsp; <sub>by tosh</sub>
+
+- **[A live tree of systemd jobs on the boot console](https://codeberg.org/wvhulle/bootvine)**
+  `▲ 81 pts` &nbsp;·&nbsp; [💬 18 comments](https://news.ycombinator.com/item?id=50425017) &nbsp;·&nbsp; <sub>by orhunp_</sub>
 
 - **[Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)**
-  `▲ 637 pts` &nbsp;·&nbsp; [💬 63 comments](https://news.ycombinator.com/item?id=50450488) &nbsp;·&nbsp; <sub>by ayhanfuat</sub>
+  `▲ 1218 pts` &nbsp;·&nbsp; [💬 134 comments](https://news.ycombinator.com/item?id=50450488) &nbsp;·&nbsp; <sub>by ayhanfuat</sub>
 
-- **[A false smoke alarm almost drowned Jane Street's only NYC datacenter](https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/)**
-  `▲ 329 pts` &nbsp;·&nbsp; [💬 165 comments](https://news.ycombinator.com/item?id=50455394) &nbsp;·&nbsp; <sub>by mbac32768</sub>
+- **[93% of paint splatters are valid Perl programs (2019)](https://www.mcmillen.dev/sigbovik/)**
+  `▲ 435 pts` &nbsp;·&nbsp; [💬 58 comments](https://news.ycombinator.com/item?id=50459745) &nbsp;·&nbsp; <sub>by zenincognito</sub>
 
-- **[AWS Emulator and the engineer's job when agents write the code](https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html)**
-  `▲ 108 pts` &nbsp;·&nbsp; [💬 13 comments](https://news.ycombinator.com/item?id=50456740) &nbsp;·&nbsp; <sub>by drbm</sub>
-
-- **[Show HN: I recreated Papers Please but you're deciding which YC startups to fund](https://termsheetplease.com/)**
-  `▲ 112 pts` &nbsp;·&nbsp; [💬 55 comments](https://news.ycombinator.com/item?id=50457230) &nbsp;·&nbsp; <sub>by bolau</sub>
+- **[Critical RCE Vulnerability in Apache HTTP Server](https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability)**
+  `▲ 212 pts` &nbsp;·&nbsp; [💬 98 comments](https://news.ycombinator.com/item?id=50462177) &nbsp;·&nbsp; <sub>by soheilpro</sub>
 
 ---
 
 ### <code>( 02 ) // SHOW HN (NEW TOOLS)</code>
 
-- **[Show HN: I recreated Papers Please but you're deciding which YC startups to fund](https://termsheetplease.com/)**
-  `▲ 112 pts` &nbsp;·&nbsp; [💬 55 comments](https://news.ycombinator.com/item?id=50457230) &nbsp;·&nbsp; <sub>by bolau</sub>
-
 - **[Show HN: Yogurt – Free, private, open-source alternative to Granola](https://github.com/FrigadeHQ/yogurt)**
-  `▲ 126 pts` &nbsp;·&nbsp; [💬 59 comments](https://news.ycombinator.com/item?id=50454625) &nbsp;·&nbsp; <sub>by brownrout</sub>
+  `▲ 243 pts` &nbsp;·&nbsp; [💬 95 comments](https://news.ycombinator.com/item?id=50454625) &nbsp;·&nbsp; <sub>by brownrout</sub>
 
-- **[Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)](https://github.com/0xdeadf1sh/AssemblyForNeovim)**
-  `▲ 92 pts` &nbsp;·&nbsp; [💬 17 comments](https://news.ycombinator.com/item?id=50453229) &nbsp;·&nbsp; <sub>by 0xdeadf1sh</sub>
+- **[Show HN: I recreated Papers Please but you're deciding which YC startups to fund](https://termsheetplease.com/)**
+  `▲ 227 pts` &nbsp;·&nbsp; [💬 87 comments](https://news.ycombinator.com/item?id=50457230) &nbsp;·&nbsp; <sub>by bolau</sub>
+
+- **[Show HN: MFlare – Cloudflare usage and deploy status in the macOS menu bar](https://mflare.yuy1n.io/)**
+  `▲ 3 pts` &nbsp;·&nbsp; [💬 1 comments](https://news.ycombinator.com/item?id=50464616) &nbsp;·&nbsp; <sub>by yuyinws</sub>
 
 ---
 
 ### <code>( 03 ) // ASK HN (DISCUSSIONS)</code>
 
-- **[Ask HN: Personal "Tears in the Rain" Moments](https://news.ycombinator.com/item?id=50458894)**
-  `▲ 7 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50458894) &nbsp;·&nbsp; <sub>by HoldOnAMinute</sub>
+- **[Ask HN: What are you working on? (November 2026)](https://news.ycombinator.com/item?id=50417407)**
+  `▲ 297 pts` &nbsp;·&nbsp; [💬 1056 comments](https://news.ycombinator.com/item?id=50417407) &nbsp;·&nbsp; <sub>by david927</sub>
 
-- **[Ask HN: Did anybody used F# in a production?](https://news.ycombinator.com/item?id=50456492)**
-  `▲ 2 pts` &nbsp;·&nbsp; [💬 1 comments](https://news.ycombinator.com/item?id=50456492) &nbsp;·&nbsp; <sub>by vad_n__</sub>
+- **[ChatGPT Desktop forwards your SSH agent to remote machines](https://news.ycombinator.com/item?id=50422628)**
+  `▲ 219 pts` &nbsp;·&nbsp; [💬 79 comments](https://news.ycombinator.com/item?id=50422628) &nbsp;·&nbsp; <sub>by DenGorbachev</sub>
 
-- **[Any good ways on how to get into kernel dev?](https://news.ycombinator.com/item?id=50454875)**
-  `▲ 5 pts` &nbsp;·&nbsp; [💬 2 comments](https://news.ycombinator.com/item?id=50454875) &nbsp;·&nbsp; <sub>by ihms</sub>
+- **[Ask HN: What do your technical interviews look like today? (Nov 2026)](https://news.ycombinator.com/item?id=50461853)**
+  `▲ 6 pts` &nbsp;·&nbsp; [💬 3 comments](https://news.ycombinator.com/item?id=50461853) &nbsp;·&nbsp; <sub>by Heap4112</sub>
 
 ---
 
