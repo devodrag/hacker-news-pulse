@@ -8,46 +8,46 @@
 
 ### <code>( 01 ) // TOP INTELLIGENCE</code>
 
-- **[Jane Street: Socratic Tutor](https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md)**
-  `▲ 227 pts` &nbsp;·&nbsp; [💬 56 comments](https://news.ycombinator.com/item?id=50438261) &nbsp;·&nbsp; <sub>by tosh</sub>
+- **[Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f)**
+  `▲ 2452 pts` &nbsp;·&nbsp; [💬 2386 comments](https://news.ycombinator.com/item?id=50467087) &nbsp;·&nbsp; <sub>by lldb</sub>
 
-- **[A live tree of systemd jobs on the boot console](https://codeberg.org/wvhulle/bootvine)**
-  `▲ 81 pts` &nbsp;·&nbsp; [💬 18 comments](https://news.ycombinator.com/item?id=50425017) &nbsp;·&nbsp; <sub>by orhunp_</sub>
+- **[Ask HN: Microsoft/Azure Outage?](https://news.ycombinator.com/item?id=50471668)**
+  `▲ 394 pts` &nbsp;·&nbsp; [💬 198 comments](https://news.ycombinator.com/item?id=50471668) &nbsp;·&nbsp; <sub>by nazgulsenpai</sub>
 
-- **[Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)**
-  `▲ 1218 pts` &nbsp;·&nbsp; [💬 134 comments](https://news.ycombinator.com/item?id=50450488) &nbsp;·&nbsp; <sub>by ayhanfuat</sub>
+- **[Rust 1.100](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/)**
+  `▲ 147 pts` &nbsp;·&nbsp; [💬 94 comments](https://news.ycombinator.com/item?id=50472038) &nbsp;·&nbsp; <sub>by mbStavola</sub>
 
-- **[93% of paint splatters are valid Perl programs (2019)](https://www.mcmillen.dev/sigbovik/)**
-  `▲ 435 pts` &nbsp;·&nbsp; [💬 58 comments](https://news.ycombinator.com/item?id=50459745) &nbsp;·&nbsp; <sub>by zenincognito</sub>
+- **[Gemini 4 Hydrogen and Orchestrator](https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/)**
+  `▲ 169 pts` &nbsp;·&nbsp; [💬 32 comments](https://news.ycombinator.com/item?id=50472260) &nbsp;·&nbsp; <sub>by jonbaer</sub>
 
-- **[Critical RCE Vulnerability in Apache HTTP Server](https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability)**
-  `▲ 212 pts` &nbsp;·&nbsp; [💬 98 comments](https://news.ycombinator.com/item?id=50462177) &nbsp;·&nbsp; <sub>by soheilpro</sub>
+- **[Dwarf planet candidate appears which takes roughly 280 years to orbit our sun](https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/)**
+  `▲ 108 pts` &nbsp;·&nbsp; [💬 47 comments](https://news.ycombinator.com/item?id=50472490) &nbsp;·&nbsp; <sub>by cybermango</sub>
 
 ---
 
 ### <code>( 02 ) // SHOW HN (NEW TOOLS)</code>
 
-- **[Show HN: Yogurt – Free, private, open-source alternative to Granola](https://github.com/FrigadeHQ/yogurt)**
-  `▲ 243 pts` &nbsp;·&nbsp; [💬 95 comments](https://news.ycombinator.com/item?id=50454625) &nbsp;·&nbsp; <sub>by brownrout</sub>
+- **[Show HN: My $300 embroidery machine needed a subscription, so I built my own app](https://github.com/simpsoka/zigzag)**
+  `▲ 188 pts` &nbsp;·&nbsp; [💬 77 comments](https://news.ycombinator.com/item?id=50470488) &nbsp;·&nbsp; <sub>by simpsoka</sub>
 
-- **[Show HN: I recreated Papers Please but you're deciding which YC startups to fund](https://termsheetplease.com/)**
-  `▲ 227 pts` &nbsp;·&nbsp; [💬 87 comments](https://news.ycombinator.com/item?id=50457230) &nbsp;·&nbsp; <sub>by bolau</sub>
+- **[Show HN: Kapso – Iterative learning from enterprise data](https://news.ycombinator.com/item?id=50471281)**
+  `▲ 24 pts` &nbsp;·&nbsp; [💬 9 comments](https://news.ycombinator.com/item?id=50471281) &nbsp;·&nbsp; <sub>by alireza_msh</sub>
 
-- **[Show HN: MFlare – Cloudflare usage and deploy status in the macOS menu bar](https://mflare.yuy1n.io/)**
-  `▲ 3 pts` &nbsp;·&nbsp; [💬 1 comments](https://news.ycombinator.com/item?id=50464616) &nbsp;·&nbsp; <sub>by yuyinws</sub>
+- **[Show HN: AgentRun – open-source, Self-improving Managed Agents](https://github.com/Parcha-ai/agentrun/blob/main/README.md)**
+  `▲ 54 pts` &nbsp;·&nbsp; [💬 7 comments](https://news.ycombinator.com/item?id=50471650) &nbsp;·&nbsp; <sub>by miguelrios</sub>
 
 ---
 
 ### <code>( 03 ) // ASK HN (DISCUSSIONS)</code>
 
-- **[Ask HN: What are you working on? (November 2026)](https://news.ycombinator.com/item?id=50417407)**
-  `▲ 297 pts` &nbsp;·&nbsp; [💬 1056 comments](https://news.ycombinator.com/item?id=50417407) &nbsp;·&nbsp; <sub>by david927</sub>
+- **[Ask HN: Microsoft/Azure Outage?](https://news.ycombinator.com/item?id=50471668)**
+  `▲ 394 pts` &nbsp;·&nbsp; [💬 198 comments](https://news.ycombinator.com/item?id=50471668) &nbsp;·&nbsp; <sub>by nazgulsenpai</sub>
 
-- **[ChatGPT Desktop forwards your SSH agent to remote machines](https://news.ycombinator.com/item?id=50422628)**
-  `▲ 219 pts` &nbsp;·&nbsp; [💬 79 comments](https://news.ycombinator.com/item?id=50422628) &nbsp;·&nbsp; <sub>by DenGorbachev</sub>
+- **[Tell HN: Major Microsoft Outlook/Exchange Online/Teams Outage in the Americas](https://news.ycombinator.com/item?id=50472411)**
+  `▲ 7 pts` &nbsp;·&nbsp; [💬 1 comments](https://news.ycombinator.com/item?id=50472411) &nbsp;·&nbsp; <sub>by wmchen</sub>
 
-- **[Ask HN: What do your technical interviews look like today? (Nov 2026)](https://news.ycombinator.com/item?id=50461853)**
-  `▲ 6 pts` &nbsp;·&nbsp; [💬 3 comments](https://news.ycombinator.com/item?id=50461853) &nbsp;·&nbsp; <sub>by Heap4112</sub>
+- **[Tell HN: Cast('abc' AS INTEGER) returns 0 in SQLite](https://news.ycombinator.com/item?id=50468864)**
+  `▲ 3 pts` &nbsp;·&nbsp; [💬 2 comments](https://news.ycombinator.com/item?id=50468864) &nbsp;·&nbsp; <sub>by prmph</sub>
 
 ---
 
