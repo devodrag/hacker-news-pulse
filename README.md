@@ -8,46 +8,46 @@
 
 ### <code>( 01 ) // TOP INTELLIGENCE</code>
 
-- **[Why get an expensive Pi when I have an old phone?](https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/)**
-  `▲ 22 pts` &nbsp;·&nbsp; [💬 9 comments](https://news.ycombinator.com/item?id=50440709) &nbsp;·&nbsp; <sub>by casi</sub>
+- **[Lovable apps expose passport details and more than 200K private messages](https://www.crissyfield.de/research/lovable-en/)**
+  `▲ 250 pts` &nbsp;·&nbsp; [💬 74 comments](https://news.ycombinator.com/item?id=50499017) &nbsp;·&nbsp; <sub>by armcat</sub>
 
-- **[Ggml v1.0.0](https://github.com/ggml-org/ggml/releases/tag/v1.0.0)**
-  `▲ 257 pts` &nbsp;·&nbsp; [💬 41 comments](https://news.ycombinator.com/item?id=50493062) &nbsp;·&nbsp; <sub>by cobychapple</sub>
+- **[PyPI's redesigned project pages with clearer security signals are now live](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/)**
+  `▲ 143 pts` &nbsp;·&nbsp; [💬 50 comments](https://news.ycombinator.com/item?id=50497892) &nbsp;·&nbsp; <sub>by rbanffy</sub>
 
-- **[Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus)**
-  `▲ 554 pts` &nbsp;·&nbsp; [💬 328 comments](https://news.ycombinator.com/item?id=50493251) &nbsp;·&nbsp; <sub>by speckx</sub>
+- **[A Family Tree of Software Job Titles](https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/)**
+  `▲ 62 pts` &nbsp;·&nbsp; [💬 18 comments](https://news.ycombinator.com/item?id=50499038) &nbsp;·&nbsp; <sub>by umerf</sub>
 
-- **[Monkey Island: all 13 versions side by side](https://monkeyisland.pages.dev/)**
-  `▲ 95 pts` &nbsp;·&nbsp; [💬 15 comments](https://news.ycombinator.com/item?id=50493904) &nbsp;·&nbsp; <sub>by maximilianburke</sub>
+- **[KDE: The documentary [video]](https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c)**
+  `▲ 256 pts` &nbsp;·&nbsp; [💬 42 comments](https://news.ycombinator.com/item?id=50496976) &nbsp;·&nbsp; <sub>by mrkn1</sub>
 
-- **[FAA issues national ground stop – lifted 4.5 hours later](https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247)**
-  `▲ 1539 pts` &nbsp;·&nbsp; [💬 1170 comments](https://news.ycombinator.com/item?id=50489641) &nbsp;·&nbsp; <sub>by zulln</sub>
+- **[US IRS free online tax filing open source repo](https://github.com/IRS-Public/direct-file)**
+  `▲ 42 pts` &nbsp;·&nbsp; [💬 7 comments](https://news.ycombinator.com/item?id=50499083) &nbsp;·&nbsp; <sub>by accountinhn</sub>
 
 ---
 
 ### <code>( 02 ) // SHOW HN (NEW TOOLS)</code>
 
-- **[Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop](https://grounds.top/)**
-  `▲ 143 pts` &nbsp;·&nbsp; [💬 21 comments](https://news.ycombinator.com/item?id=50491545) &nbsp;·&nbsp; <sub>by gvsi</sub>
+- **[Show HN: DeepSeek V3 in ~200 lines of pure Jax](https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax)**
+  `▲ 73 pts` &nbsp;·&nbsp; [💬 3 comments](https://news.ycombinator.com/item?id=50497589) &nbsp;·&nbsp; <sub>by VaibhaavTiwari</sub>
 
-- **[Show HN: I have trained 15 blood glucose forecasting models on my own data](https://github.com/0xdeadf1sh/T1DMAI)**
-  `▲ 32 pts` &nbsp;·&nbsp; [💬 9 comments](https://news.ycombinator.com/item?id=50444761) &nbsp;·&nbsp; <sub>by 0xdeadf1sh</sub>
+- **[Show HN: A terminal-native idle factory game, written in Rust with ratatui](https://gitlab.com/snipedbywifi/terminactory)**
+  `▲ 105 pts` &nbsp;·&nbsp; [💬 23 comments](https://news.ycombinator.com/item?id=50497132) &nbsp;·&nbsp; <sub>by snipedbywifi</sub>
 
-- **[Show HN: Isometric SF – A pixel-art map of the SF Bay Area](https://isometricsf.com/)**
-  `▲ 210 pts` &nbsp;·&nbsp; [💬 70 comments](https://news.ycombinator.com/item?id=50487228) &nbsp;·&nbsp; <sub>by juscha1</sub>
+- **[Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)](https://github.com/FURSOY/fursoy-cpu)**
+  `▲ 48 pts` &nbsp;·&nbsp; [💬 16 comments](https://news.ycombinator.com/item?id=50497137) &nbsp;·&nbsp; <sub>by fursoy</sub>
 
 ---
 
 ### <code>( 03 ) // ASK HN (DISCUSSIONS)</code>
 
-- **[Ask HN: What are the most useful, concrete AI skills to independently learn?](https://news.ycombinator.com/item?id=50494696)**
-  `▲ 15 pts` &nbsp;·&nbsp; [💬 20 comments](https://news.ycombinator.com/item?id=50494696) &nbsp;·&nbsp; <sub>by shnock</sub>
+- **[Vercel should fork and maintain Deno](https://news.ycombinator.com/item?id=50497196)**
+  `▲ 14 pts` &nbsp;·&nbsp; [💬 9 comments](https://news.ycombinator.com/item?id=50497196) &nbsp;·&nbsp; <sub>by gfalcao</sub>
 
 - **[Tell HN: Google Search to start locking down search behind a login wall](https://news.ycombinator.com/item?id=50491617)**
-  `▲ 34 pts` &nbsp;·&nbsp; [💬 16 comments](https://news.ycombinator.com/item?id=50491617) &nbsp;·&nbsp; <sub>by exploraz</sub>
+  `▲ 38 pts` &nbsp;·&nbsp; [💬 27 comments](https://news.ycombinator.com/item?id=50491617) &nbsp;·&nbsp; <sub>by exploraz</sub>
 
 - **[Ask HN: What is the state of self-hosting email in 2026?](https://news.ycombinator.com/item?id=50488230)**
-  `▲ 34 pts` &nbsp;·&nbsp; [💬 26 comments](https://news.ycombinator.com/item?id=50488230) &nbsp;·&nbsp; <sub>by 0o777</sub>
+  `▲ 38 pts` &nbsp;·&nbsp; [💬 31 comments](https://news.ycombinator.com/item?id=50488230) &nbsp;·&nbsp; <sub>by 0o777</sub>
 
 ---
 
