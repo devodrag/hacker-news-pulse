@@ -1,6 +1,6 @@
 <div align="center">
   <p><code><b>( • ) HACKER NEWS PULSE &nbsp;|&nbsp; AUTOMATED DAILY DIGEST</b></code></p>
-  <h1><b>HN PULSE // 2026-11-14</b></h1>
+  <h1><b>HN PULSE // 2026-11-15</b></h1>
   <p>Curated developer intelligence, trending engineering debates, and community showcases.</p>
 </div>
 
@@ -8,46 +8,46 @@
 
 ### <code>( 01 ) // TOP INTELLIGENCE</code>
 
+- **[SpaceX catches the Starship to end Flight 15](https://www.spacex.com/launches/starship-flight-15)**
+  `▲ 1229 pts` &nbsp;·&nbsp; [💬 835 comments](https://news.ycombinator.com/item?id=50500963) &nbsp;·&nbsp; <sub>by ls612</sub>
+
+- **[Why did some Apollo missions carry a grenade launcher?](https://space.stackexchange.com/questions/37775)**
+  `▲ 20 pts` &nbsp;·&nbsp; [💬 9 comments](https://news.ycombinator.com/item?id=50505271) &nbsp;·&nbsp; <sub>by Skyfall106</sub>
+
 - **[Lovable apps expose passport details and more than 200K private messages](https://www.crissyfield.de/research/lovable-en/)**
-  `▲ 250 pts` &nbsp;·&nbsp; [💬 74 comments](https://news.ycombinator.com/item?id=50499017) &nbsp;·&nbsp; <sub>by armcat</sub>
+  `▲ 823 pts` &nbsp;·&nbsp; [💬 318 comments](https://news.ycombinator.com/item?id=50499017) &nbsp;·&nbsp; <sub>by armcat</sub>
 
-- **[PyPI's redesigned project pages with clearer security signals are now live](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/)**
-  `▲ 143 pts` &nbsp;·&nbsp; [💬 50 comments](https://news.ycombinator.com/item?id=50497892) &nbsp;·&nbsp; <sub>by rbanffy</sub>
+- **[A rare glimpse inside the high-risk, high-reward Hormuz trade](https://www.lloydslist.com/LL1158922/A-rare-glimpse-inside-the-highrisk-highreward-Hormuz-trade)**
+  `▲ 66 pts` &nbsp;·&nbsp; [💬 33 comments](https://news.ycombinator.com/item?id=50443331) &nbsp;·&nbsp; <sub>by everybodyknows</sub>
 
-- **[A Family Tree of Software Job Titles](https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/)**
-  `▲ 62 pts` &nbsp;·&nbsp; [💬 18 comments](https://news.ycombinator.com/item?id=50499038) &nbsp;·&nbsp; <sub>by umerf</sub>
-
-- **[KDE: The documentary [video]](https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c)**
-  `▲ 256 pts` &nbsp;·&nbsp; [💬 42 comments](https://news.ycombinator.com/item?id=50496976) &nbsp;·&nbsp; <sub>by mrkn1</sub>
-
-- **[US IRS free online tax filing open source repo](https://github.com/IRS-Public/direct-file)**
-  `▲ 42 pts` &nbsp;·&nbsp; [💬 7 comments](https://news.ycombinator.com/item?id=50499083) &nbsp;·&nbsp; <sub>by accountinhn</sub>
+- **[Court denies motion to dismiss DRAM price fixing case](https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal)**
+  `▲ 160 pts` &nbsp;·&nbsp; [💬 44 comments](https://news.ycombinator.com/item?id=50502988) &nbsp;·&nbsp; <sub>by ybathaee</sub>
 
 ---
 
 ### <code>( 02 ) // SHOW HN (NEW TOOLS)</code>
 
+- **[Show HN: Gawain – Require type hints on all Python variables](https://github.com/matheuzgomes/gawain)**
+  `▲ 53 pts` &nbsp;·&nbsp; [💬 29 comments](https://news.ycombinator.com/item?id=50504072) &nbsp;·&nbsp; <sub>by MarinhoD</sub>
+
+- **[Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP](https://github.com/Tthanh2k6/turbo-browser-mcp)**
+  `▲ 34 pts` &nbsp;·&nbsp; [💬 6 comments](https://news.ycombinator.com/item?id=50503930) &nbsp;·&nbsp; <sub>by tthanh2k6</sub>
+
 - **[Show HN: DeepSeek V3 in ~200 lines of pure Jax](https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax)**
-  `▲ 73 pts` &nbsp;·&nbsp; [💬 3 comments](https://news.ycombinator.com/item?id=50497589) &nbsp;·&nbsp; <sub>by VaibhaavTiwari</sub>
-
-- **[Show HN: A terminal-native idle factory game, written in Rust with ratatui](https://gitlab.com/snipedbywifi/terminactory)**
-  `▲ 105 pts` &nbsp;·&nbsp; [💬 23 comments](https://news.ycombinator.com/item?id=50497132) &nbsp;·&nbsp; <sub>by snipedbywifi</sub>
-
-- **[Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)](https://github.com/FURSOY/fursoy-cpu)**
-  `▲ 48 pts` &nbsp;·&nbsp; [💬 16 comments](https://news.ycombinator.com/item?id=50497137) &nbsp;·&nbsp; <sub>by fursoy</sub>
+  `▲ 234 pts` &nbsp;·&nbsp; [💬 22 comments](https://news.ycombinator.com/item?id=50497589) &nbsp;·&nbsp; <sub>by VaibhaavTiwari</sub>
 
 ---
 
 ### <code>( 03 ) // ASK HN (DISCUSSIONS)</code>
 
+- **[Ask HN: Dropbox privacy policy, cause for concern?](https://news.ycombinator.com/item?id=50504514)**
+  `▲ 6 pts` &nbsp;·&nbsp; [💬 1 comments](https://news.ycombinator.com/item?id=50504514) &nbsp;·&nbsp; <sub>by herodoturtle</sub>
+
+- **[Anthropic, can you please make up your mind with your models?](https://news.ycombinator.com/item?id=50504061)**
+  `▲ 4 pts` &nbsp;·&nbsp; [💬 6 comments](https://news.ycombinator.com/item?id=50504061) &nbsp;·&nbsp; <sub>by xlayn</sub>
+
 - **[Vercel should fork and maintain Deno](https://news.ycombinator.com/item?id=50497196)**
-  `▲ 14 pts` &nbsp;·&nbsp; [💬 9 comments](https://news.ycombinator.com/item?id=50497196) &nbsp;·&nbsp; <sub>by gfalcao</sub>
-
-- **[Tell HN: Google Search to start locking down search behind a login wall](https://news.ycombinator.com/item?id=50491617)**
-  `▲ 38 pts` &nbsp;·&nbsp; [💬 27 comments](https://news.ycombinator.com/item?id=50491617) &nbsp;·&nbsp; <sub>by exploraz</sub>
-
-- **[Ask HN: What is the state of self-hosting email in 2026?](https://news.ycombinator.com/item?id=50488230)**
-  `▲ 38 pts` &nbsp;·&nbsp; [💬 31 comments](https://news.ycombinator.com/item?id=50488230) &nbsp;·&nbsp; <sub>by 0o777</sub>
+  `▲ 15 pts` &nbsp;·&nbsp; [💬 10 comments](https://news.ycombinator.com/item?id=50497196) &nbsp;·&nbsp; <sub>by gfalcao</sub>
 
 ---
 
