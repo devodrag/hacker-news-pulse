@@ -8,46 +8,46 @@
 
 ### <code>( 01 ) // TOP INTELLIGENCE</code>
 
-- **[SpaceX catches the Starship to end Flight 15](https://www.spacex.com/launches/starship-flight-15)**
-  `▲ 1229 pts` &nbsp;·&nbsp; [💬 835 comments](https://news.ycombinator.com/item?id=50500963) &nbsp;·&nbsp; <sub>by ls612</sub>
+- **[All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/)**
+  `▲ 883 pts` &nbsp;·&nbsp; [💬 467 comments](https://news.ycombinator.com/item?id=50507303) &nbsp;·&nbsp; <sub>by jcubic</sub>
 
-- **[Why did some Apollo missions carry a grenade launcher?](https://space.stackexchange.com/questions/37775)**
-  `▲ 20 pts` &nbsp;·&nbsp; [💬 9 comments](https://news.ycombinator.com/item?id=50505271) &nbsp;·&nbsp; <sub>by Skyfall106</sub>
+- **[A short explainer on how El Niño works [video]](https://www.youtube.com/watch?v=7_JF3etiAv8)**
+  `▲ 52 pts` &nbsp;·&nbsp; [💬 3 comments](https://news.ycombinator.com/item?id=50509308) &nbsp;·&nbsp; <sub>by nharada</sub>
 
-- **[Lovable apps expose passport details and more than 200K private messages](https://www.crissyfield.de/research/lovable-en/)**
-  `▲ 823 pts` &nbsp;·&nbsp; [💬 318 comments](https://news.ycombinator.com/item?id=50499017) &nbsp;·&nbsp; <sub>by armcat</sub>
+- **[The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use](https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/)**
+  `▲ 306 pts` &nbsp;·&nbsp; [💬 171 comments](https://news.ycombinator.com/item?id=50506719) &nbsp;·&nbsp; <sub>by MacAnorak</sub>
 
-- **[A rare glimpse inside the high-risk, high-reward Hormuz trade](https://www.lloydslist.com/LL1158922/A-rare-glimpse-inside-the-highrisk-highreward-Hormuz-trade)**
-  `▲ 66 pts` &nbsp;·&nbsp; [💬 33 comments](https://news.ycombinator.com/item?id=50443331) &nbsp;·&nbsp; <sub>by everybodyknows</sub>
+- **['Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can](https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html)**
+  `▲ 46 pts` &nbsp;·&nbsp; [💬 26 comments](https://news.ycombinator.com/item?id=50509023) &nbsp;·&nbsp; <sub>by gumby</sub>
 
-- **[Court denies motion to dismiss DRAM price fixing case](https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal)**
-  `▲ 160 pts` &nbsp;·&nbsp; [💬 44 comments](https://news.ycombinator.com/item?id=50502988) &nbsp;·&nbsp; <sub>by ybathaee</sub>
+- **[Emacs Is My Browser](https://joshblais.com/blog/emacs-as-my-browser/)**
+  `▲ 116 pts` &nbsp;·&nbsp; [💬 62 comments](https://news.ycombinator.com/item?id=50507553) &nbsp;·&nbsp; <sub>by nyc111</sub>
 
 ---
 
 ### <code>( 02 ) // SHOW HN (NEW TOOLS)</code>
 
-- **[Show HN: Gawain – Require type hints on all Python variables](https://github.com/matheuzgomes/gawain)**
-  `▲ 53 pts` &nbsp;·&nbsp; [💬 29 comments](https://news.ycombinator.com/item?id=50504072) &nbsp;·&nbsp; <sub>by MarinhoD</sub>
+- **[Show HN: Carton Clock – A working pendulum clock made from empty drink cartons](https://www.niklasroy.com/carton-clock/)**
+  `▲ 62 pts` &nbsp;·&nbsp; [💬 2 comments](https://news.ycombinator.com/item?id=50482279) &nbsp;·&nbsp; <sub>by r0r0</sub>
 
-- **[Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP](https://github.com/Tthanh2k6/turbo-browser-mcp)**
-  `▲ 34 pts` &nbsp;·&nbsp; [💬 6 comments](https://news.ycombinator.com/item?id=50503930) &nbsp;·&nbsp; <sub>by tthanh2k6</sub>
+- **[Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS](https://github.com/db-branch/db-branch)**
+  `▲ 24 pts` &nbsp;·&nbsp; [💬 6 comments](https://news.ycombinator.com/item?id=50506940) &nbsp;·&nbsp; <sub>by nu_nu11</sub>
 
-- **[Show HN: DeepSeek V3 in ~200 lines of pure Jax](https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax)**
-  `▲ 234 pts` &nbsp;·&nbsp; [💬 22 comments](https://news.ycombinator.com/item?id=50497589) &nbsp;·&nbsp; <sub>by VaibhaavTiwari</sub>
+- **[Show HN: Settlers of Catan Playable via SSH](https://github.com/VichoReyes/el-poblador)**
+  `▲ 3 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50509374) &nbsp;·&nbsp; <sub>by esclerofilo</sub>
 
 ---
 
 ### <code>( 03 ) // ASK HN (DISCUSSIONS)</code>
 
-- **[Ask HN: Dropbox privacy policy, cause for concern?](https://news.ycombinator.com/item?id=50504514)**
-  `▲ 6 pts` &nbsp;·&nbsp; [💬 1 comments](https://news.ycombinator.com/item?id=50504514) &nbsp;·&nbsp; <sub>by herodoturtle</sub>
+- **[We handed our lives to closed software. AI is about to show us the cost](https://news.ycombinator.com/item?id=50509195)**
+  `▲ 3 pts` &nbsp;·&nbsp; [💬 1 comments](https://news.ycombinator.com/item?id=50509195) &nbsp;·&nbsp; <sub>by earlythesis</sub>
 
-- **[Anthropic, can you please make up your mind with your models?](https://news.ycombinator.com/item?id=50504061)**
-  `▲ 4 pts` &nbsp;·&nbsp; [💬 6 comments](https://news.ycombinator.com/item?id=50504061) &nbsp;·&nbsp; <sub>by xlayn</sub>
+- **[Ask HN: What does building hardware with AI look like?](https://news.ycombinator.com/item?id=50508089)**
+  `▲ 2 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50508089) &nbsp;·&nbsp; <sub>by mjs06</sub>
 
-- **[Vercel should fork and maintain Deno](https://news.ycombinator.com/item?id=50497196)**
-  `▲ 15 pts` &nbsp;·&nbsp; [💬 10 comments](https://news.ycombinator.com/item?id=50497196) &nbsp;·&nbsp; <sub>by gfalcao</sub>
+- **[Ask HN: Which open source LLM works best locally, and on what hardware?](https://news.ycombinator.com/item?id=50508142)**
+  `▲ 3 pts` &nbsp;·&nbsp; [💬 14 comments](https://news.ycombinator.com/item?id=50508142) &nbsp;·&nbsp; <sub>by donkan168</sub>
 
 ---
 
