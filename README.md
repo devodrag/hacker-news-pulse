@@ -8,46 +8,46 @@
 
 ### <code>( 01 ) // TOP INTELLIGENCE</code>
 
-- **[Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/)**
-  `▲ 1621 pts` &nbsp;·&nbsp; [💬 220 comments](https://news.ycombinator.com/item?id=50522980) &nbsp;·&nbsp; <sub>by pcompeau</sub>
+- **[Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/)**
+  `▲ 218 pts` &nbsp;·&nbsp; [💬 68 comments](https://news.ycombinator.com/item?id=50538240) &nbsp;·&nbsp; <sub>by werrett</sub>
 
-- **[How the Claude Code team thinks about verification](https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/)**
-  `▲ 21 pts` &nbsp;·&nbsp; [💬 13 comments](https://news.ycombinator.com/item?id=50529612) &nbsp;·&nbsp; <sub>by craigmart</sub>
+- **[GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/)**
+  `▲ 961 pts` &nbsp;·&nbsp; [💬 601 comments](https://news.ycombinator.com/item?id=50535230) &nbsp;·&nbsp; <sub>by jasondavies</sub>
 
-- **[VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012](https://visualbasic.world/)**
-  `▲ 41 pts` &nbsp;·&nbsp; [💬 16 comments](https://news.ycombinator.com/item?id=50511874) &nbsp;·&nbsp; <sub>by broast</sub>
+- **[jQuery 4.1.0](https://github.com/jquery/jquery/releases/tag/4.1.0)**
+  `▲ 195 pts` &nbsp;·&nbsp; [💬 102 comments](https://news.ycombinator.com/item?id=50537156) &nbsp;·&nbsp; <sub>by petecooper</sub>
 
-- **[Japan's Hometown Tax (2018)](https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/)**
-  `▲ 54 pts` &nbsp;·&nbsp; [💬 14 comments](https://news.ycombinator.com/item?id=50508845) &nbsp;·&nbsp; <sub>by waximabbax</sub>
+- **[Quad9's withdrawal from France: A canary in the coal mine](https://blog.cloudflare.com/quad9-withdrawal-from-france/)**
+  `▲ 43 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50538994) &nbsp;·&nbsp; <sub>by subset</sub>
 
-- **[Nimony: A New Compiler for Nim](https://nimony.org/)**
-  `▲ 78 pts` &nbsp;·&nbsp; [💬 25 comments](https://news.ycombinator.com/item?id=50512779) &nbsp;·&nbsp; <sub>by Fervicus</sub>
+- **[Nvidia stopped disclosing Singapore sales as revenues hit $104B](https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf)**
+  `▲ 280 pts` &nbsp;·&nbsp; [💬 148 comments](https://news.ycombinator.com/item?id=50534631) &nbsp;·&nbsp; <sub>by louiereederson</sub>
 
 ---
 
 ### <code>( 02 ) // SHOW HN (NEW TOOLS)</code>
 
-- **[Show HN: Zigzag, a native Mac browser for people leaving Arc](https://github.com/ZigaoWang/zigzag)**
-  `▲ 77 pts` &nbsp;·&nbsp; [💬 42 comments](https://news.ycombinator.com/item?id=50496787) &nbsp;·&nbsp; <sub>by ZigaoWang</sub>
+- **[Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off](https://alloyhtml.com/example.html)**
+  `▲ 162 pts` &nbsp;·&nbsp; [💬 27 comments](https://news.ycombinator.com/item?id=50532385) &nbsp;·&nbsp; <sub>by prafandy</sub>
 
-- **[Show HN: Pulsar – cross-harness agent to agent communication and messaging](https://github.com/yocontra/pulsar)**
-  `▲ 17 pts` &nbsp;·&nbsp; [💬 1 comments](https://news.ycombinator.com/item?id=50526967) &nbsp;·&nbsp; <sub>by contrahax</sub>
+- **[Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium](https://github.com/RunanywhereAI/trnrt)**
+  `▲ 38 pts` &nbsp;·&nbsp; [💬 5 comments](https://news.ycombinator.com/item?id=50533270) &nbsp;·&nbsp; <sub>by sanchitmonga22</sub>
 
-- **[Show HN: MeshLive – Offline Video calls and livestreams over Bluetooth mesh](https://meshlive.github.io/)**
-  `▲ 2 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50529190) &nbsp;·&nbsp; <sub>by gptgautam1</sub>
+- **[Show HN: I Cannot Let You In](https://i-cannot-let-you-in.nodolabs.co.uk/)**
+  `▲ 3 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50538906) &nbsp;·&nbsp; <sub>by orbis-tertius</sub>
 
 ---
 
 ### <code>( 03 ) // ASK HN (DISCUSSIONS)</code>
 
+- **[Ask HN: UK Equivalent for Power Switch Tail/IoT Power Relay?](https://news.ycombinator.com/item?id=50538108)**
+  `▲ 2 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50538108) &nbsp;·&nbsp; <sub>by a2fz</sub>
+
 - **[Ask HN: If AI tools are so good, why isn't your bug backlog empty?](https://news.ycombinator.com/item?id=50520076)**
-  `▲ 62 pts` &nbsp;·&nbsp; [💬 80 comments](https://news.ycombinator.com/item?id=50520076) &nbsp;·&nbsp; <sub>by ex-aws-dude</sub>
+  `▲ 85 pts` &nbsp;·&nbsp; [💬 103 comments](https://news.ycombinator.com/item?id=50520076) &nbsp;·&nbsp; <sub>by ex-aws-dude</sub>
 
-- **[Ask HN: Syncthing](https://news.ycombinator.com/item?id=50528871)**
-  `▲ 3 pts` &nbsp;·&nbsp; [💬 1 comments](https://news.ycombinator.com/item?id=50528871) &nbsp;·&nbsp; <sub>by bikvfeee</sub>
-
-- **[Ask HN: What was your weirdest or funniest job rejection?](https://news.ycombinator.com/item?id=50528707)**
-  `▲ 5 pts` &nbsp;·&nbsp; [💬 2 comments](https://news.ycombinator.com/item?id=50528707) &nbsp;·&nbsp; <sub>by cristaloleg</sub>
+- **[Ask HN: Are We in a Cyberwar?](https://news.ycombinator.com/item?id=50537206)**
+  `▲ 8 pts` &nbsp;·&nbsp; [💬 12 comments](https://news.ycombinator.com/item?id=50537206) &nbsp;·&nbsp; <sub>by bhartzer</sub>
 
 ---
 
