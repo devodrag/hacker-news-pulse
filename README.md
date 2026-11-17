@@ -1,6 +1,6 @@
 <div align="center">
   <p><code><b>( • ) HACKER NEWS PULSE &nbsp;|&nbsp; AUTOMATED DAILY DIGEST</b></code></p>
-  <h1><b>HN PULSE // 2026-11-16</b></h1>
+  <h1><b>HN PULSE // 2026-11-17</b></h1>
   <p>Curated developer intelligence, trending engineering debates, and community showcases.</p>
 </div>
 
@@ -9,45 +9,45 @@
 ### <code>( 01 ) // TOP INTELLIGENCE</code>
 
 - **[Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/)**
-  `▲ 380 pts` &nbsp;·&nbsp; [💬 74 comments](https://news.ycombinator.com/item?id=50522980) &nbsp;·&nbsp; <sub>by pcompeau</sub>
+  `▲ 1621 pts` &nbsp;·&nbsp; [💬 220 comments](https://news.ycombinator.com/item?id=50522980) &nbsp;·&nbsp; <sub>by pcompeau</sub>
 
-- **[BugMeNot has closed](https://www.bugmenot.com/)**
-  `▲ 204 pts` &nbsp;·&nbsp; [💬 106 comments](https://news.ycombinator.com/item?id=50523601) &nbsp;·&nbsp; <sub>by lode</sub>
+- **[How the Claude Code team thinks about verification](https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/)**
+  `▲ 21 pts` &nbsp;·&nbsp; [💬 13 comments](https://news.ycombinator.com/item?id=50529612) &nbsp;·&nbsp; <sub>by craigmart</sub>
 
-- **[How to Break into Security, Ptacek Edition (2012)](https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/)**
-  `▲ 51 pts` &nbsp;·&nbsp; [💬 12 comments](https://news.ycombinator.com/item?id=50524225) &nbsp;·&nbsp; <sub>by ronfriedhaber</sub>
+- **[VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012](https://visualbasic.world/)**
+  `▲ 41 pts` &nbsp;·&nbsp; [💬 16 comments](https://news.ycombinator.com/item?id=50511874) &nbsp;·&nbsp; <sub>by broast</sub>
 
-- **[Rust changed me as a developer](https://blog.startifact.com/posts/how-rust-changed-me/)**
-  `▲ 147 pts` &nbsp;·&nbsp; [💬 82 comments](https://news.ycombinator.com/item?id=50522563) &nbsp;·&nbsp; <sub>by speckx</sub>
+- **[Japan's Hometown Tax (2018)](https://www.kalzumeus.com/2018/10/19/japanese-hometown-tax/)**
+  `▲ 54 pts` &nbsp;·&nbsp; [💬 14 comments](https://news.ycombinator.com/item?id=50508845) &nbsp;·&nbsp; <sub>by waximabbax</sub>
 
-- **[Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use](https://xusheng.dev/posts/windows-coding-agent-telemetry/)**
-  `▲ 18 pts` &nbsp;·&nbsp; [💬 5 comments](https://news.ycombinator.com/item?id=50524736) &nbsp;·&nbsp; <sub>by cwaffles</sub>
+- **[Nimony: A New Compiler for Nim](https://nimony.org/)**
+  `▲ 78 pts` &nbsp;·&nbsp; [💬 25 comments](https://news.ycombinator.com/item?id=50512779) &nbsp;·&nbsp; <sub>by Fervicus</sub>
 
 ---
 
 ### <code>( 02 ) // SHOW HN (NEW TOOLS)</code>
 
-- **[Show HN: Sutra-OS – A self-hosted ontology platform](https://github.com/0nelight/sutra-os)**
-  `▲ 5 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50525052) &nbsp;·&nbsp; <sub>by 0nelight</sub>
+- **[Show HN: Zigzag, a native Mac browser for people leaving Arc](https://github.com/ZigaoWang/zigzag)**
+  `▲ 77 pts` &nbsp;·&nbsp; [💬 42 comments](https://news.ycombinator.com/item?id=50496787) &nbsp;·&nbsp; <sub>by ZigaoWang</sub>
 
-- **[Show HN: Open-source, real-time object tracking for live video feeds](https://github.com/aryamandarda/tamserve)**
-  `▲ 5 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50523377) &nbsp;·&nbsp; <sub>by aryaman_darda</sub>
+- **[Show HN: Pulsar – cross-harness agent to agent communication and messaging](https://github.com/yocontra/pulsar)**
+  `▲ 17 pts` &nbsp;·&nbsp; [💬 1 comments](https://news.ycombinator.com/item?id=50526967) &nbsp;·&nbsp; <sub>by contrahax</sub>
 
-- **[Show HN: NOS x86-64 hypervisor, written in Rust](https://nos-os.tech/en/demo)**
-  `▲ 2 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50524459) &nbsp;·&nbsp; <sub>by irqlevel</sub>
+- **[Show HN: MeshLive – Offline Video calls and livestreams over Bluetooth mesh](https://meshlive.github.io/)**
+  `▲ 2 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50529190) &nbsp;·&nbsp; <sub>by gptgautam1</sub>
 
 ---
 
 ### <code>( 03 ) // ASK HN (DISCUSSIONS)</code>
 
-- **[Ask HN: Are iPhone Duo Customers Happy?](https://news.ycombinator.com/item?id=50522639)**
-  `▲ 9 pts` &nbsp;·&nbsp; [💬 2 comments](https://news.ycombinator.com/item?id=50522639) &nbsp;·&nbsp; <sub>by rogerdickey</sub>
+- **[Ask HN: If AI tools are so good, why isn't your bug backlog empty?](https://news.ycombinator.com/item?id=50520076)**
+  `▲ 62 pts` &nbsp;·&nbsp; [💬 80 comments](https://news.ycombinator.com/item?id=50520076) &nbsp;·&nbsp; <sub>by ex-aws-dude</sub>
 
-- **[Is the Economy Over-Indexed to Software?](https://news.ycombinator.com/item?id=50521585)**
-  `▲ 4 pts` &nbsp;·&nbsp; [💬 5 comments](https://news.ycombinator.com/item?id=50521585) &nbsp;·&nbsp; <sub>by nizsle</sub>
+- **[Ask HN: Syncthing](https://news.ycombinator.com/item?id=50528871)**
+  `▲ 3 pts` &nbsp;·&nbsp; [💬 1 comments](https://news.ycombinator.com/item?id=50528871) &nbsp;·&nbsp; <sub>by bikvfeee</sub>
 
-- **[Ask HN: How to bring traffic to new product with out social media presence](https://news.ycombinator.com/item?id=50520644)**
-  `▲ 3 pts` &nbsp;·&nbsp; [💬 3 comments](https://news.ycombinator.com/item?id=50520644) &nbsp;·&nbsp; <sub>by vadigepalli</sub>
+- **[Ask HN: What was your weirdest or funniest job rejection?](https://news.ycombinator.com/item?id=50528707)**
+  `▲ 5 pts` &nbsp;·&nbsp; [💬 2 comments](https://news.ycombinator.com/item?id=50528707) &nbsp;·&nbsp; <sub>by cristaloleg</sub>
 
 ---
 
