@@ -8,46 +8,46 @@
 
 ### <code>( 01 ) // TOP INTELLIGENCE</code>
 
-- **[Frostbite: A new CPU architecture discovered, designed and verified by AI](https://architectlabs.com/blog/frostbite)**
-  `▲ 57 pts` &nbsp;·&nbsp; [💬 38 comments](https://news.ycombinator.com/item?id=50572503) &nbsp;·&nbsp; <sub>by shioyama</sub>
+- **[Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/)**
+  `▲ 1098 pts` &nbsp;·&nbsp; [💬 515 comments](https://news.ycombinator.com/item?id=50579568) &nbsp;·&nbsp; <sub>by jasondavies</sub>
 
-- **[OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)](https://github.com/openssl/openssl/pull/33652)**
-  `▲ 266 pts` &nbsp;·&nbsp; [💬 210 comments](https://news.ycombinator.com/item?id=50569226) &nbsp;·&nbsp; <sub>by JacobHenner</sub>
+- **[Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/)**
+  `▲ 347 pts` &nbsp;·&nbsp; [💬 50 comments](https://news.ycombinator.com/item?id=50581260) &nbsp;·&nbsp; <sub>by jasondavies</sub>
 
-- **[The Strongest Sokoban Solver](https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver)**
-  `▲ 61 pts` &nbsp;·&nbsp; [💬 14 comments](https://news.ycombinator.com/item?id=50523241) &nbsp;·&nbsp; <sub>by ibobev</sub>
+- **[Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf)**
+  `▲ 2147 pts` &nbsp;·&nbsp; [💬 1466 comments](https://news.ycombinator.com/item?id=50574968) &nbsp;·&nbsp; <sub>by iamronaldo</sub>
 
-- **[FFmpeg 9.1 'Gauss'](https://ffmpeg.org/download.html#release_9.1)**
-  `▲ 149 pts` &nbsp;·&nbsp; [💬 24 comments](https://news.ycombinator.com/item?id=50569998) &nbsp;·&nbsp; <sub>by gyan</sub>
+- **[We promoted developers into architects without informing them](https://manidoraisamy.com/developer-to-architect.html)**
+  `▲ 189 pts` &nbsp;·&nbsp; [💬 111 comments](https://news.ycombinator.com/item?id=50579331) &nbsp;·&nbsp; <sub>by QueensGambit</sub>
 
-- **[µ-Wire – USB on an ATtiny 10](https://cpldcpu.com/2014/03/19/%c2%b5-wire-usb-on-an-attiny-10/)**
-  `▲ 36 pts` &nbsp;·&nbsp; [💬 1 comments](https://news.ycombinator.com/item?id=50545818) &nbsp;·&nbsp; <sub>by mofosyne</sub>
+- **[Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis](https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/)**
+  `▲ 245 pts` &nbsp;·&nbsp; [💬 70 comments](https://news.ycombinator.com/item?id=50578358) &nbsp;·&nbsp; <sub>by archon1410</sub>
 
 ---
 
 ### <code>( 02 ) // SHOW HN (NEW TOOLS)</code>
 
-- **[Show HN: Tinnitus frequency finder and audio notch tool](https://trynotched.com/find)**
-  `▲ 10 pts` &nbsp;·&nbsp; [💬 6 comments](https://news.ycombinator.com/item?id=50541568) &nbsp;·&nbsp; <sub>by brianrhea</sub>
+- **[Show HN: An API for word timestamps from speech, 75% within 20ms](https://quebec.yarn.so)**
+  `▲ 40 pts` &nbsp;·&nbsp; [💬 5 comments](https://news.ycombinator.com/item?id=50532515) &nbsp;·&nbsp; <sub>by jasperstory</sub>
 
-- **[Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest](https://cornholenews.news)**
-  `▲ 225 pts` &nbsp;·&nbsp; [💬 104 comments](https://news.ycombinator.com/item?id=50561515) &nbsp;·&nbsp; <sub>by cornholemedia</sub>
+- **[Show HN: OpenComputer – an open source alternative to Devin](https://github.com/diggerhq/opencomputer)**
+  `▲ 29 pts` &nbsp;·&nbsp; [💬 11 comments](https://news.ycombinator.com/item?id=50581403) &nbsp;·&nbsp; <sub>by iacguy</sub>
 
-- **[Show HN: Reaktiv Workbook – A spreadsheet where every cell is Python](https://workbook.bui.app/)**
-  `▲ 2 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50572351) &nbsp;·&nbsp; <sub>by buibuibui</sub>
+- **[Show HN: I made an audio-to-MIDI model 60x more efficient](https://kobi.music/research/dettato)**
+  `▲ 208 pts` &nbsp;·&nbsp; [💬 44 comments](https://news.ycombinator.com/item?id=50526023) &nbsp;·&nbsp; <sub>by hidude562</sub>
 
 ---
 
 ### <code>( 03 ) // ASK HN (DISCUSSIONS)</code>
 
-- **[Ask HN: Did books that went viral on HN publish their manuscript?](https://news.ycombinator.com/item?id=50572342)**
-  `▲ 2 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50572342) &nbsp;·&nbsp; <sub>by illidan1000</sub>
+- **[I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=50577613)**
+  `▲ 86 pts` &nbsp;·&nbsp; [💬 114 comments](https://news.ycombinator.com/item?id=50577613) &nbsp;·&nbsp; <sub>by proberts</sub>
 
-- **[GitLab 19.6.0 is out and still vulnerable to Ruby2Shell and NGINX2Root](https://news.ycombinator.com/item?id=50561571)**
-  `▲ 25 pts` &nbsp;·&nbsp; [💬 7 comments](https://news.ycombinator.com/item?id=50561571) &nbsp;·&nbsp; <sub>by hoechst</sub>
+- **[Second Brain and Agent Maintenance Thoughts on AI Usage?](https://news.ycombinator.com/item?id=50581873)**
+  `▲ 2 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50581873) &nbsp;·&nbsp; <sub>by harrisonsmith10</sub>
 
-- **[Ask HN: Where do you see Software in 5 years?](https://news.ycombinator.com/item?id=50565484)**
-  `▲ 17 pts` &nbsp;·&nbsp; [💬 18 comments](https://news.ycombinator.com/item?id=50565484) &nbsp;·&nbsp; <sub>by Odbyteusz</sub>
+- **[Ask HN: Any actual balanced reviews of GTA 6?](https://news.ycombinator.com/item?id=50573839)**
+  `▲ 8 pts` &nbsp;·&nbsp; [💬 10 comments](https://news.ycombinator.com/item?id=50573839) &nbsp;·&nbsp; <sub>by tetris11</sub>
 
 ---
 
