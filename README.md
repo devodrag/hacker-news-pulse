@@ -8,46 +8,46 @@
 
 ### <code>( 01 ) // TOP INTELLIGENCE</code>
 
+- **[What Happened to Silicon Valley?](https://www.oreilly.com/radar/what-happened-to-silicon-valley/)**
+  `▲ 105 pts` &nbsp;·&nbsp; [💬 30 comments](https://news.ycombinator.com/item?id=50602947) &nbsp;·&nbsp; <sub>by greenyouse</sub>
+
+- **[The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife](https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife)**
+  `▲ 105 pts` &nbsp;·&nbsp; [💬 19 comments](https://news.ycombinator.com/item?id=50602843) &nbsp;·&nbsp; <sub>by gaws</sub>
+
+- **[Perplexity and Intelligence](https://openai.com/index/perplexity-and-intelligence/)**
+  `▲ 336 pts` &nbsp;·&nbsp; [💬 220 comments](https://news.ycombinator.com/item?id=50601525) &nbsp;·&nbsp; <sub>by acossta</sub>
+
 - **[Toyota, Nissan, and Honda to standardize parts to lower costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/)**
-  `▲ 515 pts` &nbsp;·&nbsp; [💬 304 comments](https://news.ycombinator.com/item?id=50596133) &nbsp;·&nbsp; <sub>by zdw</sub>
+  `▲ 1092 pts` &nbsp;·&nbsp; [💬 639 comments](https://news.ycombinator.com/item?id=50596133) &nbsp;·&nbsp; <sub>by zdw</sub>
 
-- **[Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib)**
-  `▲ 1021 pts` &nbsp;·&nbsp; [💬 221 comments](https://news.ycombinator.com/item?id=50582069) &nbsp;·&nbsp; <sub>by rafaelc</sub>
-
-- **[Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)**
-  `▲ 1041 pts` &nbsp;·&nbsp; [💬 870 comments](https://news.ycombinator.com/item?id=50589618) &nbsp;·&nbsp; <sub>by g-b-r</sub>
-
-- **[Sandwich Simulator](https://stulle.app/)**
-  `▲ 258 pts` &nbsp;·&nbsp; [💬 88 comments](https://news.ycombinator.com/item?id=50594911) &nbsp;·&nbsp; <sub>by subdomain</sub>
-
-- **[87% of the Anthropic power will come from gas and 11% from coal in 2028](https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/)**
-  `▲ 124 pts` &nbsp;·&nbsp; [💬 131 comments](https://news.ycombinator.com/item?id=50597612) &nbsp;·&nbsp; <sub>by happosai</sub>
+- **[Show HN: I built a game where you are an LLM's subagent](https://github.com/gulivan/worker755)**
+  `▲ 219 pts` &nbsp;·&nbsp; [💬 52 comments](https://news.ycombinator.com/item?id=50599762) &nbsp;·&nbsp; <sub>by ivantgam</sub>
 
 ---
 
 ### <code>( 02 ) // SHOW HN (NEW TOOLS)</code>
 
-- **[Show HN: The Riemann Proof Handbook](https://github.com/tamnd/riemann-handbook)**
-  `▲ 50 pts` &nbsp;·&nbsp; [💬 19 comments](https://news.ycombinator.com/item?id=50596664) &nbsp;·&nbsp; <sub>by tamnd</sub>
+- **[Show HN: I built a game where you are an LLM's subagent](https://github.com/gulivan/worker755)**
+  `▲ 219 pts` &nbsp;·&nbsp; [💬 52 comments](https://news.ycombinator.com/item?id=50599762) &nbsp;·&nbsp; <sub>by ivantgam</sub>
 
-- **[Show HN: Compile the same source for GPUs and CPUs](https://github.com/ThrudTheBarbarian/xc)**
-  `▲ 16 pts` &nbsp;·&nbsp; [💬 1 comments](https://news.ycombinator.com/item?id=50487155) &nbsp;·&nbsp; <sub>by spacedcowboy</sub>
+- **[Show HN: Deflate X-Ray, See inside a compressed file](https://hrih.si/projects/deflate-xray/)**
+  `▲ 7 pts` &nbsp;·&nbsp; [💬 1 comments](https://news.ycombinator.com/item?id=50572389) &nbsp;·&nbsp; <sub>by DonAtimator</sub>
 
-- **[Show HN: Zero C# – C# without a runtime or GC](https://onurgumus.github.io/zero-csharp/index.html)**
-  `▲ 162 pts` &nbsp;·&nbsp; [💬 110 comments](https://news.ycombinator.com/item?id=50590279) &nbsp;·&nbsp; <sub>by reverseblade2</sub>
+- **[Show HN: PDF ProMaster – PDF tools that run in the browser, no uploads](https://pdfpromaster.com/)**
+  `▲ 2 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50603380) &nbsp;·&nbsp; <sub>by pdfpromaster</sub>
 
 ---
 
 ### <code>( 03 ) // ASK HN (DISCUSSIONS)</code>
 
+- **[Ask HN: Tips for transitioning from web development to embedded/firmware?](https://news.ycombinator.com/item?id=50555002)**
+  `▲ 79 pts` &nbsp;·&nbsp; [💬 60 comments](https://news.ycombinator.com/item?id=50555002) &nbsp;·&nbsp; <sub>by llmblockchain</sub>
+
+- **[Ask HN: Are startups today worth it even in a best case scenario?](https://news.ycombinator.com/item?id=50602740)**
+  `▲ 4 pts` &nbsp;·&nbsp; [💬 2 comments](https://news.ycombinator.com/item?id=50602740) &nbsp;·&nbsp; <sub>by enigmous_hippo</sub>
+
 - **[Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?](https://news.ycombinator.com/item?id=50583761)**
-  `▲ 686 pts` &nbsp;·&nbsp; [💬 774 comments](https://news.ycombinator.com/item?id=50583761) &nbsp;·&nbsp; <sub>by LetThingsBeDiff</sub>
-
-- **[I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=50577613)**
-  `▲ 129 pts` &nbsp;·&nbsp; [💬 177 comments](https://news.ycombinator.com/item?id=50577613) &nbsp;·&nbsp; <sub>by proberts</sub>
-
-- **[Ask HN: Is Anthropic being public better or worse for your org?](https://news.ycombinator.com/item?id=50597005)**
-  `▲ 5 pts` &nbsp;·&nbsp; [💬 3 comments](https://news.ycombinator.com/item?id=50597005) &nbsp;·&nbsp; <sub>by ares623</sub>
+  `▲ 718 pts` &nbsp;·&nbsp; [💬 817 comments](https://news.ycombinator.com/item?id=50583761) &nbsp;·&nbsp; <sub>by LetThingsBeDiff</sub>
 
 ---
 
