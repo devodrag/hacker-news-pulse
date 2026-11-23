@@ -1,6 +1,6 @@
 <div align="center">
   <p><code><b>( • ) HACKER NEWS PULSE &nbsp;|&nbsp; AUTOMATED DAILY DIGEST</b></code></p>
-  <h1><b>HN PULSE // 2026-11-22</b></h1>
+  <h1><b>HN PULSE // 2026-11-23</b></h1>
   <p>Curated developer intelligence, trending engineering debates, and community showcases.</p>
 </div>
 
@@ -8,46 +8,46 @@
 
 ### <code>( 01 ) // TOP INTELLIGENCE</code>
 
-- **[What Happened to Silicon Valley?](https://www.oreilly.com/radar/what-happened-to-silicon-valley/)**
-  `▲ 105 pts` &nbsp;·&nbsp; [💬 30 comments](https://news.ycombinator.com/item?id=50602947) &nbsp;·&nbsp; <sub>by greenyouse</sub>
+- **[GLM-5.4: Toward Generalized Coding with Our First Loop Transformer](https://z.ai/blog/glm-5.4)**
+  `▲ 145 pts` &nbsp;·&nbsp; [💬 66 comments](https://news.ycombinator.com/item?id=50609685) &nbsp;·&nbsp; <sub>by foohis</sub>
 
-- **[The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife](https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife)**
-  `▲ 105 pts` &nbsp;·&nbsp; [💬 19 comments](https://news.ycombinator.com/item?id=50602843) &nbsp;·&nbsp; <sub>by gaws</sub>
+- **[XNU Linux: Full OS X GUI Userspace on Linux](https://github.com/AFK-surf/xnulinux)**
+  `▲ 377 pts` &nbsp;·&nbsp; [💬 172 comments](https://news.ycombinator.com/item?id=50607261) &nbsp;·&nbsp; <sub>by mmastrac</sub>
 
-- **[Perplexity and Intelligence](https://openai.com/index/perplexity-and-intelligence/)**
-  `▲ 336 pts` &nbsp;·&nbsp; [💬 220 comments](https://news.ycombinator.com/item?id=50601525) &nbsp;·&nbsp; <sub>by acossta</sub>
+- **[Free alternative TV network built from the Internet Archive's forgotten videos](https://spelunkr.tv)**
+  `▲ 572 pts` &nbsp;·&nbsp; [💬 100 comments](https://news.ycombinator.com/item?id=50606192) &nbsp;·&nbsp; <sub>by SockThief</sub>
 
-- **[Toyota, Nissan, and Honda to standardize parts to lower costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/)**
-  `▲ 1092 pts` &nbsp;·&nbsp; [💬 639 comments](https://news.ycombinator.com/item?id=50596133) &nbsp;·&nbsp; <sub>by zdw</sub>
+- **[Yes, 17M lines of Lean is a lot](https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/)**
+  `▲ 116 pts` &nbsp;·&nbsp; [💬 127 comments](https://news.ycombinator.com/item?id=50607668) &nbsp;·&nbsp; <sub>by seizethecheese</sub>
 
-- **[Show HN: I built a game where you are an LLM's subagent](https://github.com/gulivan/worker755)**
-  `▲ 219 pts` &nbsp;·&nbsp; [💬 52 comments](https://news.ycombinator.com/item?id=50599762) &nbsp;·&nbsp; <sub>by ivantgam</sub>
+- **[A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth)**
+  `▲ 553 pts` &nbsp;·&nbsp; [💬 230 comments](https://news.ycombinator.com/item?id=50603845) &nbsp;·&nbsp; <sub>by Retell15</sub>
 
 ---
 
 ### <code>( 02 ) // SHOW HN (NEW TOOLS)</code>
 
+- **[Show HN: Drive around my village in 3D](https://cherwellvalleymotorclub.app)**
+  `▲ 38 pts` &nbsp;·&nbsp; [💬 34 comments](https://news.ycombinator.com/item?id=50574412) &nbsp;·&nbsp; <sub>by johnwards</sub>
+
 - **[Show HN: I built a game where you are an LLM's subagent](https://github.com/gulivan/worker755)**
-  `▲ 219 pts` &nbsp;·&nbsp; [💬 52 comments](https://news.ycombinator.com/item?id=50599762) &nbsp;·&nbsp; <sub>by ivantgam</sub>
+  `▲ 328 pts` &nbsp;·&nbsp; [💬 79 comments](https://news.ycombinator.com/item?id=50599762) &nbsp;·&nbsp; <sub>by ivantgam</sub>
 
-- **[Show HN: Deflate X-Ray, See inside a compressed file](https://hrih.si/projects/deflate-xray/)**
-  `▲ 7 pts` &nbsp;·&nbsp; [💬 1 comments](https://news.ycombinator.com/item?id=50572389) &nbsp;·&nbsp; <sub>by DonAtimator</sub>
-
-- **[Show HN: PDF ProMaster – PDF tools that run in the browser, no uploads](https://pdfpromaster.com/)**
-  `▲ 2 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50603380) &nbsp;·&nbsp; <sub>by pdfpromaster</sub>
+- **[Show HN: Hearth 64 – A cozy fireplace screensaver ROM for real N64 hardware](https://github.com/njgreb/n64fireplace)**
+  `▲ 9 pts` &nbsp;·&nbsp; [💬 3 comments](https://news.ycombinator.com/item?id=50606513) &nbsp;·&nbsp; <sub>by gweedo767</sub>
 
 ---
 
 ### <code>( 03 ) // ASK HN (DISCUSSIONS)</code>
 
 - **[Ask HN: Tips for transitioning from web development to embedded/firmware?](https://news.ycombinator.com/item?id=50555002)**
-  `▲ 79 pts` &nbsp;·&nbsp; [💬 60 comments](https://news.ycombinator.com/item?id=50555002) &nbsp;·&nbsp; <sub>by llmblockchain</sub>
-
-- **[Ask HN: Are startups today worth it even in a best case scenario?](https://news.ycombinator.com/item?id=50602740)**
-  `▲ 4 pts` &nbsp;·&nbsp; [💬 2 comments](https://news.ycombinator.com/item?id=50602740) &nbsp;·&nbsp; <sub>by enigmous_hippo</sub>
+  `▲ 142 pts` &nbsp;·&nbsp; [💬 87 comments](https://news.ycombinator.com/item?id=50555002) &nbsp;·&nbsp; <sub>by llmblockchain</sub>
 
 - **[Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?](https://news.ycombinator.com/item?id=50583761)**
-  `▲ 718 pts` &nbsp;·&nbsp; [💬 817 comments](https://news.ycombinator.com/item?id=50583761) &nbsp;·&nbsp; <sub>by LetThingsBeDiff</sub>
+  `▲ 736 pts` &nbsp;·&nbsp; [💬 829 comments](https://news.ycombinator.com/item?id=50583761) &nbsp;·&nbsp; <sub>by LetThingsBeDiff</sub>
+
+- **[I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=50577613)**
+  `▲ 132 pts` &nbsp;·&nbsp; [💬 176 comments](https://news.ycombinator.com/item?id=50577613) &nbsp;·&nbsp; <sub>by proberts</sub>
 
 ---
 
