@@ -1,6 +1,6 @@
 <div align="center">
   <p><code><b>( • ) HACKER NEWS PULSE &nbsp;|&nbsp; AUTOMATED DAILY DIGEST</b></code></p>
-  <h1><b>HN PULSE // 2026-11-23</b></h1>
+  <h1><b>HN PULSE // 2026-11-24</b></h1>
   <p>Curated developer intelligence, trending engineering debates, and community showcases.</p>
 </div>
 
@@ -8,46 +8,46 @@
 
 ### <code>( 01 ) // TOP INTELLIGENCE</code>
 
-- **[GLM-5.4: Toward Generalized Coding with Our First Loop Transformer](https://z.ai/blog/glm-5.4)**
-  `▲ 145 pts` &nbsp;·&nbsp; [💬 66 comments](https://news.ycombinator.com/item?id=50609685) &nbsp;·&nbsp; <sub>by foohis</sub>
+- **[Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html)**
+  `▲ 2118 pts` &nbsp;·&nbsp; [💬 3153 comments](https://news.ycombinator.com/item?id=50611576) &nbsp;·&nbsp; <sub>by jaz</sub>
 
-- **[XNU Linux: Full OS X GUI Userspace on Linux](https://github.com/AFK-surf/xnulinux)**
-  `▲ 377 pts` &nbsp;·&nbsp; [💬 172 comments](https://news.ycombinator.com/item?id=50607261) &nbsp;·&nbsp; <sub>by mmastrac</sub>
+- **[Stalwart is now a drop-in replacement for Microsoft Exchange](https://stalw.art/blog/microsoft-exchange-replacement/)**
+  `▲ 200 pts` &nbsp;·&nbsp; [💬 113 comments](https://news.ycombinator.com/item?id=50620349) &nbsp;·&nbsp; <sub>by shaunpud</sub>
 
-- **[Free alternative TV network built from the Internet Archive's forgotten videos](https://spelunkr.tv)**
-  `▲ 572 pts` &nbsp;·&nbsp; [💬 100 comments](https://news.ycombinator.com/item?id=50606192) &nbsp;·&nbsp; <sub>by SockThief</sub>
+- **[Ladybird is now in alpha](https://ladybird.org/posts/alpha/)**
+  `▲ 1454 pts` &nbsp;·&nbsp; [💬 331 comments](https://news.ycombinator.com/item?id=50614249) &nbsp;·&nbsp; <sub>by janvdberg</sub>
 
-- **[Yes, 17M lines of Lean is a lot](https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/)**
-  `▲ 116 pts` &nbsp;·&nbsp; [💬 127 comments](https://news.ycombinator.com/item?id=50607668) &nbsp;·&nbsp; <sub>by seizethecheese</sub>
+- **[Alcohol use reduces efficacy of immunotherapy by disrupting antitumor immunity](https://www.science.org/doi/10.1126/scisignal.aef1375)**
+  `▲ 23 pts` &nbsp;·&nbsp; [💬 9 comments](https://news.ycombinator.com/item?id=50621977) &nbsp;·&nbsp; <sub>by gumby</sub>
 
-- **[A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth)**
-  `▲ 553 pts` &nbsp;·&nbsp; [💬 230 comments](https://news.ycombinator.com/item?id=50603845) &nbsp;·&nbsp; <sub>by Retell15</sub>
+- **[GPUI is getting its own repository](https://github.com/zed-industries/gpui)**
+  `▲ 129 pts` &nbsp;·&nbsp; [💬 35 comments](https://news.ycombinator.com/item?id=50619103) &nbsp;·&nbsp; <sub>by EvilGoose</sub>
 
 ---
 
 ### <code>( 02 ) // SHOW HN (NEW TOOLS)</code>
 
-- **[Show HN: Drive around my village in 3D](https://cherwellvalleymotorclub.app)**
-  `▲ 38 pts` &nbsp;·&nbsp; [💬 34 comments](https://news.ycombinator.com/item?id=50574412) &nbsp;·&nbsp; <sub>by johnwards</sub>
+- **[Show HN: Type-C – variants, options, generics and pattern matching for C](https://github.com/stass/type-c)**
+  `▲ 26 pts` &nbsp;·&nbsp; [💬 4 comments](https://news.ycombinator.com/item?id=50602561) &nbsp;·&nbsp; <sub>by stass</sub>
 
-- **[Show HN: I built a game where you are an LLM's subagent](https://github.com/gulivan/worker755)**
-  `▲ 328 pts` &nbsp;·&nbsp; [💬 79 comments](https://news.ycombinator.com/item?id=50599762) &nbsp;·&nbsp; <sub>by ivantgam</sub>
+- **[Show HN: Merget – Merge queue using deep static analysis to resolve GitHub PRs](https://merget.ai/)**
+  `▲ 3 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50622321) &nbsp;·&nbsp; <sub>by kulkved9</sub>
 
-- **[Show HN: Hearth 64 – A cozy fireplace screensaver ROM for real N64 hardware](https://github.com/njgreb/n64fireplace)**
-  `▲ 9 pts` &nbsp;·&nbsp; [💬 3 comments](https://news.ycombinator.com/item?id=50606513) &nbsp;·&nbsp; <sub>by gweedo767</sub>
+- **[Show HN: CompMD – Markdown with components that still reads as Markdown](https://compmd.dev/blog/first-packs/)**
+  `▲ 3 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50622218) &nbsp;·&nbsp; <sub>by hakanserce</sub>
 
 ---
 
 ### <code>( 03 ) // ASK HN (DISCUSSIONS)</code>
 
+- **[Ask HN: Are the trades a safe career transition?](https://news.ycombinator.com/item?id=50600771)**
+  `▲ 56 pts` &nbsp;·&nbsp; [💬 91 comments](https://news.ycombinator.com/item?id=50600771) &nbsp;·&nbsp; <sub>by Rd6n6</sub>
+
+- **[Tell HN: Claude Opus 4.5 turns one year old today](https://news.ycombinator.com/item?id=50621878)**
+  `▲ 2 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50621878) &nbsp;·&nbsp; <sub>by zkldi</sub>
+
 - **[Ask HN: Tips for transitioning from web development to embedded/firmware?](https://news.ycombinator.com/item?id=50555002)**
-  `▲ 142 pts` &nbsp;·&nbsp; [💬 87 comments](https://news.ycombinator.com/item?id=50555002) &nbsp;·&nbsp; <sub>by llmblockchain</sub>
-
-- **[Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?](https://news.ycombinator.com/item?id=50583761)**
-  `▲ 736 pts` &nbsp;·&nbsp; [💬 829 comments](https://news.ycombinator.com/item?id=50583761) &nbsp;·&nbsp; <sub>by LetThingsBeDiff</sub>
-
-- **[I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA](https://news.ycombinator.com/item?id=50577613)**
-  `▲ 132 pts` &nbsp;·&nbsp; [💬 176 comments](https://news.ycombinator.com/item?id=50577613) &nbsp;·&nbsp; <sub>by proberts</sub>
+  `▲ 151 pts` &nbsp;·&nbsp; [💬 93 comments](https://news.ycombinator.com/item?id=50555002) &nbsp;·&nbsp; <sub>by llmblockchain</sub>
 
 ---
 
