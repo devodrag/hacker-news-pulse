@@ -8,46 +8,46 @@
 
 ### <code>( 01 ) // TOP INTELLIGENCE</code>
 
-- **[Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang](https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/)**
-  `▲ 284 pts` &nbsp;·&nbsp; [💬 163 comments](https://news.ycombinator.com/item?id=50626578) &nbsp;·&nbsp; <sub>by oska</sub>
+- **[Ternary Bonsai 2.5 27B](https://prismml.com/news/bonsai-2-5-27b)**
+  `▲ 270 pts` &nbsp;·&nbsp; [💬 89 comments](https://news.ycombinator.com/item?id=50633922) &nbsp;·&nbsp; <sub>by b0m</sub>
 
-- **[LLM agents work for their parent companies, not for you](https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/)**
-  `▲ 70 pts` &nbsp;·&nbsp; [💬 17 comments](https://news.ycombinator.com/item?id=50627340) &nbsp;·&nbsp; <sub>by surprisetalk</sub>
+- **[GPT-6 models demonstrate intrinsic protein-design capabilities](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/)**
+  `▲ 113 pts` &nbsp;·&nbsp; [💬 22 comments](https://news.ycombinator.com/item?id=50634658) &nbsp;·&nbsp; <sub>by acossta</sub>
 
-- **[Who in Washington owns and trades Nvidia stock](https://www.kadoa.com/congress/insights/trump-nvidia)**
-  `▲ 58 pts` &nbsp;·&nbsp; [💬 19 comments](https://news.ycombinator.com/item?id=50626861) &nbsp;·&nbsp; <sub>by hubraumhugo</sub>
+- **[Launch HN: Versine (YC F26) – MCP to send and receive money](https://news.ycombinator.com/item?id=50634426)**
+  `▲ 52 pts` &nbsp;·&nbsp; [💬 29 comments](https://news.ycombinator.com/item?id=50634426) &nbsp;·&nbsp; <sub>by harshithl1777</sub>
 
-- **[2035 Came Early](https://fzakaria.com/2026/11/23/2035-came-early)**
-  `▲ 417 pts` &nbsp;·&nbsp; [💬 160 comments](https://news.ycombinator.com/item?id=50624497) &nbsp;·&nbsp; <sub>by setheron</sub>
+- **[Active intrusion campaign against Check Point security management servers](https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign)**
+  `▲ 248 pts` &nbsp;·&nbsp; [💬 113 comments](https://news.ycombinator.com/item?id=50630594) &nbsp;·&nbsp; <sub>by louiereederson</sub>
 
-- **[Worshipping at the Altar of Brendan Gregg](https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg)**
-  `▲ 65 pts` &nbsp;·&nbsp; [💬 6 comments](https://news.ycombinator.com/item?id=50626413) &nbsp;·&nbsp; <sub>by kqr</sub>
+- **[Gödel Enigma](https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description)**
+  `▲ 59 pts` &nbsp;·&nbsp; [💬 19 comments](https://news.ycombinator.com/item?id=50625265) &nbsp;·&nbsp; <sub>by benbreen</sub>
 
 ---
 
 ### <code>( 02 ) // SHOW HN (NEW TOOLS)</code>
 
-- **[Show HN: We replaced our time tracking SaaS with a Git repository](https://github.com/clockoli/clockoli)**
-  `▲ 5 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50627008) &nbsp;·&nbsp; <sub>by snikolaev</sub>
+- **[Show HN: PQCrypta Proxy: Rust proxy with HTTP/3, QUIC, hybrid post-quantum TLS](https://github.com/PQCrypta/pqcrypta-proxy)**
+  `▲ 16 pts` &nbsp;·&nbsp; [💬 3 comments](https://news.ycombinator.com/item?id=50591024) &nbsp;·&nbsp; <sub>by pqpdf</sub>
 
-- **[Show HN: Rowkeep – an append-only database that lives inside a Claude artifact](https://github.com/cklose2000/rowkeep)**
-  `▲ 2 pts` &nbsp;·&nbsp; [💬 1 comments](https://news.ycombinator.com/item?id=50626952) &nbsp;·&nbsp; <sub>by cklose2000</sub>
+- **[Show HN: Mason – A lightweight Postgres read-replica, built on columnar storage](https://masondata.ai/)**
+  `▲ 79 pts` &nbsp;·&nbsp; [💬 15 comments](https://news.ycombinator.com/item?id=50630294) &nbsp;·&nbsp; <sub>by tagspace</sub>
 
-- **[Show HN: WearTryOn – Client-side virtual try-on for e-commerce](https://weartryon.com)**
-  `▲ 2 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50626626) &nbsp;·&nbsp; <sub>by summerjaiyi</sub>
+- **[Show HN: Brickie – Deploy sandboxes in your own AWS account](https://github.com/hatchet-dev/brickie)**
+  `▲ 26 pts` &nbsp;·&nbsp; [💬 5 comments](https://news.ycombinator.com/item?id=50629936) &nbsp;·&nbsp; <sub>by abelanger</sub>
 
 ---
 
 ### <code>( 03 ) // ASK HN (DISCUSSIONS)</code>
 
-- **[Ask HN: Everything will get breached. How do you limit the blast radius?](https://news.ycombinator.com/item?id=50626772)**
-  `▲ 10 pts` &nbsp;·&nbsp; [💬 2 comments](https://news.ycombinator.com/item?id=50626772) &nbsp;·&nbsp; <sub>by humbleferret</sub>
+- **[Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?](https://news.ycombinator.com/item?id=50630809)**
+  `▲ 213 pts` &nbsp;·&nbsp; [💬 160 comments](https://news.ycombinator.com/item?id=50630809) &nbsp;·&nbsp; <sub>by weli</sub>
 
-- **[Ask HN: Are the trades a safe career transition?](https://news.ycombinator.com/item?id=50600771)**
-  `▲ 69 pts` &nbsp;·&nbsp; [💬 110 comments](https://news.ycombinator.com/item?id=50600771) &nbsp;·&nbsp; <sub>by Rd6n6</sub>
+- **[Ask HN: Am I the only one whose AI hype is cooling down a lot?](https://news.ycombinator.com/item?id=50633601)**
+  `▲ 11 pts` &nbsp;·&nbsp; [💬 9 comments](https://news.ycombinator.com/item?id=50633601) &nbsp;·&nbsp; <sub>by redleathercouch</sub>
 
-- **[Why are so many services using email magic links for login?](https://news.ycombinator.com/item?id=50625996)**
-  `▲ 11 pts` &nbsp;·&nbsp; [💬 8 comments](https://news.ycombinator.com/item?id=50625996) &nbsp;·&nbsp; <sub>by bfbf</sub>
+- **[Ask HN: Will Claude be able to solve future maths problems?](https://news.ycombinator.com/item?id=50635183)**
+  `▲ 2 pts` &nbsp;·&nbsp; [💬 2 comments](https://news.ycombinator.com/item?id=50635183) &nbsp;·&nbsp; <sub>by olirex99</sub>
 
 ---
 
