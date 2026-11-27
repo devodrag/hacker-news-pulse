@@ -1,6 +1,6 @@
 <div align="center">
   <p><code><b>( • ) HACKER NEWS PULSE &nbsp;|&nbsp; AUTOMATED DAILY DIGEST</b></code></p>
-  <h1><b>HN PULSE // 2026-11-26</b></h1>
+  <h1><b>HN PULSE // 2026-11-27</b></h1>
   <p>Curated developer intelligence, trending engineering debates, and community showcases.</p>
 </div>
 
@@ -8,46 +8,46 @@
 
 ### <code>( 01 ) // TOP INTELLIGENCE</code>
 
+- **[The group chat where your AI talks behind your back](https://construct22.com/)**
+  `▲ 321 pts` &nbsp;·&nbsp; [💬 138 comments](https://news.ycombinator.com/item?id=50663595) &nbsp;·&nbsp; <sub>by utiiiD</sub>
+
 - **[AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting)**
-  `▲ 130 pts` &nbsp;·&nbsp; [💬 76 comments](https://news.ycombinator.com/item?id=50660180) &nbsp;·&nbsp; <sub>by jlelse</sub>
+  `▲ 763 pts` &nbsp;·&nbsp; [💬 380 comments](https://news.ycombinator.com/item?id=50660180) &nbsp;·&nbsp; <sub>by jlelse</sub>
 
-- **[Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/)**
-  `▲ 179 pts` &nbsp;·&nbsp; [💬 31 comments](https://news.ycombinator.com/item?id=50659841) &nbsp;·&nbsp; <sub>by dverlaeckt80</sub>
-
-- **[AMD-specific fork of llama.cpp](https://devnull.land/amd-specific-llama-cpp)**
-  `▲ 257 pts` &nbsp;·&nbsp; [💬 63 comments](https://news.ycombinator.com/item?id=50657265) &nbsp;·&nbsp; <sub>by julianlam</sub>
+- **[Fields-winning mathematicians worried about eerie silence over AI and encryption](https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8)**
+  `▲ 37 pts` &nbsp;·&nbsp; [💬 20 comments](https://news.ycombinator.com/item?id=50665488) &nbsp;·&nbsp; <sub>by conradqh</sub>
 
 - **[YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays](https://github.com/antonpictures/youtube-punisher)**
-  `▲ 210 pts` &nbsp;·&nbsp; [💬 295 comments](https://news.ycombinator.com/item?id=50657530) &nbsp;·&nbsp; <sub>by iantongeorge</sub>
+  `▲ 428 pts` &nbsp;·&nbsp; [💬 487 comments](https://news.ycombinator.com/item?id=50657530) &nbsp;·&nbsp; <sub>by iantongeorge</sub>
 
-- **[CTO of 'RansomwareHelp' Indicted for Wire Fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/)**
-  `▲ 178 pts` &nbsp;·&nbsp; [💬 82 comments](https://news.ycombinator.com/item?id=50657645) &nbsp;·&nbsp; <sub>by Bender</sub>
+- **[Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/)**
+  `▲ 384 pts` &nbsp;·&nbsp; [💬 95 comments](https://news.ycombinator.com/item?id=50659841) &nbsp;·&nbsp; <sub>by dverlaeckt80</sub>
 
 ---
 
 ### <code>( 02 ) // SHOW HN (NEW TOOLS)</code>
 
-- **[Show HN: Olumino, a Markdown notes and spaced repetition app](https://olumino.app)**
-  `▲ 53 pts` &nbsp;·&nbsp; [💬 31 comments](https://news.ycombinator.com/item?id=50651099) &nbsp;·&nbsp; <sub>by Wiyseful</sub>
+- **[Show HN: Gerber 3D – view, compare and fab-check PCB files in the browser](https://wespeakenglish.github.io/VisualGerber/)**
+  `▲ 2 pts` &nbsp;·&nbsp; [💬 0 comments](https://news.ycombinator.com/item?id=50665405) &nbsp;·&nbsp; <sub>by pinelab</sub>
 
-- **[Show HN: Three Linux VMs in a browser tab, each running a different browser](https://michidk.github.io/sidebyside/)**
-  `▲ 105 pts` &nbsp;·&nbsp; [💬 26 comments](https://news.ycombinator.com/item?id=50656036) &nbsp;·&nbsp; <sub>by michidk</sub>
+- **[Show HN: Hacker News Movies](https://hackerfilms.pages.dev)**
+  `▲ 2 pts` &nbsp;·&nbsp; [💬 1 comments](https://news.ycombinator.com/item?id=50665175) &nbsp;·&nbsp; <sub>by nullandvoid</sub>
 
-- **[Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar](https://github.com/rxliuli/sim-drop)**
-  `▲ 35 pts` &nbsp;·&nbsp; [💬 8 comments](https://news.ycombinator.com/item?id=50657070) &nbsp;·&nbsp; <sub>by rxliuli</sub>
+- **[Show HN: I wrote an entire Vim manual over 4 years](http://themouseless.dev/vim/)**
+  `▲ 195 pts` &nbsp;·&nbsp; [💬 60 comments](https://news.ycombinator.com/item?id=50655868) &nbsp;·&nbsp; <sub>by thanato0s</sub>
 
 ---
 
 ### <code>( 03 ) // ASK HN (DISCUSSIONS)</code>
 
 - **[Tell HN: Happy Thanksgiving](https://news.ycombinator.com/item?id=50655664)**
-  `▲ 558 pts` &nbsp;·&nbsp; [💬 132 comments](https://news.ycombinator.com/item?id=50655664) &nbsp;·&nbsp; <sub>by ericmay</sub>
+  `▲ 697 pts` &nbsp;·&nbsp; [💬 151 comments](https://news.ycombinator.com/item?id=50655664) &nbsp;·&nbsp; <sub>by ericmay</sub>
 
-- **[Ask HN: Any courses/products by indie makers worth getting today?](https://news.ycombinator.com/item?id=50656763)**
-  `▲ 65 pts` &nbsp;·&nbsp; [💬 30 comments](https://news.ycombinator.com/item?id=50656763) &nbsp;·&nbsp; <sub>by akudha</sub>
+- **[Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?](https://news.ycombinator.com/item?id=50630809)**
+  `▲ 469 pts` &nbsp;·&nbsp; [💬 359 comments](https://news.ycombinator.com/item?id=50630809) &nbsp;·&nbsp; <sub>by weli</sub>
 
-- **[DietPi released a new version v10.9](https://news.ycombinator.com/item?id=50658963)**
-  `▲ 9 pts` &nbsp;·&nbsp; [💬 1 comments](https://news.ycombinator.com/item?id=50658963) &nbsp;·&nbsp; <sub>by stephanstsdietp</sub>
+- **[Tell HN: Lots of Ask HNs again](https://news.ycombinator.com/item?id=50649864)**
+  `▲ 407 pts` &nbsp;·&nbsp; [💬 155 comments](https://news.ycombinator.com/item?id=50649864) &nbsp;·&nbsp; <sub>by dang</sub>
 
 ---
 
