@@ -1,6 +1,6 @@
 <div align="center">
   <p><code><b>( • ) HACKER NEWS PULSE &nbsp;|&nbsp; AUTOMATED DAILY DIGEST</b></code></p>
-  <h1><b>HN PULSE // 2026-11-27</b></h1>
+  <h1><b>HN PULSE // 2026-11-28</b></h1>
   <p>Curated developer intelligence, trending engineering debates, and community showcases.</p>
 </div>
 
@@ -8,46 +8,46 @@
 
 ### <code>( 01 ) // TOP INTELLIGENCE</code>
 
-- **[GPT 6.2 Astra Solves a Historical Mystery](https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical)**
-  `▲ 208 pts` &nbsp;·&nbsp; [💬 147 comments](https://news.ycombinator.com/item?id=50643158) &nbsp;·&nbsp; <sub>by dr_red_dog</sub>
+- **[Unkernel: Real Linux kernel, compiled to WebAssembly](https://unkernel.dev)**
+  `▲ 363 pts` &nbsp;·&nbsp; [💬 90 comments](https://news.ycombinator.com/item?id=50674218) &nbsp;·&nbsp; <sub>by nreece</sub>
 
-- **[Credit card skimming scripts using WebRTC found on popular shopping sites](https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer)**
-  `▲ 362 pts` &nbsp;·&nbsp; [💬 197 comments](https://news.ycombinator.com/item?id=50668145) &nbsp;·&nbsp; <sub>by scanr</sub>
+- **[Loom seamlessly combines weaving, knitting and braiding](https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding)**
+  `▲ 139 pts` &nbsp;·&nbsp; [💬 15 comments](https://news.ycombinator.com/item?id=50632052) &nbsp;·&nbsp; <sub>by PaulHoule</sub>
 
-- **[Convex skills send the user's app idea to a remote server without telling them](https://github.com/convex/convex-backend-skill/issues/64)**
-  `▲ 195 pts` &nbsp;·&nbsp; [💬 56 comments](https://news.ycombinator.com/item?id=50669765) &nbsp;·&nbsp; <sub>by MickyTheMouse</sub>
+- **[Google's DeepCrossAttention achieves comparable model quality up to 3x faster](https://research.google/blog/supercharging-transformer-residual-connections/)**
+  `▲ 433 pts` &nbsp;·&nbsp; [💬 161 comments](https://news.ycombinator.com/item?id=50672565) &nbsp;·&nbsp; <sub>by ComputedCamp995</sub>
 
-- **[9/UX: a Macintosh-inspired desktop for 9front](https://progrium.github.io/9ux/)**
-  `▲ 32 pts` &nbsp;·&nbsp; [💬 6 comments](https://news.ycombinator.com/item?id=50672008) &nbsp;·&nbsp; <sub>by rbanffy</sub>
+- **[Knuth: Moratorium on Error Reports](https://www-cs-faculty.stanford.edu/~knuth/moratorium.html)**
+  `▲ 134 pts` &nbsp;·&nbsp; [💬 62 comments](https://news.ycombinator.com/item?id=50674452) &nbsp;·&nbsp; <sub>by ultraficial</sub>
 
-- **[Citroën Hydraulic System](https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html)**
-  `▲ 96 pts` &nbsp;·&nbsp; [💬 37 comments](https://news.ycombinator.com/item?id=50662313) &nbsp;·&nbsp; <sub>by o4c</sub>
+- **[The Balatro Timeline](https://localthunk.com/blog/balatro-timeline-3aarh)**
+  `▲ 394 pts` &nbsp;·&nbsp; [💬 100 comments](https://news.ycombinator.com/item?id=50657346) &nbsp;·&nbsp; <sub>by sheepscreek</sub>
 
 ---
 
 ### <code>( 02 ) // SHOW HN (NEW TOOLS)</code>
 
 - **[Show HN: bouncemarket – a live prediction market game for a bouncing ball](https://bouncemarket.minhanhday.com/)**
-  `▲ 313 pts` &nbsp;·&nbsp; [💬 106 comments](https://news.ycombinator.com/item?id=50667726) &nbsp;·&nbsp; <sub>by mday404</sub>
+  `▲ 381 pts` &nbsp;·&nbsp; [💬 128 comments](https://news.ycombinator.com/item?id=50667726) &nbsp;·&nbsp; <sub>by mday404</sub>
 
-- **[Show HN: DragDropMath – Learn math by feel](https://dragdropmath.com/)**
-  `▲ 75 pts` &nbsp;·&nbsp; [💬 17 comments](https://news.ycombinator.com/item?id=50669673) &nbsp;·&nbsp; <sub>by ziofill</sub>
+- **[Show HN: Fleetlayer – Framework for running many AI agents on multiple machines](https://fleetlayer.ai/)**
+  `▲ 7 pts` &nbsp;·&nbsp; [💬 2 comments](https://news.ycombinator.com/item?id=50675831) &nbsp;·&nbsp; <sub>by nathan_f77</sub>
 
 - **[Show HN: Analysis of Hacker News predictions since 2008](https://hnpredictions.com/)**
-  `▲ 36 pts` &nbsp;·&nbsp; [💬 47 comments](https://news.ycombinator.com/item?id=50633531) &nbsp;·&nbsp; <sub>by mv4</sub>
+  `▲ 98 pts` &nbsp;·&nbsp; [💬 77 comments](https://news.ycombinator.com/item?id=50633531) &nbsp;·&nbsp; <sub>by mv4</sub>
 
 ---
 
 ### <code>( 03 ) // ASK HN (DISCUSSIONS)</code>
 
-- **[Ask HN: Users asking to remove their commits under GDPR](https://news.ycombinator.com/item?id=50672053)**
-  `▲ 4 pts` &nbsp;·&nbsp; [💬 1 comments](https://news.ycombinator.com/item?id=50672053) &nbsp;·&nbsp; <sub>by punkpeye</sub>
-
-- **[Ask HN: Isn't it time we promote conversation rather than d*wnr*nking it?](https://news.ycombinator.com/item?id=50671974)**
-  `▲ 4 pts` &nbsp;·&nbsp; [💬 4 comments](https://news.ycombinator.com/item?id=50671974) &nbsp;·&nbsp; <sub>by bbor</sub>
+- **[The Riemann Hypothesis proof written out as readable papers](https://news.ycombinator.com/item?id=50674717)**
+  `▲ 12 pts` &nbsp;·&nbsp; [💬 1 comments](https://news.ycombinator.com/item?id=50674717) &nbsp;·&nbsp; <sub>by dtrejopizzo</sub>
 
 - **[Tell HN: Happy Thanksgiving](https://news.ycombinator.com/item?id=50655664)**
-  `▲ 718 pts` &nbsp;·&nbsp; [💬 157 comments](https://news.ycombinator.com/item?id=50655664) &nbsp;·&nbsp; <sub>by ericmay</sub>
+  `▲ 720 pts` &nbsp;·&nbsp; [💬 157 comments](https://news.ycombinator.com/item?id=50655664) &nbsp;·&nbsp; <sub>by ericmay</sub>
+
+- **[Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?](https://news.ycombinator.com/item?id=50630809)**
+  `▲ 477 pts` &nbsp;·&nbsp; [💬 362 comments](https://news.ycombinator.com/item?id=50630809) &nbsp;·&nbsp; <sub>by weli</sub>
 
 ---
 
